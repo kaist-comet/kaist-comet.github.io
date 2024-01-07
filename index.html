@@ -1,38 +1,110 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Under Construction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            text-align: center;
-            padding: 100px;
-        }
-        
-        .container {
-            background-color: #ffffff;
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        
-        h1 {
-            color: #333;
-        }
-        
-        p {
-            color: #777;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Under Construction</h1>
-        <p>권창현 교수 연구실 홈페이지입니다. 작업중입니다.</p>
-        <p>Please visit <a href="https://www.chkwon.net">www.chkwon.net</a>.</p>
-    </div>
-</body>
-</html>
+---
+layout: page
+title: About
+permalink: /
+tags: menu
+weight: 1
+---
+
+
+The Computational Optimization Methods (COMET) Lab is a research group led by Dr. Changhyun Kwon in the <a href="https://ise.kaist.ac.kr">Department of Industrial and Systems Engineering</a> at <a href="https://www.kaist.ac.kr">KAIST</a>.
+
+
+<h1></h1>
+<h1> Research Areas</h1>
+	<ul>
+		<li>Applications:
+			<ul>
+				<li>Last-Mile Delivery, Logistics, Vehicle Routing Problems</li>
+				<li>Shared Mobility, Sustainable Transportation</li>
+				<li>Network Equilibrium, Congestion Pricing</li>
+				<li>Risk Management in Transportation Systems, Hazardous Materials Transportation</li>
+				<li>Human-Infrastructure Interaction, Modeling Human Behavior, Bounded Rationality, Satisficing</li>
+			</ul>
+		</li>
+		<li>Methodology:
+			<ul>
+				<li>Computational Methods</li>
+				<li>Large-Scale Optimization, Robust Optimization, Bi-level Optimization</li>
+				<li>Deep Reinforcement Learning, Neural Combinatorial Optimization</li>
+				<li>Computational Game Theory, Market Design, Combinatorial Auction, Stable Matching</li>
+			</ul>
+		</li>
+	</ul>
+
+
+
+	<figure>
+		<center>
+		<img src="/images/diagram.png" width="95%" align="center" hspace="20" alt="Research Areas of COMET" style="max-width: 100%;"/>
+		<figcaption><b>(Research Areas)</b></figcaption>
+		</center>
+	</figure>
+
+<h1>Contact</h1>
+<ul>
+	<li>Office:  E2-1 #4210</li>
+	<li>Email: <script>kaist_email('chkwon');</script></li>
+	<li>Phone: +82-42-350-3138</li>
+
+	<li>Mailing Address:</li>
+		<br>
+		<p>
+		Changhyun Kwon <br>
+		KAIST, E2-1, #4210<br>
+		291 Daehak-ro, <br>
+		Yuseong-gu, Daejeon 34141, <br>
+		Republic of Korea
+		</p>
+
+		<p>
+		대전광역시 유성구 대학로 291<br>
+		E2-1 산업경영학동 4210호<br>
+		34141
+		</p>
+
+
+<!-- * 카카오맵 - 지도퍼가기 -->
+<!-- 1. 지도 노드 -->
+<div id="daumRoughmapContainer1687289457880" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+<!--
+	2. 설치 스크립트
+	* 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
+-->
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+<!-- 3. 실행 스크립트 -->
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1687289457880",
+		"key" : "2f9j8",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>
+
+		<a href="https://naver.me/G6DdAu0o" target="_blank">Map</a>
+	<!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/usf-logo.svg" width="270" />
+	<br> -->
+	<br><br><br>
+
+</ul>
+
+<br><br>
+
+<!--
+
+Hello $$a^2+b^2=c^2$$
+
+Hello \\[a^2 + \sum_{i=1}^n x_i = 33 \\]
+
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %} -->

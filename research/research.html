@@ -1,0 +1,130 @@
+---
+layout: page
+title: Research
+permalink: /research/
+tags: menu
+weight: 2
+---
+
+<link rel="stylesheet" href="research.css">
+
+<figure>
+	<center>
+	  <div class='wordcloud_div'>
+		  <svg id="wordcloud" width="800" height="500"
+		  viewBox="0 0 800 500"
+		  preserveAspectRatio="xMidYMid meet">
+		  </svg>
+	  </div>
+	  <figcaption><b>(keywords from all publications)</b></figcaption>
+	</center>
+</figure>
+
+
+
+
+<hr>
+
+<h3>Publication Tag Selector (only applies to journal articles)</h3>
+
+<button class="button-primary" onclick="highlight_button(this); articleDisplay('all');">All</button>
+<button onclick="highlight_button(this); articleDisplay('selected');">Ten Selected</button>
+<button onclick="highlight_button(this); articleDisplay('bilevel');">Bilevel Optimization</button>
+<button onclick="highlight_button(this); articleDisplay('robust');">Robust Optimization</button>
+<button onclick="highlight_button(this); articleDisplay('equilibrium');">Equilibrium</button>
+
+
+<button onclick="highlight_button(this); articleDisplay('network-design');">Network Design</button>
+<button onclick="highlight_button(this); articleDisplay('location');">Locations</button>
+<button onclick="highlight_button(this); articleDisplay('pricing');">Pricing</button>
+<button onclick="highlight_button(this); articleDisplay('routing');">Routing</button>
+<button onclick="highlight_button(this); articleDisplay('learning');">Learning</button>
+<button onclick="highlight_button(this); articleDisplay('neural');">Neural</button>
+
+<button onclick="highlight_button(this); articleDisplay('hazmat');">Hazards</button>
+<button onclick="highlight_button(this); articleDisplay('behavior');">Behaviors</button>
+<button onclick="highlight_button(this); articleDisplay('equity');">Equity</button>
+<button onclick="highlight_button(this); articleDisplay('advertisement');">Advertisement</button>
+<button onclick="highlight_button(this); articleDisplay('markets');">Markets / Bargaining</button>
+
+
+<button onclick="highlight_button(this); articleDisplay('shared');">Shared Mobility</button>
+<button onclick="highlight_button(this); articleDisplay('ev');">Electric Vehicles</button>
+<button onclick="highlight_button(this); articleDisplay('autonomous');">Autonomous Vehicles</button>
+
+
+<script type="text/javascript">
+	$( document ).ready(function() {
+		articleDisplay('all');
+
+		$( "a[class~='klink']" ).text( function() {
+			code = $( this ).data('code');
+			type = $( this ).data('type');
+			switch (type) {
+				case 'arXiv':
+				case 'ssrn':
+				case 'doi':
+					return type + ":" + code;
+				case 'github':
+				case 'pdf':
+				default:
+					return type;
+			}
+
+		}).attr('target','_blank');
+
+		$( "a[class~='article_title']" ).attr('target', '_blank');
+		
+		// $( "a[class~='klink']" ).hover(
+		// 	function() {
+		// 		code = $( this ).data('code');
+		// 		code = "<span class='kcode'>" + code + "</span>";
+
+		// 		$( this ).parent().append( code );
+		// 	}, function() {
+		// 		$( this ).parent().find( "span" ).last().fadeOut(500);
+		// 		$( this ).parent().find( "span" ).remove();
+		// 	}
+		// );
+	});
+
+
+
+	function highlight_button(btn) {
+		$( "button" ).removeClass('button-primary');
+		$(btn).addClass('button-primary');
+	}
+
+    function articleDisplay(category){
+		if ( category == "all" ) {
+			$( "ol[class='myarticles']" ).children().fadeIn(1000)
+		} else if ( category == "markets" ) {
+			$( "ol[class='myarticles']" ).children().css('display','none');
+			$( "ol[class='myarticles']" ).children( "[class~='bargaining']" ).fadeIn(1000);
+			$( "ol[class='myarticles']" ).children( "[class~='contract']" ).fadeIn(1000);
+			$( "ol[class='myarticles']" ).children( "[class~='market-design']" ).fadeIn(1000);
+		} else {
+			$( "ol[class='myarticles']" ).children().css('display','none');
+			$( "ol[class='myarticles']" ).children( "[class~=" + category + "]" ).fadeIn(1000);
+		}
+    }
+</script>
+
+
+{% include pub_web_body.html %}
+
+
+
+<script src="/lib/d3/d3.js" charset="utf-8"></script>
+<script src="/lib/d3/d3.layout.cloud.js"></script>
+<script src="/lib/d3.wordcloud.js"></script>
+
+
+<script src="/lib/wordcloud.js"></script>
+
+
+
+
+
+
+

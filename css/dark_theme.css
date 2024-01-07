@@ -1,0 +1,77 @@
+@media (prefers-color-scheme: dark) {
+    body{
+      background-color: #292929;
+      color: #ddd;
+    }
+  
+    p {
+      color: #ddd;
+    }
+  
+    .site-header a {
+      color: #ccc;
+    }
+  
+    a {
+      color: #648dae;
+    }
+  
+    a span.ecrm-0700,
+    a span.ecrm-0800,
+    .abstract_button {
+      color: #ddd;
+    }
+  
+    a:hover,
+    a:focus,
+    a:active,
+    a span.ecrm-0700:hover,
+    a span.ecrm-0800:hover  {
+      color: #90caf9;
+      text-decoration: none;
+      background-image: linear-gradient(to top,
+        rgba(0,0,0,0) 13%,
+        rgba($link-hover-color,.8) 13%,
+        rgba($link-hover-color,.8) 17%,
+        rgba(0,0,0,0) 17%
+      );
+    }
+    .site-header nav a {
+      color: #aaa;
+    }
+  
+    .site-header nav a:hover,
+    .site-header nav a:focus,
+    .site-header nav a:active {
+      color: #bbb;
+      opacity: 1;
+      border-bottom: 2px solid #bbb;
+    }
+  
+    footer {
+      background-color: #292929;
+      color: #aaa;
+    }
+  
+    .wordcloud_div {
+      background-color: #bbb;
+    }
+  
+    .nav-item {
+        color: #bbb;
+    }
+    .nav-item:hover {
+        color: #fff;
+    }
+  
+    button {
+        color: #bbb;
+    }
+    button:hover {
+        color: #eee;
+    }
+    button.button-primary {
+        border-color: #0a3361;
+        background-color: #154883;
+    }
+  }
