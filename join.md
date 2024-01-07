@@ -10,7 +10,7 @@ The main research interests are at the intersection of the three areas of Transp
 
 <figure>
 	<center>
-	<img src="/images/diagram.png" width="95%" align="center" hspace="20" alt="Changhyun Kwon 2021" style="max-width: 100%;"/>
+	<img src="/images/diagram.jpg" width="95%" align="center" hspace="20" alt="Changhyun Kwon 2021" style="max-width: 100%;"/>
 	</center>
 </figure>
 
