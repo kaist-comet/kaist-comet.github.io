@@ -22,7 +22,7 @@ Introducing the current members of the COMET Lab.
 
 ### Changhyun Kwon (권창현)
 
-| <img src="/people/images/kwon3.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;"/> | [Dr. Changhyun Kwon](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving operational problems arising in urban logistics, mobility, and services. He received his PhD and MS in Industrial Engineering from Penn State, and BS in Mechanical Engineering from KAIST. [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(ORCID)](https://orcid.org/0000-0001-8455-6396) [(ResearcherID)](https://publons.com/researcher/AAP-9677-2020/) |
+| <img src="/people/images/kwon3.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;"/> | [Dr. Changhyun Kwon](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving operational problems arising in urban logistics, mobility, and services. He received his PhD and MS in Industrial Engineering from Penn State, and BS in Mechanical Engineering from KAIST. <br><br> [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(ORCID)](https://orcid.org/0000-0001-8455-6396) [(ResearcherID)](https://publons.com/researcher/AAP-9677-2020/) |
 
 
 ### Merve Doganbas (메르베 도간바스)
@@ -32,7 +32,7 @@ Introducing the current members of the COMET Lab.
 
 ### Hyeonah Kim (김현아)
 
-| <img src="/people/images/hyeonah_kim.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;" /> | [Hyeonah Kim](https://www.linkedin.com/in/hyeonah-kimm/) is a Ph.D. candidate in the ISysE Department at KAIST. She received her MS in Industrial Engineering from Seoul National Univ. and her BS in Industrial Engineering from Hanyang Univ. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and is co-advised by Professor Changhyun Kwon. [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
+| <img src="/people/images/hyeonah_kim.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;" /> | [Hyeonah Kim](https://www.linkedin.com/in/hyeonah-kimm/) is a Ph.D. candidate in the ISysE Department at KAIST. She received her MS in Industrial Engineering from Seoul National Univ. and her BS in Industrial Engineering from Hanyang Univ. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and is co-advised by Professor Changhyun Kwon. <br><br> [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
 
 
 ### Yoonju Sim (심윤주)
