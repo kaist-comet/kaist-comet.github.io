@@ -38,3 +38,4 @@ If you need some introductions to Julia, read the book, [Julia Programming for 
 # LaTeX Templates
 
 - [LaTeX-Paper-Template](https://github.com/kaist-comet/LaTeX-Paper-Template) - also a tutorial
+- [KAIST-Beamer-Template](https://github.com/kaist-comet/KAIST-Beamer-Template) - slides and posters
