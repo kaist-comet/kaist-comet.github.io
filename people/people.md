@@ -22,53 +22,47 @@ Introducing the current members of the COMET Lab.
 
 ### Changhyun Kwon (권창현)
 
-| <img src="/people/images/kwon3.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;"/> | [Dr. Changhyun Kwon](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving operational problems arising in urban logistics, mobility, and services. He received his PhD and MS in Industrial Engineering from Penn State, and BS in Mechanical Engineering from KAIST. <br><br> [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(ORCID)](https://orcid.org/0000-0001-8455-6396) [(ResearcherID)](https://publons.com/researcher/AAP-9677-2020/) |
+| <img src="/people/images/kwon3.jpg" class="profile" /> [Dr. Changhyun Kwon](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving operational problems arising in urban logistics, mobility, and services. He received his PhD and MS in Industrial Engineering from the Pennsylvania State University, and BS in Mechanical Engineering from KAIST. <br><br> [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(ORCID)](https://orcid.org/0000-0001-8455-6396) [(ResearcherID)](https://publons.com/researcher/AAP-9677-2020/) |
 
 
-### Merve Doganbas (메르베 도간바스)
+### Merve Doganbas
 
-| <img src="/people/images/merve.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;" /> | [Merve Doganbas](https://www.linkedin.com/in/mervedoganbas/) is a Ph.D. candidate in the ISysE Department at KAIST. She received her MS in ISysE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is [Professor Hayong Shin](http://sal.kaist.ac.kr/?page_id=19) and is co-advised by Professor Changhyun Kwon. |
+| <img src="/people/images/merve.jpg" class="profile" /> [Merve Doganbas](https://www.linkedin.com/in/mervedoganbas/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is [Professor Hayong Shin](http://sal.kaist.ac.kr/?page_id=19) and is co-advised by Professor Changhyun Kwon. |
 
 
 ### Hyeonah Kim (김현아)
 
-| <img src="/people/images/hyeonah_kim.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;" /> | [Hyeonah Kim](https://www.linkedin.com/in/hyeonah-kimm/) is a Ph.D. candidate in the ISysE Department at KAIST. She received her MS in Industrial Engineering from Seoul National Univ. and her BS in Industrial Engineering from Hanyang Univ. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and is co-advised by Professor Changhyun Kwon. <br><br> [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
+| <img src="/people/images/hyeonah_kim.jpg" class="profile" /> [Hyeonah Kim](https://www.linkedin.com/in/hyeonah-kimm/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in Industrial Engineering from Seoul National Univ. and her BS in Industrial Engineering from Hanyang Univ. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and is co-advised by Professor Changhyun Kwon. <br><br> [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
 
 
 ### Yoonju Sim (심윤주)
 
-| <img src="/people/images/yoonju_sim.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;" /> | [Yoonju Sim](https://www.linkedin.com/in/yoonju-sim/) is a master's student in the ISysE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include optimization, machine learning, and reinforcement learning. |
+| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim](https://www.linkedin.com/in/yoonju-sim/) is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include optimization, machine learning, and reinforcement learning. |
 
 
 ### Doyoung Lee (이도영)
 
-| <img src="/people/images/doyoung_lee.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;" /> |  [Doyoung Lee](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISysE Department at KAIST. He received a BS degree in Industrial Engineering from KyungHee University. His current research interests include the optimization of transportation networks utilizing exact and robust & heuristic methods, as well as reinforcement learning techniques. |
+| <img src="/people/images/doyoung_lee.jpg" class="profile" />  [Doyoung Lee](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from KyungHee University. His current research interests include the optimization of transportation networks utilizing exact and robust & heuristic methods, as well as reinforcement learning techniques. |
 
 
 ### Junpyo Lee (이준표)
 
-| <img src="/people/images/junpyo_lee.jpg" width="150" align="left" hspace="20" style="border: 1px gray solid;" /> | [Junpyo Lee](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISysE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. |
-
-
-
-
-
+| <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. |
 
 
 ### Sasan Mahmoudi
 
-| <img src="/people/images/sasan.jpg" width="150" height="200" align="left" hspace="20" style="border: 1px gray solid;" /> | [Sasan Mahmoudi](https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/) is a doctoral student in the IMSE Department at USF. He earned a Bachelor of Science in Industrial Engineering from Sharif University of Technology, Iran in 2011 and a Master of Science in Industrial Engineering from the same institution in 2014. His current research interests include the optimization of transportation networks utilizing exact and heuristic methods, as well as Machine Learning (ML) techniques such as Reinforcement Learning. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
-
+| <img src="/people/images/sasan.jpg" class="profile" /> [Sasan Mahmoudi](https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/) is a doctoral student in the IMSE Department at USF. He earned a Bachelor of Science in Industrial Engineering from Sharif University of Technology, Iran in 2011 and a Master of Science in Industrial Engineering from the same institution in 2014. His current research interests include the optimization of transportation networks utilizing exact and heuristic methods, as well as Machine Learning (ML) techniques such as Reinforcement Learning. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
 
 
 ### Abhay Sobhanan
 
-| <img src="/people/images/abhay.jpg" width="150" height="200" align="left" hspace="20" style="border: 1px gray solid;" /> | [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan) is a PhD student at the IMSE Department, USF. He received his BS-MS dual degree in Mathematics from National Institute of Technology Agartala, India in 2019. His current research interests include optimization of transportation networks using exact and heuristic methods. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
+| <img src="/people/images/abhay.jpg" class="profile" /> [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan) is a PhD student at the IMSE Department, USF. He received his BS-MS dual degree in Mathematics from National Institute of Technology Agartala, India in 2019. His current research interests include optimization of transportation networks using exact and heuristic methods. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
 
 
 ## Undergraduate Researchers
-- 안병준, KAIST ISE, 2023 Winter, Topics: the pickup-and-delivery problem, dynamic programming
-- 한상일, POSTECH IME, 2023 Winter, Topics: rounded capacity inequalities, simulated annealing
+- [ByeongJun An (안병준)](https://www.linkedin.com/in/병준-안-2571132a6/), KAIST ISE, 2023 Winter, Topics: the pickup-and-delivery problem, dynamic programming
+- [Sangil Han (한상일)](https://www.linkedin.com/in/sangil-han-2879b4222/), POSTECH IME, 2023 Winter, Topics: rounded capacity inequalities, simulated annealing
 
 
 ## Past Members
