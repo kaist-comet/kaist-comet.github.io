@@ -44,6 +44,15 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim](https://www.linkedin.com/in/yoonju-sim/) is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include optimization, machine learning, and reinforcement learning. |
 
+## Jae Hyeok Lee (이재혁)
+
+| <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> Jae Hyeok Lee ... |
+
+## Jihye Na (나지혜)
+
+| <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include optimization, machine learning, and reinforcement learning. |
+
+
 ### Sasan Mahmoudi
 
 | <img src="/people/images/sasan.jpg" class="profile" /> [Sasan Mahmoudi](https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/) is a doctoral student in the IMSE Department at USF. He earned a Bachelor of Science in Industrial Engineering from Sharif University of Technology, Iran in 2011 and a Master of Science in Industrial Engineering from the same institution in 2014. His current research interests include the optimization of transportation networks utilizing exact and heuristic methods, as well as Machine Learning (ML) techniques such as Reinforcement Learning. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
