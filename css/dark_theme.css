@@ -54,9 +54,18 @@
     }
   
     .wordcloud_div {
-      background-color: #bbb;
+      background-color: #333;
     }
   
+    .site-title {
+      color: #bbb;  
+    }
+    /* #5FBEEB #1487C8 */
+    .site-nav {
+      border-top: 1px solid #bbb; 
+      border-bottom: 1px solid #bbb; 
+    }
+
     .nav-item {
         color: #bbb;
     }

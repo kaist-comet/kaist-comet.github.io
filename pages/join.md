@@ -14,7 +14,7 @@ The main research interests are at the intersection of the three areas of Transp
 	</center>
 </figure>
 
-Please check the [research](/research) page for publications.
+Please check the [publications](/publications) page for latest research outcomes.
 
 Students are expected to have interests in studying mathematical optimization theories, devising computational methods, and developing efficient computer codes using Python, Julia, and C/C++.
 Relevant subjects are:

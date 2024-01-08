@@ -6,9 +6,13 @@ tags: menu
 weight: 5
 ---
 
-
-
-<a href="https://github.com/kaist-comet"><img src="/images/github-mark.svg" width="100"></a>
+<a target="_blank" href="https://github.com/kaist-comet">
+    <picture>
+    <source srcset="/images/github-mark-light.svg" media="(prefers-color-scheme: light)"/>
+    <source srcset="/images/github-mark-dark.svg"  media="(prefers-color-scheme: dark)"/>
+    <img src="light-image.png" />
+    </picture>
+</a>
 
 
 # Julia Packages
