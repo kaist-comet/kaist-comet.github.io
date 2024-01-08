@@ -174,7 +174,9 @@ p {
   /* font-weight: 300; */
   font-weight: 500;
   /* letter-spacing: .2rem; */
+  color: #004191;
   text-transform: uppercase;
+  font-size: 4.0rem;
 }
 .site-header {
   font-family: 'Raleway', sans-serif;  
@@ -188,14 +190,15 @@ p {
 }
 .nav-item {
   text-transform: uppercase;
-  font-size: 1.2rem;
-  font-family: 'Montserrat', 'Raleway', sans-serif;  
+  font-size: 2rem;
+  font-family: 'Montserrat', 'Raleway', sans-serif;
+  font-weight: 500;
   letter-spacing: .2rem;
   margin-left: 15px;
   margin-right: 15px;
   text-decoration: none;
   line-height: 4.5rem;
-  color: #222; 
+  color: #004191; 
 }
   
 
