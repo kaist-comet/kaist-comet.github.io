@@ -28,7 +28,7 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/hyeonah_kim.jpg" class="profile" /> [Hyeonah Kim](https://www.linkedin.com/in/hyeonah-kimm/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in Industrial Engineering from Seoul National Univ. and her BS in Industrial Engineering from Hanyang Univ. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and is co-advised by Professor Changhyun Kwon. <br><br> [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
 
-### Merve Doganbas
+### Merve Doganbas (Merve Doğanbaş, 메르베 도안바시)
 
 | <img src="/people/images/merve.jpg" class="profile" /> [Merve Doganbas](https://www.linkedin.com/in/mervedoganbas/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is [Professor Hayong Shin](http://sal.kaist.ac.kr/?page_id=19) and is co-advised by Professor Changhyun Kwon. |
 
