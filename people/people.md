@@ -26,23 +26,31 @@ Introducing the current members of the COMET Lab.
 
 ### Hyeonah Kim (김현아)
 
-| <img src="/people/images/hyeonah_kim.jpg" class="profile" /> [Hyeonah Kim](https://www.linkedin.com/in/hyeonah-kimm/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in Industrial Engineering from Seoul National Univ. and her BS in Industrial Engineering from Hanyang Univ. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and is co-advised by Professor Changhyun Kwon. <br><br> [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
+| <img src="/people/images/hyeonah_kim.jpg" class="profile" /> [Hyeonah Kim](https://www.linkedin.com/in/hyeonah-kimm/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in Industrial Engineering from Seoul National Univ. and her BS in Industrial Engineering from Hanyang Univ. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and has been co-advised by Professor Changhyun Kwon since 2023. <br><br> [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
 
 ### Merve Doganbas (Merve Doğanbaş, 메르베 도안바시)
 
-| <img src="/people/images/merve.jpg" class="profile" /> [Merve Doganbas](https://www.linkedin.com/in/mervedoganbas/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is [Professor Hayong Shin](http://sal.kaist.ac.kr/?page_id=19) and is co-advised by Professor Changhyun Kwon. |
+| <img src="/people/images/merve.jpg" class="profile" /> [Merve Doganbas](https://www.linkedin.com/in/mervedoganbas/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is [Professor Hayong Shin](http://sal.kaist.ac.kr/?page_id=19) and has been co-advised by Professor Changhyun Kwon since 2023. |
 
 ### Doyoung Lee (이도영)
 
-| <img src="/people/images/doyoung_lee.jpg" class="profile" />  [Doyoung Lee](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from KyungHee University. His current research interests include the optimization of transportation networks utilizing exact and robust & heuristic methods, as well as reinforcement learning techniques. |
+| <img src="/people/images/doyoung_lee.jpg" class="profile" />  [Doyoung Lee](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from KyungHee University. His current research interests include the optimization of transportation networks utilizing exact and robust & heuristic methods, as well as reinforcement learning techniques. He joined COMET in 2023. |
 
 ### Junpyo Lee (이준표)
 
-| <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. |
+| <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. He joined COMET in 2023. |
 
 ### Yoonju Sim (심윤주)
 
-| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim](https://www.linkedin.com/in/yoonju-sim/) is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include optimization, machine learning, and reinforcement learning. |
+| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim](https://www.linkedin.com/in/yoonju-sim/) is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
+
+### Jaehyeok Lee (이재혁)
+
+| <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> [Jaehyeok Lee](https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/) is a master’s student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include mathematical optimization, reinforcement learning, and quantum computing. He joined COMET in 2024. |
+
+### Jihye Na (나지혜)
+
+| <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. |
 
 ### Sasan Mahmoudi
 
@@ -55,8 +63,8 @@ Introducing the current members of the COMET Lab.
 
 
 ## Undergraduate Researchers
-- [ByeongJun An (안병준)](https://www.linkedin.com/in/병준-안-2571132a6/), KAIST ISE, 2023 Winter, Topics: the pickup-and-delivery problem, dynamic programming
-- [Sangil Han (한상일)](https://www.linkedin.com/in/sangil-han-2879b4222/), POSTECH IME, 2023 Winter, Topics: rounded capacity inequalities, simulated annealing
+- [ByeongJun An (안병준)](https://www.linkedin.com/in/병준-안-2571132a6/), KAIST ISE, 2023 Winter, Topics: pickup-and-delivery problems, dynamic programming
+- [Sangil Han (한상일)](https://www.linkedin.com/in/sangil-han-2879b4222/), POSTECH IME, 2023 Winter, Topics: cut separation problems, simulated annealing
 
 
 ## Past Members
