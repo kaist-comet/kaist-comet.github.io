@@ -471,9 +471,13 @@ img.profile {
   border: 1px gray solid;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   img.profile {
     width: 100px;
+  }
+  figure {
+    margin: 0px; 
+    padding: 0px;
   }
 } 
 
