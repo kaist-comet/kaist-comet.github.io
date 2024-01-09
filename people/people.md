@@ -44,9 +44,9 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
 
-### Jaehyeok Lee 
+### Jae Hyeok Lee 
 
-| <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> [Jaehyeok Lee (이재혁)](https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/) is a master’s student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include mathematical optimization, reinforcement learning, and quantum computing. He joined COMET in 2024. |
+| <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> [Jae Hyeok Lee (이재혁)](https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/) is a master’s student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include mathematical optimization, reinforcement learning, and quantum computing. He joined COMET in 2024. |
 
 ### Jihye Na 
 
