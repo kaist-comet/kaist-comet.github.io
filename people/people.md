@@ -22,7 +22,7 @@ Introducing the current members of the COMET Lab.
 
 ### Changhyun Kwon 
 
-| <img src="/people/images/kwon3.jpg" class="profile" /> [Dr. Changhyun Kwon (권창현)](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving strategic and operational problems arising in urban logistics, mobility, and services. He received his PhD and MS in Industrial Engineering from the Pennsylvania State University, and BS in Mechanical Engineering from KAIST. <br><br> [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(ORCID)](https://orcid.org/0000-0001-8455-6396) [(ResearcherID)](https://publons.com/researcher/AAP-9677-2020/) |
+| <img src="/people/images/kwon3.jpg" class="profile" /> [Dr. Changhyun Kwon (권창현)](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving strategic and operational problems arising in urban logistics, mobility, and services. He received his PhD and MS in Industrial Engineering from the Pennsylvania State University, and BS in Mechanical Engineering from KAIST. <br><br> [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(ORCID)](https://orcid.org/0000-0001-8455-6396) [(ResearcherID)](https://publons.com/researcher/AAP-9677-2020/) [(GitHub)](https://github.com/chkwon)|
 
 ### Hyeonah Kim 
 
