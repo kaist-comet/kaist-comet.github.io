@@ -8,8 +8,8 @@ weight: 5
 
 <a target="_blank" href="https://github.com/kaist-comet">
     <picture>
-    <source srcset="/images/github-mark-light.svg" media="(prefers-color-scheme: light)"/>
-    <source srcset="/images/github-mark-dark.svg"  media="(prefers-color-scheme: dark)"/>
+    <source srcset="/images/github-mark.svg" media="(prefers-color-scheme: light)"/>
+    <source srcset="/images/github-mark-white.svg"  media="(prefers-color-scheme: dark)"/>
     <img src="light-image.png" />
     </picture>
 </a>
