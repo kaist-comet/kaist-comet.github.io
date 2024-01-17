@@ -59,7 +59,11 @@ Introducing the current members of the COMET Lab.
 
 ### Abhay Sobhanan
 
-| <img src="/people/images/abhay.jpg" class="profile" /> [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan) is a PhD student at the IMSE Department, USF. He received his BS-MS dual degree in Mathematics from National Institute of Technology Agartala, India in 2019. His current research interests include optimization of transportation networks using exact and heuristic methods. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
+| <img src="/people/images/abhay.jpg" class="profile" /> [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan) is a PhD Candidate at the IMSE department, USF. He received his BS-MS dual degree in Mathematics from National Institute of Technology Agartala, India in 2019. His research interests include combinatorial optimization and machine learning. His doctoral research focuses on optimizing large-scale vehicle routing problems, incorporating methodological advancements, and addressing concerns like equitable workload allocation. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
+
+
+
+
 
 
 ## Undergraduate Researchers
