@@ -28,10 +28,6 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/hyeonah_kim.jpg" class="profile" /> [Hyeonah Kim (김현아)](https://www.linkedin.com/in/hyeonah-kimm/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in Industrial Engineering from Seoul National Univ. and her BS in Industrial Engineering from Hanyang Univ. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and has been co-advised by Professor Changhyun Kwon since 2023. <br><br> [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
 
-### Merve Doganbas 
-
-| <img src="/people/images/merve.jpg" class="profile" /> [Merve Doganbas (Merve Doğanbaş, 메르베 도안바시)](https://www.linkedin.com/in/mervedoganbas/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is [Professor Hayong Shin](http://sal.kaist.ac.kr/?page_id=19) and has been co-advised by Professor Changhyun Kwon since 2023. |
-
 ### Doyoung Lee
 
 | <img src="/people/images/doyoung_lee.jpg" class="profile" />  [Doyoung Lee (이도영)](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from KyungHee University. His current research interests include the optimization of transportation networks utilizing exact and robust & heuristic methods, as well as reinforcement learning techniques. He joined COMET in 2023. |
@@ -44,6 +40,10 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
 
+### Merve Doganbas 
+
+| <img src="/people/images/merve.jpg" class="profile" /> [Merve Doganbas (Merve Doğanbaş, 메르베 도안바시)](https://www.linkedin.com/in/mervedoganbas/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is [Professor Hayong Shin](http://sal.kaist.ac.kr/?page_id=19) and has been co-advised by Professor Changhyun Kwon since 2023. |
+
 ### Jae Hyeok Lee 
 
 | <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> [Jae Hyeok Lee (이재혁)](https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/) is a master’s student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include mathematical optimization, reinforcement learning, and quantum computing. He joined COMET in 2024. |
@@ -51,6 +51,10 @@ Introducing the current members of the COMET Lab.
 ### Jihye Na 
 
 | <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na (나지혜)](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. |
+
+### Sohyun Jeong
+
+| <img src="/people/images/sohyun_jeong.jpg" class="profile" /> [Sohyun Jeong (정소현)](https://www.linkedin.com/in/sohyun-jeong-13bb0778/) is a Ph.D. candidate in the GSDS at KAIST. She received her MS in CBE from KAIST and her BS in Chemical Engineering from Rutgers University. She is interested in combinatorial optimization, scheduling, and reinforcement learning. Her primary advisor is [Professor Hyun-Jung Kim](https://msslab.kaist.ac.kr/Professor/professor) and has been co-advised by Professor Changhyun Kwon since 2024. |
 
 ### Sasan Mahmoudi
 
