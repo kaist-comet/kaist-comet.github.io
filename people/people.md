@@ -71,8 +71,10 @@ Introducing the current members of the COMET Lab.
 
 
 ## Undergraduate Researchers
+- [Junhak Lee (이준학)](https://www.linkedin.com/in/준학-이-a68596300/), KAIST ISE, 2024 Spring, Topics: traveling salesman problem, neural networks
 - [ByeongJun An (안병준)](https://www.linkedin.com/in/병준-안-2571132a6/), KAIST ISE, 2023 Winter, Topics: pickup-and-delivery problems, dynamic programming
 - [Sangil Han (한상일)](https://www.linkedin.com/in/sangil-han-2879b4222/), POSTECH IME, 2023 Winter, Topics: cut separation problems, simulated annealing
+
 
 
 ## Past Members
