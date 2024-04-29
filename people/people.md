@@ -56,10 +56,6 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/sohyun_jeong.jpg" class="profile" /> [Sohyun Jeong (정소현)](https://www.linkedin.com/in/sohyun-jeong-13bb0778/) is a Ph.D. candidate in the GSDS at KAIST. She received her MS in CBE from KAIST and her BS in Chemical Engineering from Rutgers University. She is interested in combinatorial optimization, scheduling, and reinforcement learning. Her primary advisor is [Professor Hyun-Jung Kim](https://msslab.kaist.ac.kr/Professor/professor) and has been co-advised by Professor Changhyun Kwon since 2024. |
 
-### Sasan Mahmoudi
-
-| <img src="/people/images/sasan.jpg" class="profile" /> [Sasan Mahmoudi](https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/) is a doctoral student in the IMSE Department at USF. He earned a Bachelor of Science in Industrial Engineering from Sharif University of Technology, Iran in 2011 and a Master of Science in Industrial Engineering from the same institution in 2014. His current research interests include the optimization of transportation networks utilizing exact and heuristic methods, as well as Machine Learning (ML) techniques such as Reinforcement Learning. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
-
 
 ### Abhay Sobhanan
 
@@ -81,6 +77,7 @@ Introducing the current members of the COMET Lab.
 ## Past Members
 
 ### University of South Florida
+- [Sasan Mahmoudinazlou](https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/), Ph.D. 2024, Routing Problems Through the Lens of Hybrid Algorithms (co-advisor [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/))
 - [Xufei Liu](https://www.linkedin.com/in/xufei-liu-973636205/), Ph.D. 2022, Computational Methods for Solving the Combinatorial Optimization Problems in Transportation
 - [Aigerim Bogyrbayeva](https://www.linkedin.com/in/bogyrbayeva/), Ph.D., 2021, Optimization and Machine Learning Methods for Solving Combinatorial Problems in Urban Transportation [(web)](https://sites.google.com/mail.usf.edu/aigerimb)
 - [Zulqarnain Haider](https://www.linkedin.com/in/zulqarnain-haider-63482423), Ph.D., 2020, Using Optimization Methods for Solving Problems in Sustainable Urban Mobility and Conservation Planning ([web](http://eng.usf.edu/~zulqarnain/)) (co-advisor [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/))
