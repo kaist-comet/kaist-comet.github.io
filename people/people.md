@@ -67,6 +67,9 @@ Introducing the current members of the COMET Lab.
 
 
 ## Undergraduate Researchers
+- [JeongYeon Choi (최정연)](https://www.linkedin.com/in/정연-최-364baa313/), KAIST ISE, 2024 Summer, Topics: data science, market design
+- [Sumin Kim (김수민)](https://www.linkedin.com/in/수민-김-60a2a8314/), KAIST ISE, 2024 Summer, Topics: reinforcement learning, hybrid genetic algorithms
+- [Jaehwan Lee (이재환)](https://www.linkedin.com/in/재환-이-878400314/), Yonsei Applied Statistics, 2024 Summer, Topics: reinforcement learning, pickup-and-delivery problems
 - [Sangwoo Cho (조상우)](https://www.linkedin.com/in/상우-조-303b96306/), KAIST ISE, 2024 Summer, Topics: genetic algorithms, combinatorial optimization
 - [Haewon Son (손해원)](https://www.linkedin.com/in/haewon-son-370643306/), KAIST ISE, 2024 Summer, Topics: pickup-and-delivery problems, local search algorithms
 - [Junhak Lee (이준학)](https://www.linkedin.com/in/준학-이-a68596300/), KAIST ISE, 2024 Spring, Topics: traveling salesman problem, neural networks
