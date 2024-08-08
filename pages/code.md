@@ -15,8 +15,11 @@ weight: 5
 </a>
 
 
-# Julia Packages
+# Research Code 
+For many algorithm development research projects, we share our research code publicly on github.com. 
+Please check the [publications](/publications) page and search for `github` links.
 
+# Julia Packages
 Dr. Kwon and members of the COMET Lab wrote some packages for the Julia Language, related to their research.
 If you need some introductions to Julia, read the book, [Julia Programming for Operations Research](https://www.chkwon.net/julia).
 
