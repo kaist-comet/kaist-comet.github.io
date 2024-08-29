@@ -38,7 +38,7 @@ Introducing the current members of the COMET Lab.
 
 ### Yoonju Sim 
 
-| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
+| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
 
 ### Merve Doganbas 
 
@@ -55,6 +55,12 @@ Introducing the current members of the COMET Lab.
 ### Sohyun Jeong
 
 | <img src="/people/images/sohyun_jeong.jpg" class="profile" /> [Sohyun Jeong (정소현)](https://www.linkedin.com/in/sohyun-jeong-13bb0778/) is a Ph.D. candidate in the GSDS at KAIST. She received her MS in CBE from KAIST and her BS in Chemical Engineering from Rutgers University. She is interested in combinatorial optimization, scheduling, and reinforcement learning. Her primary advisor is [Professor Hyun-Jung Kim](https://msslab.kaist.ac.kr/Professor/professor) and has been co-advised by Professor Changhyun Kwon since 2024. |
+
+
+### Taekang Hwang
+
+| <img src="/people/images/taekang_hwang.jpg" class="profile" /> [Taekang Hwang (황태강)](https://www.linkedin.com/in/%ED%83%9C%EA%B0%95-%ED%99%A9-91a8ba202/) is a Ph.D. student in the ISE Department at KAIST. He recieved a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical opitmization, contextual stochastic optimization, and polyhedral combinatorics. He joined COMET in 2024. |
+
 
 
 ### Abhay Sobhanan
