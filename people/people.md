@@ -26,7 +26,7 @@ Introducing the current members of the COMET Lab.
 
 ### Hyeonah Kim 
 
-| <img src="/people/images/hyeonah_kim.jpg" class="profile" /> [Hyeonah Kim (김현아)](https://www.linkedin.com/in/hyeonah-kimm/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in Industrial Engineering from Seoul National University and her BS in Industrial Engineering from Hanyang University. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and has been co-advised by Professor Changhyun Kwon since 2023. <br><br> [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
+| <img src="/people/images/hyeonah_kim.jpg" class="profile" /> [Hyeonah Kim (김현아)](https://www.linkedin.com/in/hyeonahkimm/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in Industrial Engineering from Seoul National University and her BS in Industrial Engineering from Hanyang University. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and has been co-advised by Professor Changhyun Kwon since 2023. <br><br> [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
 
 ### Doyoung Lee
 
