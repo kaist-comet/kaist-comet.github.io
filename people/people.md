@@ -16,6 +16,17 @@ The COMET Lab is seeking new students to join the group; see [here](/join) for d
 {:toc}
 
 
+
+### Core Cultural Values
+
+- **Diversity Fuels Innovation**: We embrace diverse perspectives, fostering an inclusive environment where creativity thrives.
+- **Curiosity Knows No Bounds**: We celebrate curiosity as the driving force behind discovery and progress.
+- **Nerdiness is Our Superpower**: A passion for learning and a love for intellectual exploration define who we are.
+- **We Rise by Lifting Others**: Sharing knowledge, mentoring, and fostering a strong community are central to our mission and joy.
+<!-- - **Mathematics is Our Language, Coding is Our Hammer**: We use mathematical rigor and computational tools as our foundation for problem-solving. -->
+
+
+
 ## Current Members
 
 Introducing the current members of the COMET Lab.
