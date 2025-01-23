@@ -1,0 +1,39 @@
+---
+layout: page
+title: Map Test
+permalink: /map-test/
+---
+
+<script type="text/javascript" src="https://oapi.map.naver.com/openapi/v3/maps.js?ncpClientId=8ri7awhyu9&submodules=panorama"></script>
+
+<!-- 기본 지도
+<div id="map" style="width:100%;height:400px;"></div>
+
+<script>
+var mapOptions = {
+    center: new naver.maps.LatLng(37.3595704, 127.105399),
+    zoom: 10
+};
+
+var map = new naver.maps.Map('map', mapOptions);
+</script> -->
+
+
+파노라마: 대전 중구 석교동 227-24 36.3062715754494, 127.439545564656
+<div id="pano" style="width:100%;height:400px;"></div>
+
+<script>
+
+var panoOptions = {
+    position: new naver.maps.LatLng(36.3062715754494, 127.439545564656),
+    pov: {
+            pan: 0,
+            tilt: 0,
+            fov: 100
+        },
+    flightSpot: true, // 항공 아이콘 표시 여부, default: true
+};
+
+var pano = new naver.maps.Panorama('pano', panoOptions);
+
+</script>
