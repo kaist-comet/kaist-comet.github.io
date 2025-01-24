@@ -73,6 +73,7 @@ Introducing the current members of the COMET Lab.
 | <img src="/people/images/taekang_hwang.jpg" class="profile" /> [Taekang Hwang (황태강)](https://www.linkedin.com/in/%ED%83%9C%EA%B0%95-%ED%99%A9-91a8ba202/) is a Ph.D. student in the ISE Department at KAIST. He recieved a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical opitmization, contextual stochastic optimization, and polyhedral combinatorics. He joined COMET in 2024. |
 
 ### Junhak Lee
+
 | <img src="/people/images/junhak_lee.jpg" class="profile" /> [Junhak Lee (이준학)](https://www.linkedin.com/in/준학-이-a68596300) is a master's student in the GSDS at KAIST. He joined COMET in 2025.|
 
 
@@ -82,6 +83,7 @@ Introducing the current members of the COMET Lab.
 
 ### Sooyeon Choi
 
+| <img src="/people/images/sooyeon_choi.jpg" class="profile" /> [Sooyeon Choi (최수연)]() is a PhD student in the ISE Department at KAIST. She joined COMET in 2025.|
 
 
 ### Abhay Sobhanan
