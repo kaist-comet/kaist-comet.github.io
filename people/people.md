@@ -10,13 +10,7 @@ weight: 2
 The Computational Optimization Methods (COMET) Lab is a research group led by Dr. Changhyun Kwon in the Department of Industrial and Systems Engineering at KAIST.
 
 
-
-* TOC
-{:toc}
-
-
-
-### Core Cultural Values
+**<ins>Core Cultural Values of COMET</ins>**
 
 - **Diversity Fuels Innovation**: We embrace diverse perspectives, fostering an inclusive environment where creativity thrives.
 - **Curiosity Knows No Bounds**: We celebrate curiosity as the driving force behind discovery and progress.
@@ -25,6 +19,14 @@ The Computational Optimization Methods (COMET) Lab is a research group led by Dr
 <!-- - **Mathematics is Our Language, Coding is Our Hammer**: We use mathematical rigor and computational tools as our foundation for problem-solving. -->
 
 The COMET Lab is seeking new students to join the group; see [here](/join) for details.
+
+
+
+
+* TOC
+{:toc}
+
+
 
 
 ## Current Members
