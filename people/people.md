@@ -59,7 +59,7 @@ Introducing the current members of the COMET Lab.
 
 ### Jae Hyeok Lee 
 
-| <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> [Jae Hyeok Lee (이재혁)](https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/) is a master’s student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include mathematical optimization, reinforcement learning, and quantum computing. He joined COMET in 2024. |
+| <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> [Jae Hyeok Lee (이재혁)](https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/) is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include neural combinatorial optimization, GPU computing and quantum computing. He joined COMET in 2024. |
 
 ### Jihye Na 
 
@@ -83,9 +83,9 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/jaehwan_lee.jpg" class="profile" /> [Jaehwan Lee (이재환)](https://www.linkedin.com/in/재환-이-878400314/) is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include neural combinatorial optimization and quantum combinatorial optimization. He joined COMET in 2025.|
 
-### Sooyeon Choi
+### Suyeon Choi
 
-| <img src="/people/images/sooyeon_choi.jpg" class="profile" /> [Sooyeon Choi (최수연)]() is a PhD student in the ISE Department at KAIST. She joined COMET in 2025.|
+| <img src="/people/images/suyeon_choi.jpg" class="profile" /> [Suyeon Choi (최수연)](https://www.linkedin.com/in/suyeon-choi-370909326/) is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and LLM. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025.  She joined COMET in 2025.|
 
 
 ### Abhay Sobhanan
