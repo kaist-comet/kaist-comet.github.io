@@ -1,4 +1,4 @@
-# chkwon.github.io
+# comet.kaist.ac.kr
 
 To install:
 https://jekyllrb.com/docs/installation/macos/
