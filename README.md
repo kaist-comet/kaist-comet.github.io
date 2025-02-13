@@ -1,12 +1,9 @@
 # chkwon.github.io
 
-
+To install:
 https://jekyllrb.com/docs/installation/macos/
 
-
-```
-bundle exec jekyll serve
-```
+To run the web server on your local machine:
 ```
 bundle exec jekyll serve
 ```
