@@ -43,15 +43,15 @@ Introducing the current members of the COMET Lab.
 
 ### Doyoung Lee
 
-| <img src="/people/images/doyoung_lee.jpg" class="profile" />  [Doyoung Lee (이도영)](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from KyungHee University. His current research interests include the optimization of transportation networks utilizing exact and robust & heuristic methods, as well as reinforcement learning techniques. He joined COMET in 2023. |
+<!-- | <img src="/people/images/doyoung_lee.jpg" class="profile" />  [Doyoung Lee (이도영)](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from KyungHee University. His current research interests include the optimization of transportation networks utilizing exact and robust & heuristic methods, as well as reinforcement learning techniques. He joined COMET in 2023. | -->
 
 ### Junpyo Lee 
 
-| <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee (이준표)](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. He joined COMET in 2023. |
+<!-- | <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee (이준표)](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. He joined COMET in 2023. | -->
 
 ### Yoonju Sim 
 
-| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
+<!-- | <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  | -->
 
 ### Merve Doganbas 
 
@@ -63,7 +63,7 @@ Introducing the current members of the COMET Lab.
 
 ### Jihye Na 
 
-| <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na (나지혜)](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. |
+<!-- | <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na (나지혜)](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. | -->
 
 ### Sohyun Jeong
 
@@ -72,20 +72,20 @@ Introducing the current members of the COMET Lab.
 
 ### Taekang Hwang
 
-| <img src="/people/images/taekang_hwang.jpg" class="profile" /> [Taekang Hwang (황태강)](https://www.linkedin.com/in/%ED%83%9C%EA%B0%95-%ED%99%A9-91a8ba202/) is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical opitmization, contextual stochastic optimization, and polyhedral combinatorics. He joined COMET in 2024. |
+<!-- | <img src="/people/images/taekang_hwang.jpg" class="profile" /> [Taekang Hwang (황태강)](https://www.linkedin.com/in/%ED%83%9C%EA%B0%95-%ED%99%A9-91a8ba202/) is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical opitmization, contextual stochastic optimization, and polyhedral combinatorics. He joined COMET in 2024. | -->
 
 ### Junhak Lee
 
-| <img src="/people/images/junhak_lee.jpg" class="profile" /> [Junhak Lee (이준학)](https://www.linkedin.com/in/준학-이-a68596300) is a master's student in the GSDS at KAIST. He received a BS degree in Industrial & Systems Engineering from KAIST. His current interests include combinatorial optimization and graph neural network. He joined COMET in 2025. |
+<!-- | <img src="/people/images/junhak_lee.jpg" class="profile" /> [Junhak Lee (이준학)](https://www.linkedin.com/in/준학-이-a68596300) is a master's student in the GSDS at KAIST. He received a BS degree in Industrial & Systems Engineering from KAIST. His current interests include combinatorial optimization and graph neural network. He joined COMET in 2025. | -->
 
 
 ### Jaehwan Lee
 
-| <img src="/people/images/jaehwan_lee.jpg" class="profile" /> [Jaehwan Lee (이재환)](https://www.linkedin.com/in/재환-이-878400314/) is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include neural combinatorial optimization and quantum combinatorial optimization. He joined COMET in 2025.|
+<!-- | <img src="/people/images/jaehwan_lee.jpg" class="profile" /> [Jaehwan Lee (이재환)](https://www.linkedin.com/in/재환-이-878400314/) is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include neural combinatorial optimization and quantum combinatorial optimization. He joined COMET in 2025.| -->
 
 ### Suyeon Choi
 
-| <img src="/people/images/suyeon_choi.jpg" class="profile" /> [Suyeon Choi (최수연)](https://www.linkedin.com/in/suyeon-choi-370909326/) is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and LLM. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025.  She joined COMET in 2025.|
+<!-- | <img src="/people/images/suyeon_choi.jpg" class="profile" /> [Suyeon Choi (최수연)](https://www.linkedin.com/in/suyeon-choi-370909326/) is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and LLM. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025.  She joined COMET in 2025.| -->
 
 
 ### Abhay Sobhanan
