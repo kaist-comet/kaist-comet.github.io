@@ -43,7 +43,7 @@ Introducing the current members of the COMET Lab.
 
 ### Doyoung Lee
 
-<!-- | <img src="/people/images/doyoung_lee.jpg" class="profile" />  [Doyoung Lee (이도영)](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from KyungHee University. His current research interests include the optimization of transportation networks utilizing exact and robust & heuristic methods, as well as reinforcement learning techniques. He joined COMET in 2023. | -->
+| <img src="/people/images/doyoung_lee.jpg" class="profile" />  [Doyoung Lee (이도영)](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISE Department at KAIST. He received his BS in Industrial Engineering from KyungHee University. His main research interest is Neural Combinatorial Optimization (NCO), leveraging neural networks to develop novel heuristic methods for vehicle routing problems. He joined COMET in 2023. |
 
 ### Junpyo Lee 
 
