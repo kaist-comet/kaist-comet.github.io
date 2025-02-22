@@ -37,9 +37,6 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/kwon3.jpg" class="profile" /> [Dr. Changhyun Kwon (권창현)](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving strategic and operational problems arising in urban logistics, mobility, and services. His current focus is to integrate methods from machine learning and operations research for improving computational efficiencies. He received his PhD and MS in Industrial Engineering from the Pennsylvania State University, and BS in Mechanical Engineering from KAIST. <br><br> [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(GitHub)](https://github.com/chkwon) [(*s.t.* interview)](https://www.youtube.com/watch?v=7YXlT-vBRPg)|
 
-### Hyeonah Kim 
-
-| <img src="/people/images/hyeonah_kim.jpg" class="profile" /> [Hyeonah Kim (김현아)](https://www.linkedin.com/in/hyeonahkimm/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in Industrial Engineering from Seoul National University and her BS in Industrial Engineering from Hanyang University. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and has been co-advised by Professor Changhyun Kwon since 2023. <br><br> [(Personal Page)](https://hyeonahkimm.github.io)  [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
 
 ### Doyoung Lee
 
@@ -112,6 +109,9 @@ Introducing the current members of the COMET Lab.
 
 
 ## Past Members
+
+### KAIST
+- [Hyeonah Kim (김현아)](https://www.linkedin.com/in/hyeonahkimm/), Ph.D. 2025, Algorithmic Priors for Neural Combinatorial Optimization [(web)](https://hyeonahkimm.github.io) (primary advisor [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/)) 
 
 ### University of South Florida
 - [Sasan Mahmoudinazlou](https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/), Ph.D. 2024, Routing Problems Through the Lens of Hybrid Algorithms (co-advisor [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/))
