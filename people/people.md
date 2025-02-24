@@ -44,7 +44,7 @@ Introducing the current members of the COMET Lab.
 
 ### Junpyo Lee 
 
-<!-- | <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee (이준표)](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. He joined COMET in 2023. | -->
+| <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee (이준표)](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. He joined COMET in 2023. |
 
 ### Yoonju Sim 
 
