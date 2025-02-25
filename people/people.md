@@ -37,9 +37,6 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/kwon3.jpg" class="profile" /> [Dr. Changhyun Kwon (권창현)](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving strategic and operational problems arising in urban logistics, mobility, and services. His current focus is to integrate methods from machine learning and operations research for improving computational efficiencies. He received his PhD and MS in Industrial Engineering from the Pennsylvania State University, and BS in Mechanical Engineering from KAIST. <br><br> [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(GitHub)](https://github.com/chkwon) [(*s.t.* interview)](https://www.youtube.com/watch?v=7YXlT-vBRPg)|
 
-### Hyeonah Kim 
-
-| <img src="/people/images/hyeonah_kim.jpg" class="profile" /> [Hyeonah Kim (김현아)](https://www.linkedin.com/in/hyeonahkimm/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in Industrial Engineering from Seoul National University and her BS in Industrial Engineering from Hanyang University. She is interested in combinatorial optimization with deep learning. Her primary advisor is [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/) and has been co-advised by Professor Changhyun Kwon since 2023. <br><br> [(Personal Page)](https://hyeonahkimm.github.io)  [(Google Scholar)](https://scholar.google.com/citations?user=TYYYjckAAAAJ&hl=en)|
 
 ### Doyoung Lee
 
@@ -47,7 +44,7 @@ Introducing the current members of the COMET Lab.
 
 ### Junpyo Lee 
 
-<!-- | <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee (이준표)](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. He joined COMET in 2023. | -->
+| <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee (이준표)](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. He joined COMET in 2023. |
 
 ### Yoonju Sim 
 
@@ -76,17 +73,16 @@ Introducing the current members of the COMET Lab.
 
 ### Junhak Lee
 
-<!-- | <img src="/people/images/junhak_lee.jpg" class="profile" /> [Junhak Lee (이준학)](https://www.linkedin.com/in/준학-이-a68596300) is a master's student in the GSDS at KAIST. He received a BS degree in Industrial & Systems Engineering from KAIST. His current interests include combinatorial optimization and graph neural network. He joined COMET in 2025. | -->
+| <img src="/people/images/junhak_lee.jpg" class="profile" /> [Junhak Lee (이준학)](https://www.linkedin.com/in/준학-이-a68596300) is a master's student in the GSDS at KAIST. He received a BS degree in Industrial & Systems Engineering from KAIST. His current interests include combinatorial optimization and graph neural network. He joined COMET in 2025. |
 
 
 ### Jaehwan Lee
 
-<!-- | <img src="/people/images/jaehwan_lee.jpg" class="profile" /> [Jaehwan Lee (이재환)](https://www.linkedin.com/in/재환-이-878400314/) is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include neural combinatorial optimization and quantum combinatorial optimization. He joined COMET in 2025.| -->
+| <img src="/people/images/jaehwan_lee.jpg" class="profile" /> [Jaehwan Lee (이재환)](https://www.linkedin.com/in/재환-이-878400314/) is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include quantum-classical hybrid algorithms, quantum combinatorial optimization, and neural combinatorial optimization. He joined COMET in 2025. |
 
 ### Suyeon Choi
 
-<!-- | <img src="/people/images/suyeon_choi.jpg" class="profile" /> [Suyeon Choi (최수연)](https://www.linkedin.com/in/suyeon-choi-370909326/) is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and LLM. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025.  She joined COMET in 2025.| -->
-
+| <img src="/people/images/suyeon_choi.jpg" class="profile" /> [Suyeon Choi (최수연)](https://www.linkedin.com/in/suyeon-choi-370909326/) is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025.  She joined COMET in 2025.|
 
 ### Abhay Sobhanan
 
@@ -113,6 +109,9 @@ Introducing the current members of the COMET Lab.
 
 
 ## Past Members
+
+### KAIST
+- [Hyeonah Kim (김현아)](https://www.linkedin.com/in/hyeonahkimm/), Ph.D. 2025, Algorithmic Priors for Neural Combinatorial Optimization [(web)](https://hyeonahkimm.github.io) (primary advisor [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/)) 
 
 ### University of South Florida
 - [Sasan Mahmoudinazlou](https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/), Ph.D. 2024, Routing Problems Through the Lens of Hybrid Algorithms (co-advisor [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/))
