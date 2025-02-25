@@ -84,6 +84,13 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/suyeon_choi.jpg" class="profile" /> [Suyeon Choi (최수연)](https://www.linkedin.com/in/suyeon-choi-370909326/) is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025.  She joined COMET in 2025.|
 
+
+### Keonhee Jang
+
+| <img src="/people/images/keonhee_jang.jpg" class="profile" /> Keonhee Jang (장건희) is a Master's student in the GSDS at KAIST. He received his BS in Psychology with a minor in Sociology from the University of Utah. He is interested in urban accessibility, social interactions in cities, and urban human mobility. His primary advisor is [Professor Yoonjin Yoon](https://spacetime.kaist.ac.kr/people) and has been co-advised by Professor Changhyun Kwon since 2024. |
+
+
+
 ### Abhay Sobhanan
 
 | <img src="/people/images/abhay.jpg" class="profile" /> [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan) is a PhD Candidate at the IMSE department, USF. He received his BS-MS dual degree in Mathematics from National Institute of Technology Agartala, India in 2019. His research interests include combinatorial optimization and machine learning. His doctoral research focuses on optimizing large-scale vehicle routing problems, incorporating methodological advancements, and addressing concerns like equitable workload allocation. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
