@@ -60,7 +60,7 @@ Introducing the current members of the COMET Lab.
 
 ### Jihye Na 
 
-<!-- | <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na (나지혜)](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. | -->
+| <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na (나지혜)](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. |
 
 ### Sohyun Jeong
 
