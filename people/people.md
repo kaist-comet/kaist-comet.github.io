@@ -48,7 +48,7 @@ Introducing the current members of the COMET Lab.
 
 ### Yoonju Sim 
 
-<!-- | <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  | -->
+| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
 
 ### Merve Doganbas 
 
@@ -87,9 +87,11 @@ Introducing the current members of the COMET Lab.
 
 ### Keonhee Jang
 
-| <img src="/people/images/keonhee_jang.jpg" class="profile" /> Keonhee Jang (장건희) is a Master's student in the GSDS at KAIST. He received his BS in Psychology with a minor in Sociology from the University of Utah. He is interested in urban accessibility, social interactions in cities, and urban human mobility. His primary advisor is [Professor Yoonjin Yoon](https://spacetime.kaist.ac.kr/people) and has been co-advised by Professor Changhyun Kwon since 2024. |
+| <img src="/people/images/keonhee_jang.jpg" class="profile" /> Keonhee Jang (장건희) is a master's student in the GSDS at KAIST. He received his BS in Psychology with a minor in Sociology from the University of Utah. He is interested in urban accessibility, social interactions in cities, and urban human mobility. His primary advisor is [Professor Yoonjin Yoon](https://spacetime.kaist.ac.kr/people) and has been co-advised by Professor Changhyun Kwon since 2024. |
 
+### Thi Thao Vy Bui
 
+| <img src="/people/images/vy_bui.jpg" class="profile" /> [Thi Thao Vy Bui (Vy)](https://www.linkedin.com/in/vy-bui-ba0a181aa/) is a master’s student in the ISE department at KAIST. She received a BEng degree in Logistics and Supply Chain Management from HCMC University of Technology (HCMUT). Her research interests include optimization, vehicle routing problems, and humanitarian logistics. She joined COMET in 2025. |
 
 ### Abhay Sobhanan
 
