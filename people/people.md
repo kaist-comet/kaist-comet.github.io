@@ -91,7 +91,7 @@ Introducing the current members of the COMET Lab.
 
 ### Thi Thao Vy Bui
 
-| <img src="/people/images/vy_bui.jpg" class="profile" /> [Thi Thao Vy Bui (Vy)](https://www.linkedin.com/in/vy-bui-ba0a181aa/) is a master’s student in the ISE department at KAIST. She received a BEng degree in Logistics and Supply Chain Management from HCMC University of Technology (HCMUT). Her research interests include optimization, vehicle routing problems, and humanitarian logistics. She joined COMET in 2025. |
+| <img src="/people/images/vy_bui.jpg" class="profile" /> [Thi Thao Vy Bui (Bùi Thị Thảo Vy, 배초위)](https://www.linkedin.com/in/vy-bui-ba0a181aa/) is a master’s student in the ISE department at KAIST. She received a BEng degree in Logistics and Supply Chain Management from HCMC University of Technology (HCMUT). Her research interests include optimization, vehicle routing problems, and humanitarian logistics. She joined COMET in 2025. |
 
 ### Abhay Sobhanan
 
