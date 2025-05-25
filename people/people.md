@@ -103,6 +103,10 @@ Introducing the current members of the COMET Lab.
 
 
 ## Undergraduate Researchers
+<!-- - [Agata Kazakevic (아가타)](https://www.linkedin.com/in/agata-kazakevic/), KAIST ISE, 2025 Fall, Topic: large-scale optimization  -->
+- [Geonwoo Han (한건우)](https://www.linkedin.com/in/geonwoo-han-92a546367/), KAIST CS, 2025 Summer, Topic: large-scale optimization
+- [Minwoo Kim (김민우)](https://www.linkedin.com/in/minuminu/), KAIST ISE, 2025 Summer, Topic: neural combinatorial optimization
+- [Yuil Kim (김유일)](https://www.linkedin.com/in/yuil-kim-b6b872287), KAIST Math Sci, 2025 Summer, Topic: valid inequalities 
 - [Malik Tolegen (말릭 톨레겐)](https://www.linkedin.com/in/malik-tolegen-8a876a21a), KAIST ISE, 2024 Winter, Topic: hybrid genetic algorithms, multiple traveling salesman problem 
 - [Hyungyoon Kim (김형윤)](https://www.linkedin.com/in/형윤-김-159551343/), SNU IE, 2024 Winter, Topics: Probabilistic Study of TSP
 - [Gyutae Park (박규태)](https://www.linkedin.com/in/gyutae-park-b97378343/), KAIST ISE, 2024 Winter, Topics: decomposition-based optimization 
