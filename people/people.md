@@ -69,7 +69,7 @@ Introducing the current members of the COMET Lab.
 
 ### Taekang Hwang
 
-| <img src="/people/images/taekang_hwang.jpg" class="profile" /> [Taekang Hwang (황태강)](www.linkedin.com/in/taekang-hwang-91a8ba202) is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical opitmization, contextual stochastic optimization, and polyhedral combinatorics. He joined COMET in 2024. |
+| <img src="/people/images/taekang_hwang.jpg" class="profile" /> [Taekang Hwang (황태강)](https://www.linkedin.com/in/taekang-hwang-91a8ba202/) is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical opitmization, integer programming and polyhedral combinatorics. He joined COMET in 2024. |
 
 ### Junhak Lee
 
