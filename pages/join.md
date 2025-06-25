@@ -10,7 +10,8 @@ The main research interests are at the intersection of the three areas of Transp
 
 <figure>
 	<center>
-	<img src="/images/diagram.jpg" width="95%" align="center" hspace="20" alt="Changhyun Kwon 2021" style="max-width: 100%;"/>
+	<a href="/images/diagram.pdf"><img src="/images/diagram.png" width="95%" align="center" hspace="20" alt="Research Areas of COMET" style="max-width: 100%;"/></a>
+	<!-- <figcaption><b>(Research Areas)</b></figcaption> -->
 	</center>
 </figure>
 
@@ -47,6 +48,6 @@ Interested students are encouraged to contact Dr. Changhyun Kwon at **chkwon (at
 - [KAIST Office of Admissions](https://admission.kaist.ac.kr)
 - <span style="font-family: 'Do Hyeon'; font-size: 20pt;">대학원생 때 알았더라면 좋았을 것들</span> - <a href="https://gradschoolstory.chkwon.net" target="_blank">블로그</a>
 
-<a href="https://book.naver.com/bookdb/review.nhn?bid=14820673" target="blank"><img src="https://image.yes24.com/goods/72231788/XL" width="150"></a>
+<a href="https://book.naver.com/bookdb/review.nhn?bid=14820673" target="blank"><img src="https://www.chkwon.net/images/gradschoolstory.jpeg" width="150"></a>
 
 <br><br>

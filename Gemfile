@@ -11,3 +11,7 @@ gem "jekyll", "~> 4.1"
 gem "webrick", "~> 1.7"
 
 gem "liquid", "~> 4.0.4"
+
+gem "csv"
+gem "base64"
+gem "logger"

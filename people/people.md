@@ -48,7 +48,7 @@ Introducing the current members of the COMET Lab.
 
 ### Yoonju Sim 
 
-<!-- | <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  | -->
+| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
 
 ### Merve Doganbas 
 
@@ -60,7 +60,7 @@ Introducing the current members of the COMET Lab.
 
 ### Jihye Na 
 
-<!-- | <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na (나지혜)](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. | -->
+| <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na (나지혜)](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. |
 
 ### Sohyun Jeong
 
@@ -84,9 +84,18 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/suyeon_choi.jpg" class="profile" /> [Suyeon Choi (최수연)](https://www.linkedin.com/in/suyeon-choi-370909326/) is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025.  She joined COMET in 2025.|
 
+
+### Keonhee Jang
+
+| <img src="/people/images/keonhee_jang.jpg" class="profile" /> Keonhee Jang (장건희) is a master's student in the GSDS at KAIST. He received his BS in Psychology with a minor in Sociology from the University of Utah. He is interested in urban accessibility, social interactions in cities, and urban human mobility. His primary advisor is [Professor Yoonjin Yoon](https://spacetime.kaist.ac.kr/people) and has been co-advised by Professor Changhyun Kwon since 2024. |
+
+### Thi Thao Vy Bui
+
+| <img src="/people/images/vy_bui.jpg" class="profile" /> [Thi Thao Vy Bui (Bùi Thị Thảo Vy, 배초위)](https://www.linkedin.com/in/vy-bui-ba0a181aa/) is a master’s student in the ISE department at KAIST. She received a BEng degree in Logistics and Supply Chain Management from HCMC University of Technology (HCMUT). Her research interests include optimization, vehicle routing problems, and humanitarian logistics. She joined COMET in 2025. |
+
 ### Abhay Sobhanan
 
-| <img src="/people/images/abhay.jpg" class="profile" /> [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan) is a PhD Candidate at the IMSE department, USF. He received his BS-MS dual degree in Mathematics from National Institute of Technology Agartala, India in 2019. His research interests include combinatorial optimization and machine learning. His doctoral research focuses on optimizing large-scale vehicle routing problems, incorporating methodological advancements, and addressing concerns like equitable workload allocation. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). |
+| <img src="/people/images/abhay.jpg" class="profile" /> [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan) is a PhD Candidate at the IMSE department, USF. He received his BS-MS dual degree in Mathematics from National Institute of Technology Agartala, India in 2019. His research interests include combinatorial optimization and machine learning. His doctoral research focuses on optimizing large-scale vehicle routing problems, incorporating methodological advancements, and addressing concerns like equitable workload allocation. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). <br><br> [(Personal Page)](https://abhaysobhanan.github.io) |
 
 
 
@@ -94,6 +103,10 @@ Introducing the current members of the COMET Lab.
 
 
 ## Undergraduate Researchers
+<!-- - [Agata Kazakevic (아가타)](https://www.linkedin.com/in/agata-kazakevic/), KAIST ISE, 2025 Fall, Topic: large-scale optimization  -->
+- [Geonwoo Han (한건우)](https://www.linkedin.com/in/geonwoo-han-92a546367/), KAIST CS, 2025 Summer, Topic: large-scale optimization
+- [Minwoo Kim (김민우)](https://www.linkedin.com/in/minuminu/), KAIST ISE, 2025 Summer, Topic: neural combinatorial optimization
+- [Yuil Kim (김유일)](https://www.linkedin.com/in/yuil-kim-b6b872287), KAIST Math Sci, 2025 Summer, Topic: valid inequalities 
 - [Malik Tolegen (말릭 톨레겐)](https://www.linkedin.com/in/malik-tolegen-8a876a21a), KAIST ISE, 2024 Winter, Topic: hybrid genetic algorithms, multiple traveling salesman problem 
 - [Hyungyoon Kim (김형윤)](https://www.linkedin.com/in/형윤-김-159551343/), SNU IE, 2024 Winter, Topics: Probabilistic Study of TSP
 - [Gyutae Park (박규태)](https://www.linkedin.com/in/gyutae-park-b97378343/), KAIST ISE, 2024 Winter, Topics: decomposition-based optimization 
