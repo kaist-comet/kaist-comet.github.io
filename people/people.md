@@ -93,18 +93,12 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/vy_bui.jpg" class="profile" /> [Thi Thao Vy Bui (Bùi Thị Thảo Vy, 배초위)](https://www.linkedin.com/in/vy-bui-ba0a181aa/) is a master’s student in the ISE department at KAIST. She received a BEng degree in Logistics and Supply Chain Management from HCMC University of Technology (HCMUT). Her research interests include optimization, vehicle routing problems, and humanitarian logistics. She joined COMET in 2025. |
 
-### Abhay Sobhanan
-
-| <img src="/people/images/abhay.jpg" class="profile" /> [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan) is a PhD Candidate at the IMSE department, USF. He received his BS-MS dual degree in Mathematics from National Institute of Technology Agartala, India in 2019. His research interests include combinatorial optimization and machine learning. His doctoral research focuses on optimizing large-scale vehicle routing problems, incorporating methodological advancements, and addressing concerns like equitable workload allocation. His primary advisor is [Dr. Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/index.html). <br><br> [(Personal Page)](https://abhaysobhanan.github.io) |
-
-
-
-
 
 
 ## Undergraduate Researchers
 <!-- - [Agata Kazakevic (아가타)](https://www.linkedin.com/in/agata-kazakevic/), KAIST ISE, 2025 Fall, Topic: large-scale optimization  -->
-- [Geonwoo Han (한건우)](https://www.linkedin.com/in/geonwoo-han-92a546367/), KAIST CS, 2025 Summer, Topic: large-scale optimization
+- [Ji-Min Nam (남지민)](), KAIST EE, 2025 Summer, Topic: column generation
+- [Geonwoo Han (한건우)](https://www.linkedin.com/in/geonwoo-han-92a546367/), KAIST CS, 2025 Summer, Topic: multi-armed bandit
 - [Minwoo Kim (김민우)](https://www.linkedin.com/in/minuminu/), KAIST ISE, 2025 Summer, Topic: neural combinatorial optimization
 - [Yuil Kim (김유일)](https://www.linkedin.com/in/yuil-kim-b6b872287), KAIST Math Sci, 2025 Summer, Topic: valid inequalities 
 - [Malik Tolegen (말릭 톨레겐)](https://www.linkedin.com/in/malik-tolegen-8a876a21a), KAIST ISE, 2024 Winter, Topic: hybrid genetic algorithms, multiple traveling salesman problem 
@@ -124,9 +118,12 @@ Introducing the current members of the COMET Lab.
 ## Past Members
 
 ### KAIST
+- [Junpyo Lee (이준표)](https://www.linkedin.com/in/junpyo-lee-007984286/), M.S. 2025, User Behavior-Driven Temporal Segmentation Optimization for Bike-Sharing Systems
+- [Doyoung Lee (이도영)](https://www.linkedin.com/in/doyoung-lee-a915b01a4/), M.S., 2025, Graph Transformer-based Neural Embedded Mixed-Integer Optimization for Solving Hierarchical Vehicle Routing Problems
 - [Hyeonah Kim (김현아)](https://www.linkedin.com/in/hyeonahkimm/), Ph.D. 2025, Algorithmic Priors for Neural Combinatorial Optimization [(web)](https://hyeonahkimm.github.io) (primary advisor [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/)) 
 
 ### University of South Florida
+- [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan), Ph.D. 2025, Pathways to Efficient and Equitable Solutions for Large-Scale Routing Problems (co-advisor [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/))
 - [Sasan Mahmoudinazlou](https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/), Ph.D. 2024, Routing Problems Through the Lens of Hybrid Algorithms (co-advisor [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/))
 - [Xufei Liu](https://www.linkedin.com/in/xufei-liu-973636205/), Ph.D. 2022, Computational Methods for Solving the Combinatorial Optimization Problems in Transportation
 - [Aigerim Bogyrbayeva](https://www.linkedin.com/in/bogyrbayeva/), Ph.D., 2021, Optimization and Machine Learning Methods for Solving Combinatorial Problems in Urban Transportation [(web)](https://sites.google.com/mail.usf.edu/aigerimb)
