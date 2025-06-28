@@ -123,7 +123,7 @@ Introducing the current members of the COMET Lab.
 - [Hyeonah Kim (김현아)](https://www.linkedin.com/in/hyeonahkimm/), Ph.D. 2025, Algorithmic Priors for Neural Combinatorial Optimization [(web)](https://hyeonahkimm.github.io) (primary advisor [Dr. Jinkyoo Park](http://silab.kaist.ac.kr/our-team/)) 
 
 ### University of South Florida
-- [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan), Ph.D. 2025, Pathways to Efficient and Equitable Solutions for Large-Scale Routing Problems (co-advisor [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/))
+- [Abhay Sobhanan](http://www.linkedin.com/in/abhaysobhanan), Ph.D. 2025, Pathways to Efficient and Equitable Solutions for Large-Scale Routing Problems [(web)](https://abhaysobhanan.github.io) (co-advisor [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/))
 - [Sasan Mahmoudinazlou](https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/), Ph.D. 2024, Routing Problems Through the Lens of Hybrid Algorithms (co-advisor [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/))
 - [Xufei Liu](https://www.linkedin.com/in/xufei-liu-973636205/), Ph.D. 2022, Computational Methods for Solving the Combinatorial Optimization Problems in Transportation
 - [Aigerim Bogyrbayeva](https://www.linkedin.com/in/bogyrbayeva/), Ph.D., 2021, Optimization and Machine Learning Methods for Solving Combinatorial Problems in Urban Transportation [(web)](https://sites.google.com/mail.usf.edu/aigerimb)
