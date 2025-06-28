@@ -97,7 +97,7 @@ Introducing the current members of the COMET Lab.
 
 ## Undergraduate Researchers
 <!-- - [Agata Kazakevic (아가타)](https://www.linkedin.com/in/agata-kazakevic/), KAIST ISE, 2025 Fall, Topic: large-scale optimization  -->
-- [Ji-Min Nam (남지민)](), KAIST EE, 2025 Summer, Topic: column generation
+- [Ji-Min Nam (남지민)](https://www.linkedin.com/in/jimin-nam-8a09b4253/), KAIST EE, 2025 Summer, Topic: column generation
 - [Geonwoo Han (한건우)](https://www.linkedin.com/in/geonwoo-han-92a546367/), KAIST CS, 2025 Summer, Topic: multi-armed bandit
 - [Minwoo Kim (김민우)](https://www.linkedin.com/in/minuminu/), KAIST ISE, 2025 Summer, Topic: neural combinatorial optimization
 - [Yuil Kim (김유일)](https://www.linkedin.com/in/yuil-kim-b6b872287), KAIST Math Sci, 2025 Summer, Topic: valid inequalities 
