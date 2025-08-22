@@ -38,14 +38,6 @@ Introducing the current members of the COMET Lab.
 | <img src="/people/images/kwon3.jpg" class="profile" /> [Dr. Changhyun Kwon (권창현)](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving strategic and operational problems arising in urban logistics, mobility, and services. His current focus is to integrate methods from machine learning and operations research for improving computational efficiencies. He received his PhD and MS in Industrial Engineering from the Pennsylvania State University, and BS in Mechanical Engineering from KAIST. <br><br> [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(GitHub)](https://github.com/chkwon) [(*s.t.* interview)](https://www.youtube.com/watch?v=7YXlT-vBRPg)|
 
 
-### Doyoung Lee
-
-| <img src="/people/images/doyoung_lee.jpg" class="profile" />  [Doyoung Lee (이도영)](https://www.linkedin.com/in/doyoung-lee-a915b01a4/) is a master's student in the ISE Department at KAIST. He received his BS in Industrial Engineering from KyungHee University. His main research interest is Neural Combinatorial Optimization (NCO), leveraging neural networks to develop novel heuristic methods for vehicle routing problems. He joined COMET in 2023. |
-
-### Junpyo Lee 
-
-| <img src="/people/images/junpyo_lee.jpg" class="profile" /> [Junpyo Lee (이준표)](https://www.linkedin.com/in/junpyo-lee-007984286/) is a master's student in the ISE Department at KAIST. He obtained a bachelor's degree in industrial engineering at Hanyang University in 2023. His current research interests include optimization and risk management of transportation networks. He joined COMET in 2023. |
-
 ### Yoonju Sim 
 
 | <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
@@ -84,10 +76,6 @@ Introducing the current members of the COMET Lab.
 
 | <img src="/people/images/suyeon_choi.jpg" class="profile" /> [Suyeon Choi (최수연)](https://www.linkedin.com/in/suyeon-choi-370909326/) is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025.  She joined COMET in 2025.|
 
-
-### Keonhee Jang
-
-| <img src="/people/images/keonhee_jang.jpg" class="profile" /> Keonhee Jang (장건희) is a master's student in the GSDS at KAIST. He received his BS in Psychology with a minor in Sociology from the University of Utah. He is interested in urban accessibility, social interactions in cities, and urban human mobility. His primary advisor is [Professor Yoonjin Yoon](https://spacetime.kaist.ac.kr/people) and has been co-advised by Professor Changhyun Kwon since 2024. |
 
 ### Thi Thao Vy Bui
 
