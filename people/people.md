@@ -70,7 +70,7 @@ Introducing the current members of the COMET Lab.
 
 ### Jaehwan Lee
 
-| <img src="/people/images/jaehwan_lee.jpg" class="profile" /> [Jaehwan Lee (이재환)](https://www.linkedin.com/in/재환-이-878400314/) is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include quantum-classical hybrid algorithms, quantum combinatorial optimization, and neural combinatorial optimization. He joined COMET in 2025. |
+| <img src="/people/images/jaehwan_lee.jpg" class="profile" /> [Jaehwan Lee (이재환)](https://www.linkedin.com/in/jaehwanlee-878400314/) is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include OR-based Quantum Computing Enhancement and Quantum Computing-based Optimization Acceleration. He joined COMET in 2025. |
 
 ### Suyeon Choi
 
