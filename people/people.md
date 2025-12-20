@@ -40,7 +40,7 @@ Introducing the current members of the COMET Lab.
 
 ### Yoonju Sim 
 
-| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include vehicle routing problems, reinforcement learning, and combinatorial optimization. She joined COMET in 2023.  |
+| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include large-scale optimization, vehicle routing problems, and LLMs. She joined COMET in 2023. <br><br> [(Personal Page)](https://syj5268.github.io/) [(Google Scholar)](https://scholar.google.com/citations?user=35_SK2EAAAAJ&hl) [(GitHub)](https://github.com/syj5268) |
 
 ### Merve Doganbas 
 
