@@ -38,48 +38,70 @@ Introducing the current members of the COMET Lab.
 | <img src="/people/images/kwon3.jpg" class="profile" /> [Dr. Changhyun Kwon (권창현)](https://www.linkedin.com/in/chkwon) is leading the COMET Lab. His research interests include computational methods for solving strategic and operational problems arising in urban logistics, mobility, and services. His current focus is to integrate methods from machine learning and operations research for improving computational efficiencies. He received his PhD and MS in Industrial Engineering from the Pennsylvania State University, and BS in Mechanical Engineering from KAIST. <br><br> [(Personal Page)](https://www.chkwon.net) [(Google Scholar)](http://scholar.google.com/citations?hl=en&amp;user=HFiBSkgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) [(GitHub)](https://github.com/chkwon) [(*s.t.* interview)](https://www.youtube.com/watch?v=7YXlT-vBRPg)|
 
 
-### Yoonju Sim 
+### Yoonju Sim
 
-| <img src="/people/images/yoonju_sim.jpg" class="profile" /> [Yoonju Sim (심윤주)](https://www.linkedin.com/in/yoonju-sim/) is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include large-scale optimization, vehicle routing problems, and LLMs. She joined COMET in 2023. <br><br> [(Personal Page)](https://syj5268.github.io/) [(Google Scholar)](https://scholar.google.com/citations?user=35_SK2EAAAAJ&hl) [(GitHub)](https://github.com/syj5268) |
+<table><tr><td>
+<img src="/people/images/yoonju_sim.jpg" class="profile" /> <a href="https://www.linkedin.com/in/yoonju-sim/">Yoonju Sim (심윤주)</a> is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include large-scale optimization, vehicle routing problems, and LLMs. She joined COMET in 2023. 
+<br><br> 
+<a href="https://syj5268.github.io/">(Personal Page)</a> <a href="https://scholar.google.com/citations?user=35_SK2EAAAAJ&hl">(Google Scholar)</a> <a href="https://github.com/syj5268">(GitHub)</a> 
+<br><br>
+<span class="member-publications" data-author="Yoonju Sim"></span>
+</td></tr></table>
 
-### Merve Doganbas 
+### Merve Doganbas
 
-| <img src="/people/images/merve.jpg" class="profile" /> [Merve Doganbas (Merve Doğanbaş, 메르베 도안바시)](https://www.linkedin.com/in/mervedoganbas/) is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is [Professor Hayong Shin](http://sal.kaist.ac.kr/?page_id=19) and has been co-advised by Professor Changhyun Kwon since 2023. |
+<table><tr><td>
+<img src="/people/images/merve.jpg" class="profile" /> <a href="https://www.linkedin.com/in/mervedoganbas/">Merve Doganbas (Merve Doğanbaş, 메르베 도안바시)</a> is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is <a href="http://sal.kaist.ac.kr/?page_id=19">Professor Hayong Shin</a> and has been co-advised by Professor Changhyun Kwon since 2023. <br><br> <span class="member-publications" data-author="Merve Doganbas"></span>
+</td></tr></table>
 
-### Jae Hyeok Lee 
+### Jae Hyeok Lee
 
-| <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> [Jae Hyeok Lee (이재혁)](https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/) is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include neural combinatorial optimization, GPU computing and quantum computing. He joined COMET in 2024. |
+<table><tr><td>
+<img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> <a href="https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/">Jae Hyeok Lee (이재혁)</a> is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include neural combinatorial optimization, GPU computing and quantum computing. He joined COMET in 2024. <br><br> <span class="member-publications" data-author="Jae Hyeok Lee"></span>
+</td></tr></table>
 
-### Jihye Na 
+### Jihye Na
 
-| <img src="/people/images/jihye_na.jpg" class="profile" /> [Jihye Na (나지혜)](http://www.linkedin.com/in/jihye-na-b0bb5129b) is a master’s student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. |
+<table><tr><td>
+<img src="/people/images/jihye_na.jpg" class="profile" /> <a href="http://www.linkedin.com/in/jihye-na-b0bb5129b">Jihye Na (나지혜)</a> is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024. <br><br> <span class="member-publications" data-author="Jihye Na"></span>
+</td></tr></table>
 
 ### Sohyun Jeong
 
-| <img src="/people/images/sohyun_jeong.jpg" class="profile" /> [Sohyun Jeong (정소현)](https://www.linkedin.com/in/sohyun-jeong-13bb0778/) is a Ph.D. candidate in the GSDS at KAIST. She received her MS in CBE from KAIST and her BS in Chemical Engineering from Rutgers University. She is interested in combinatorial optimization, scheduling, and reinforcement learning. Her primary advisor is [Professor Hyun-Jung Kim](https://msslab.kaist.ac.kr/Professor/professor) and has been co-advised by Professor Changhyun Kwon since 2024. |
-
+<table><tr><td>
+<img src="/people/images/sohyun_jeong.jpg" class="profile" /> <a href="https://www.linkedin.com/in/sohyun-jeong-13bb0778/">Sohyun Jeong (정소현)</a> is a Ph.D. candidate in the GSDS at KAIST. She received her MS in CBE from KAIST and her BS in Chemical Engineering from Rutgers University. She is interested in combinatorial optimization, scheduling, and reinforcement learning. Her primary advisor is <a href="https://msslab.kaist.ac.kr/Professor/professor">Professor Hyun-Jung Kim</a> and has been co-advised by Professor Changhyun Kwon since 2024. <br><br> <span class="member-publications" data-author="Sohyun Jeong"></span>
+</td></tr></table>
 
 ### Taekang Hwang
 
-| <img src="/people/images/taekang_hwang.jpg" class="profile" /> [Taekang Hwang (황태강)](https://www.linkedin.com/in/taekang-hwang-91a8ba202/) is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical opitmization, integer programming and polyhedral combinatorics. He joined COMET in 2024. |
+<table><tr><td>
+<img src="/people/images/taekang_hwang.jpg" class="profile" /> <a href="https://www.linkedin.com/in/taekang-hwang-91a8ba202/">Taekang Hwang (황태강)</a> is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical opitmization, integer programming and polyhedral combinatorics. He joined COMET in 2024. <br><br> <span class="member-publications" data-author="Taekang Hwang"></span>
+</td></tr></table>
 
 ### Junhak Lee
 
-| <img src="/people/images/junhak_lee.jpg" class="profile" /> [Junhak Lee (이준학)](https://www.linkedin.com/in/준학-이-a68596300) is a master's student in the GSDS at KAIST. He received a BS degree in Industrial & Systems Engineering from KAIST. His current interests include combinatorial optimization and graph neural network. He joined COMET in 2025. |
+<table><tr><td>
+<img src="/people/images/junhak_lee.jpg" class="profile" /> <a href="https://www.linkedin.com/in/준학-이-a68596300">Junhak Lee (이준학)</a> is a master's student in the GSDS at KAIST. He received a BS degree in Industrial & Systems Engineering from KAIST. His current interests include combinatorial optimization and graph neural network. He joined COMET in 2025. <br><br> <span class="member-publications" data-author="Junhak Lee"></span>
+</td></tr></table>
 
 
 ### Jaehwan Lee
 
-| <img src="/people/images/jaehwan_lee.jpg" class="profile" /> [Jaehwan Lee (이재환)](https://www.linkedin.com/in/jaehwanlee-878400314/) is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include OR-based Quantum Computing Enhancement and Quantum Computing-based Optimization Acceleration. He joined COMET in 2025. |
+<table><tr><td>
+<img src="/people/images/jaehwan_lee.jpg" class="profile" /> <a href="https://www.linkedin.com/in/jaehwanlee-878400314/">Jaehwan Lee (이재환)</a> is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include OR-based Quantum Computing Enhancement and Quantum Computing-based Optimization Acceleration. He joined COMET in 2025. <br><br> <span class="member-publications" data-author="Jaehwan Lee"></span>
+</td></tr></table>
 
 ### Suyeon Choi
 
-| <img src="/people/images/suyeon_choi.jpg" class="profile" /> [Suyeon Choi (최수연)](https://www.linkedin.com/in/suyeon-choi-370909326/) is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025.  She joined COMET in 2025.|
-
+<table><tr><td>
+<img src="/people/images/suyeon_choi.jpg" class="profile" /> <a href="https://www.linkedin.com/in/suyeon-choi-370909326/">Suyeon Choi (최수연)</a> is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025. She joined COMET in 2025. <br><br> <span class="member-publications" data-author="Suyeon Choi"></span>
+</td></tr></table>
 
 ### Thi Thao Vy Bui
 
-| <img src="/people/images/vy_bui.jpg" class="profile" /> [Thi Thao Vy Bui (Bùi Thị Thảo Vy, 배초위)](https://www.linkedin.com/in/vy-bui-ba0a181aa/) is a master’s student in the ISE department at KAIST. She received a BEng degree in Logistics and Supply Chain Management from HCMC University of Technology (HCMUT). Her research interests include optimization, vehicle routing problems, and humanitarian logistics. She joined COMET in 2025. |
+<table><tr><td>
+<img src="/people/images/vy_bui.jpg" class="profile" /> <a href="https://www.linkedin.com/in/vy-bui-ba0a181aa/">Thi Thao Vy Bui (Bùi Thị Thảo Vy, 배초위)</a> is a master's student in the ISE department at KAIST. She received a BEng degree in Logistics and Supply Chain Management from HCMC University of Technology (HCMUT). Her research interests include optimization, vehicle routing problems, and humanitarian logistics. She joined COMET in 2025. <br><br> <span class="member-publications" data-author="Thi Thao Vy Bui"></span>
+</td></tr></table>
 
 
 
@@ -141,3 +163,130 @@ Introducing the current members of the COMET Lab.
 - [Varun Narayana Kutty](https://www.linkedin.com/in/varunnk/), M.S., 2010, Accept-Reject Decision in Online Advertising using Geometric Brownian Motion
 
 &nbsp;
+
+<style>
+.member-publications {
+    display: block;
+    overflow: hidden;
+}
+.member-publications details.papers-details {
+    display: inline;
+}
+.member-publications summary.papers-toggle {
+    display: inline-block;
+    cursor: pointer;
+    list-style: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 70%;
+    color: black;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+    padding: 1px 3px;
+    margin-right: 2px;
+}
+.member-publications summary.papers-toggle::-webkit-details-marker {
+    display: none;
+}
+.member-publications summary.papers-toggle:hover {
+    color: white;
+    background-color: #004191;
+    border: 1px solid #004191;
+    text-decoration: none;
+}
+.member-publications ul.member-pub-list {
+    display: block;
+    margin-top: 0.5rem;
+    margin-left: 0;
+    padding-left: 0;
+    font-size: 1.2rem;
+    list-style-position: inside;
+}
+.member-publications ul.member-pub-list li {
+    margin-bottom: 0.5rem;
+}
+.member-publications .klink,
+.member-publications .abstract_button {
+    font-family: 'Raleway', sans-serif;
+    font-size: 70%;
+    color: black;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+    padding: 1px 3px;
+    margin-right: 2px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.member-publications .klink:hover,
+.member-publications .abstract_button:hover {
+    color: white;
+    background-color: #004191;
+    border: 1px solid #004191;
+    text-decoration: none;
+}
+.member-publications .abstractbg {
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 4px;
+    font-size: 0.9em;
+    display: block;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+@media (prefers-color-scheme: dark) {
+    body:not(.light-theme) .member-publications summary.papers-toggle {
+        color: #ddd;
+        background-color: #333;
+        border-color: #666;
+    }
+    body:not(.light-theme) .member-publications summary.papers-toggle:hover {
+        background-color: #5FBEEB;
+        border-color: #5FBEEB;
+        color: #222;
+    }
+    body:not(.light-theme) .member-publications .klink,
+    body:not(.light-theme) .member-publications .abstract_button {
+        color: #ddd;
+        background-color: #333;
+        border-color: #666;
+    }
+    body:not(.light-theme) .member-publications .klink:hover,
+    body:not(.light-theme) .member-publications .abstract_button:hover {
+        background-color: #5FBEEB;
+        border-color: #5FBEEB;
+        color: #222;
+    }
+    body:not(.light-theme) .member-publications .abstractbg {
+        background-color: #3a3a3a;
+    }
+}
+body.dark-theme .member-publications summary.papers-toggle {
+    color: #ddd;
+    background-color: #333;
+    border-color: #666;
+}
+body.dark-theme .member-publications summary.papers-toggle:hover {
+    background-color: #5FBEEB;
+    border-color: #5FBEEB;
+    color: #222;
+}
+body.dark-theme .member-publications .klink,
+body.dark-theme .member-publications .abstract_button {
+    color: #ddd;
+    background-color: #333;
+    border-color: #666;
+}
+body.dark-theme .member-publications .klink:hover,
+body.dark-theme .member-publications .abstract_button:hover {
+    background-color: #5FBEEB;
+    border-color: #5FBEEB;
+    color: #222;
+}
+body.dark-theme .member-publications .abstractbg {
+    background-color: #3a3a3a;
+}
+</style>
+
+<script src="/lib/member-publications.js"></script>
