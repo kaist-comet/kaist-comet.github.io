@@ -116,6 +116,11 @@ h3 + ul li p {
     word-wrap: break-word;
 }
 
+/* Highlight author name in their publications */
+.member-publications .author-highlight {
+    font-weight: bold;
+}
+
 /* Dark mode - system preference */
 @media (prefers-color-scheme: dark) {
     body:not(.light-theme) .profile-icon {
