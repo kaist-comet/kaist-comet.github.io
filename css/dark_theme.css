@@ -93,6 +93,10 @@
         background: #3a3a3a;
         border-color: #555;
     }
+
+    body:not(.light-theme) .footer-logo {
+        filter: invert(1) grayscale(1) brightness(0.7);
+    }
   }
 
 /* Manual dark theme - applied when user explicitly chooses dark */
@@ -183,6 +187,10 @@ body.dark-theme hr {
 body.dark-theme code {
     background: #3a3a3a;
     border-color: #555;
+}
+
+body.dark-theme .footer-logo {
+    filter: invert(1) grayscale(1) brightness(0.7);
 }
 
 /* Theme toggle button styles */
