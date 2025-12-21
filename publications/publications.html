@@ -27,42 +27,81 @@ weight: 3
 
 <h3>Publication Tag Selector</h3>
 
-<button class="button-primary" onclick="highlight_button(this); articleDisplay('all');">All</button>
-<button onclick="highlight_button(this); articleDisplay('selected');">Ten Selected</button>
-<button onclick="highlight_button(this); articleDisplay('conference');">Conference</button>
-<br>
+<style>
+.tag-group {
+	display: flex;
+	align-items: flex-start;
+	gap: 0.3rem;
+	margin-bottom: 0.5rem;
+}
+.tag-group-label {
+	font-size: 1.1rem;
+	font-weight: 600;
+	color: #888;
+	width: 50px;
+	flex-shrink: 0;
+	padding-top: 6px;
+}
+.tag-group-buttons {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.3rem;
+}
+body.dark-theme .tag-group-label { color: #999; }
+@media (prefers-color-scheme: dark) {
+	body:not(.light-theme) .tag-group-label { color: #999; }
+}
+.tag-group button {
+	margin-bottom: 0;
+	padding: 0 15px;
+	height: 32px;
+	line-height: 32px;
+	font-size: 10px;
+}
+</style>
 
-<button onclick="highlight_button(this); articleDisplay('2025');">2025</button>
-<button onclick="highlight_button(this); articleDisplay('2024');">2024</button>
-<button onclick="highlight_button(this); articleDisplay('2023');">2023</button>
-<button onclick="highlight_button(this); articleDisplay('2022');">2022</button>
-<button onclick="highlight_button(this); articleDisplay('2021');">2021</button>
-<br>
-
-
-<button onclick="highlight_button(this); articleDisplay('bilevel');">Bilevel Optimization</button>
-<button onclick="highlight_button(this); articleDisplay('robust');">Robust Optimization</button>
-<button onclick="highlight_button(this); articleDisplay('equilibrium');">Equilibrium</button>
-<button onclick="highlight_button(this); articleDisplay('network-design');">Network Design</button>
-
-<button onclick="highlight_button(this); articleDisplay('location');">Locations</button>
-<button onclick="highlight_button(this); articleDisplay('pricing');">Pricing</button>
-<button onclick="highlight_button(this); articleDisplay('routing');">Routing</button>
-<button onclick="highlight_button(this); articleDisplay('learning');">Learning</button>
-<button onclick="highlight_button(this); articleDisplay('neural');">Neural</button>
-
-<button onclick="highlight_button(this); articleDisplay('hazmat');">Hazards</button>
-<button onclick="highlight_button(this); articleDisplay('behavior');">Behaviors</button>
-<button onclick="highlight_button(this); articleDisplay('equity');">Equity</button>
-<button onclick="highlight_button(this); articleDisplay('advertisement');">Advertisement</button>
-<button onclick="highlight_button(this); articleDisplay('markets');">Markets / Bargaining</button>
-
-
-<button onclick="highlight_button(this); articleDisplay('shared');">Shared Mobility</button>
-<button onclick="highlight_button(this); articleDisplay('ev');">Electric Vehicles</button>
-<button onclick="highlight_button(this); articleDisplay('autonomous');">Autonomous Vehicles</button>
-<button onclick="highlight_button(this); articleDisplay('energy');">Energy</button>
-<button onclick="highlight_button(this); articleDisplay('metaheuristics');">Metaheuristics</button>
+<div class="tag-group">
+	<span class="tag-group-label">Quick:</span>
+	<div class="tag-group-buttons">
+		<button class="button-primary" onclick="highlight_button(this); articleDisplay('all');">All</button>
+		<button onclick="highlight_button(this); articleDisplay('selected');">Selected</button>
+		<button onclick="highlight_button(this); articleDisplay('conference');">Conference</button>
+	</div>
+</div>
+<div class="tag-group">
+	<span class="tag-group-label">Year:</span>
+	<div class="tag-group-buttons">
+		<button onclick="highlight_button(this); articleDisplay('2025');">2025</button>
+		<button onclick="highlight_button(this); articleDisplay('2024');">2024</button>
+		<button onclick="highlight_button(this); articleDisplay('2023');">2023</button>
+		<button onclick="highlight_button(this); articleDisplay('2022');">2022</button>
+		<button onclick="highlight_button(this); articleDisplay('2021');">2021</button>
+	</div>
+</div>
+<div class="tag-group">
+	<span class="tag-group-label">Topic:</span>
+	<div class="tag-group-buttons">
+		<button onclick="highlight_button(this); articleDisplay('bilevel');">Bilevel</button>
+		<button onclick="highlight_button(this); articleDisplay('robust');">Robust</button>
+		<button onclick="highlight_button(this); articleDisplay('equilibrium');">Equilibrium</button>
+		<button onclick="highlight_button(this); articleDisplay('network-design');">Network</button>
+		<button onclick="highlight_button(this); articleDisplay('metaheuristics');">Metaheuristics</button>
+		<button onclick="highlight_button(this); articleDisplay('learning');">Learning</button>
+		<button onclick="highlight_button(this); articleDisplay('neural');">Neural</button>
+		<button onclick="highlight_button(this); articleDisplay('routing');">Routing</button>
+		<button onclick="highlight_button(this); articleDisplay('location');">Location</button>
+		<button onclick="highlight_button(this); articleDisplay('pricing');">Pricing</button>
+		<button onclick="highlight_button(this); articleDisplay('shared');">Shared</button>
+		<button onclick="highlight_button(this); articleDisplay('ev');">EV</button>
+		<button onclick="highlight_button(this); articleDisplay('autonomous');">AV</button>
+		<button onclick="highlight_button(this); articleDisplay('energy');">Energy</button>
+		<button onclick="highlight_button(this); articleDisplay('hazmat');">Hazmat</button>
+		<button onclick="highlight_button(this); articleDisplay('behavior');">Behavior</button>
+		<button onclick="highlight_button(this); articleDisplay('equity');">Equity</button>
+		<button onclick="highlight_button(this); articleDisplay('advertisement');">Ads</button>
+		<button onclick="highlight_button(this); articleDisplay('markets');">Markets</button>
+	</div>
+</div>
 
 
 <script type="text/javascript">

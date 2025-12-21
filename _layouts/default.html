@@ -68,6 +68,88 @@
 </head>
 <body>
 
+<!-- Theme Toggle Button -->
+<button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme" title="Toggle light/dark mode">
+    <span id="theme-icon">&#9788;</span>
+</button>
+
+<script>
+    // Theme management
+    function getSystemTheme() {
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+
+    function getCurrentTheme() {
+        const saved = localStorage.getItem('theme');
+        if (saved) return saved;
+        return 'system';
+    }
+
+    function isDarkMode() {
+        const theme = getCurrentTheme();
+        if (theme === 'system') {
+            return getSystemTheme() === 'dark';
+        }
+        return theme === 'dark';
+    }
+
+    function applyTheme() {
+        const theme = getCurrentTheme();
+        const body = document.body;
+
+        body.classList.remove('dark-theme', 'light-theme');
+
+        if (theme === 'dark') {
+            body.classList.add('dark-theme');
+        } else if (theme === 'light') {
+            body.classList.add('light-theme');
+        }
+        // if 'system', no class is added - CSS media query handles it
+
+        updateIcon();
+    }
+
+    function updateIcon() {
+        const icon = document.getElementById('theme-icon');
+        if (isDarkMode()) {
+            icon.innerHTML = '&#9790;'; // Moon
+        } else {
+            icon.innerHTML = '&#9788;'; // Sun
+        }
+    }
+
+    function toggleTheme() {
+        const current = getCurrentTheme();
+        let next;
+
+        if (current === 'system') {
+            // If system is dark, go to light; if system is light, go to dark
+            next = getSystemTheme() === 'dark' ? 'light' : 'dark';
+        } else if (current === 'dark') {
+            next = 'light';
+        } else {
+            next = 'dark';
+        }
+
+        localStorage.setItem('theme', next);
+        applyTheme();
+
+        // Dispatch custom event for other components (like wordcloud)
+        window.dispatchEvent(new CustomEvent('themechange', { detail: { isDark: isDarkMode() } }));
+    }
+
+    // Apply theme on load
+    applyTheme();
+
+    // Listen for system theme changes
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
+        if (getCurrentTheme() === 'system') {
+            applyTheme();
+            window.dispatchEvent(new CustomEvent('themechange', { detail: { isDark: isDarkMode() } }));
+        }
+    });
+</script>
+
 <br>
 
 <div class="container">

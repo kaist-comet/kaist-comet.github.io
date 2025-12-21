@@ -1,32 +1,33 @@
+/* Dark theme styles - applied via .dark-theme class or system preference */
 @media (prefers-color-scheme: dark) {
-    body{
+    body:not(.light-theme) {
       background-color: #292929;
       color: #ddd;
     }
-  
-    p {
+
+    body:not(.light-theme) p {
       color: #ddd;
     }
-  
-    .site-header a {
+
+    body:not(.light-theme) .site-header a {
       color: #ccc;
     }
-  
-    a {
+
+    body:not(.light-theme) a {
       color: #648dae;
     }
-  
-    a span.ecrm-0700,
-    a span.ecrm-0800,
-    .abstract_button {
+
+    body:not(.light-theme) a span.ecrm-0700,
+    body:not(.light-theme) a span.ecrm-0800,
+    body:not(.light-theme) .abstract_button {
       color: #ddd;
     }
-  
-    a:hover,
-    a:focus,
-    a:active,
-    a span.ecrm-0700:hover,
-    a span.ecrm-0800:hover  {
+
+    body:not(.light-theme) a:hover,
+    body:not(.light-theme) a:focus,
+    body:not(.light-theme) a:active,
+    body:not(.light-theme) a span.ecrm-0700:hover,
+    body:not(.light-theme) a span.ecrm-0800:hover  {
       color: #90caf9;
       text-decoration: none;
       background-image: linear-gradient(to top,
@@ -36,51 +37,186 @@
         rgba(0,0,0,0) 17%
       );
     }
-    .site-header nav a {
+    body:not(.light-theme) .site-header nav a {
       color: #aaa;
     }
-  
-    .site-header nav a:hover,
-    .site-header nav a:focus,
-    .site-header nav a:active {
+
+    body:not(.light-theme) .site-header nav a:hover,
+    body:not(.light-theme) .site-header nav a:focus,
+    body:not(.light-theme) .site-header nav a:active {
       color: #bbb;
       opacity: 1;
       border-bottom: 2px solid #bbb;
     }
-  
-    footer {
+
+    body:not(.light-theme) footer {
       background-color: #292929;
       color: #aaa;
     }
-  
-    .wordcloud_div {
+
+    body:not(.light-theme) .wordcloud_div {
       background-color: #333;
     }
-  
-    .site-title {
-      color: #bbb;  
+
+    body:not(.light-theme) .site-title {
+      color: #bbb;
     }
     /* #5FBEEB #1487C8 */
-    .site-nav {
-      border-top: 1px solid #bbb; 
-      border-bottom: 1px solid #bbb; 
+    body:not(.light-theme) .site-nav {
+      border-top: 1px solid #bbb;
+      border-bottom: 1px solid #bbb;
     }
 
-    .nav-item {
+    body:not(.light-theme) .nav-item {
         color: #bbb;
     }
-    .nav-item:hover {
+    body:not(.light-theme) .nav-item:hover {
         color: #fff;
     }
-  
-    button {
+
+    body:not(.light-theme) button {
         color: #bbb;
     }
-    button:hover {
+    body:not(.light-theme) button:hover {
         color: #eee;
     }
-    button.button-primary {
+    body:not(.light-theme) button.button-primary {
         border-color: #0a3361;
         background-color: #154883;
     }
+
+    body:not(.light-theme) hr {
+        border-top-color: #444;
+    }
+
+    body:not(.light-theme) code {
+        background: #3a3a3a;
+        border-color: #555;
+    }
   }
+
+/* Manual dark theme - applied when user explicitly chooses dark */
+body.dark-theme {
+    background-color: #292929;
+    color: #ddd;
+}
+
+body.dark-theme p {
+    color: #ddd;
+}
+
+body.dark-theme .site-header a {
+    color: #ccc;
+}
+
+body.dark-theme a {
+    color: #648dae;
+}
+
+body.dark-theme a span.ecrm-0700,
+body.dark-theme a span.ecrm-0800,
+body.dark-theme .abstract_button {
+    color: #ddd;
+}
+
+body.dark-theme a:hover,
+body.dark-theme a:focus,
+body.dark-theme a:active,
+body.dark-theme a span.ecrm-0700:hover,
+body.dark-theme a span.ecrm-0800:hover  {
+    color: #90caf9;
+    text-decoration: none;
+}
+
+body.dark-theme .site-header nav a {
+    color: #aaa;
+}
+
+body.dark-theme .site-header nav a:hover,
+body.dark-theme .site-header nav a:focus,
+body.dark-theme .site-header nav a:active {
+    color: #bbb;
+    opacity: 1;
+    border-bottom: 2px solid #bbb;
+}
+
+body.dark-theme footer {
+    background-color: #292929;
+    color: #aaa;
+}
+
+body.dark-theme .wordcloud_div {
+    background-color: #333;
+}
+
+body.dark-theme .site-title {
+    color: #bbb;
+}
+
+body.dark-theme .site-nav {
+    border-top: 1px solid #bbb;
+    border-bottom: 1px solid #bbb;
+}
+
+body.dark-theme .nav-item {
+    color: #bbb;
+}
+body.dark-theme .nav-item:hover {
+    color: #fff;
+}
+
+body.dark-theme button {
+    color: #bbb;
+}
+body.dark-theme button:hover {
+    color: #eee;
+}
+body.dark-theme button.button-primary {
+    border-color: #0a3361;
+    background-color: #154883;
+}
+
+body.dark-theme hr {
+    border-top-color: #444;
+}
+
+body.dark-theme code {
+    background: #3a3a3a;
+    border-color: #555;
+}
+
+/* Theme toggle button styles */
+.theme-toggle {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+    background: transparent;
+    border: 1px solid #bbb;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    transition: all 0.3s ease;
+    margin-bottom: 0;
+}
+
+.theme-toggle:hover {
+    transform: scale(1.1);
+}
+
+body.dark-theme .theme-toggle,
+body:not(.light-theme) .theme-toggle {
+    border-color: #666;
+}
+
+@media (prefers-color-scheme: dark) {
+    body:not(.light-theme) .theme-toggle {
+        border-color: #666;
+    }
+}

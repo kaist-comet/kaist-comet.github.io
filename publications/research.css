@@ -46,21 +46,44 @@ li {
 
 a.klink:hover,
 a.abstract_button:hover {
-    color: black;;
-    background-color: #eeeeee;
-    border: 1px solid gray;
+    color: white;
+    background-color: #004191;
+    border: 1px solid #004191;
     text-decoration: none;
+}
+
+/* Specific colors for each link type */
+a.klink[data-type="arXiv"]:hover {
+    background-color: #b31b1b;
+    border-color: #b31b1b;
+}
+a.klink[data-type="doi"]:hover {
+    background-color: #fcb426;
+    border-color: #fcb426;
+    color: #333;
+}
+a.klink[data-type="pdf"]:hover {
+    background-color: #27ae60;
+    border-color: #27ae60;
+}
+a.klink[data-type="github"]:hover {
+    background-color: #333;
+    border-color: #333;
+}
+a.klink[data-type="ssrn"]:hover {
+    background-color: #00263e;
+    border-color: #00263e;
 }
 
 
 
 @media (prefers-color-scheme: dark) {
-    .ecrm-0700,
-    .abstract_button {
+    body:not(.light-theme) .ecrm-0700,
+    body:not(.light-theme) .abstract_button {
         color: #ddd;
     }
 
-    .ecrm-0700:hover {
+    body:not(.light-theme) .ecrm-0700:hover {
         color: lighten($blue, 20%);
         text-decoration: none;
         background-image: linear-gradient(to top,
@@ -71,24 +94,108 @@ a.abstract_button:hover {
         );
     }
 
-    .article_title {
-        color: #ddd; 
+    body:not(.light-theme) .article_title {
+        color: #ddd;
     }
 
-    .klink,
-    .abstract_button {
-        color: #ddd;;
+    body:not(.light-theme) .klink,
+    body:not(.light-theme) .abstract_button {
+        color: #ddd;
         background-color: #333;
-        border: 1px solid #eee;
+        border: 1px solid #666;
     }
 
-    .kcode {
+    body:not(.light-theme) .kcode {
         font-size: 70%;
     }
 
-    a.klink:hover,
-    a.abstract_button:hover {
-        background-color: #eee;
+    body:not(.light-theme) a.klink:hover,
+    body:not(.light-theme) a.abstract_button:hover {
+        background-color: #5FBEEB;
+        border-color: #5FBEEB;
+        color: #222;
+    }
+
+    /* Specific colors for each link type in dark mode */
+    body:not(.light-theme) a.klink[data-type="arXiv"]:hover {
+        background-color: #e74c4c;
+        border-color: #e74c4c;
+        color: #fff;
+    }
+    body:not(.light-theme) a.klink[data-type="doi"]:hover {
+        background-color: #fcb426;
+        border-color: #fcb426;
         color: #333;
     }
+    body:not(.light-theme) a.klink[data-type="pdf"]:hover {
+        background-color: #58d68d;
+        border-color: #58d68d;
+        color: #1a1a1a;
+    }
+    body:not(.light-theme) a.klink[data-type="github"]:hover {
+        background-color: #6e5494;
+        border-color: #6e5494;
+        color: #fff;
+    }
+    body:not(.light-theme) a.klink[data-type="ssrn"]:hover {
+        background-color: #1a5276;
+        border-color: #1a5276;
+        color: #fff;
+    }
+}
+
+/* Manual dark theme styles */
+body.dark-theme .ecrm-0700,
+body.dark-theme .abstract_button {
+    color: #ddd;
+}
+
+body.dark-theme .ecrm-0700:hover {
+    color: #90caf9;
+    text-decoration: none;
+}
+
+body.dark-theme .article_title {
+    color: #ddd;
+}
+
+body.dark-theme .klink,
+body.dark-theme .abstract_button {
+    color: #ddd;
+    background-color: #333;
+    border: 1px solid #666;
+}
+
+body.dark-theme a.klink:hover,
+body.dark-theme a.abstract_button:hover {
+    background-color: #5FBEEB;
+    border-color: #5FBEEB;
+    color: #222;
+}
+
+/* Specific colors for each link type in manual dark mode */
+body.dark-theme a.klink[data-type="arXiv"]:hover {
+    background-color: #e74c4c;
+    border-color: #e74c4c;
+    color: #fff;
+}
+body.dark-theme a.klink[data-type="doi"]:hover {
+    background-color: #fcb426;
+    border-color: #fcb426;
+    color: #333;
+}
+body.dark-theme a.klink[data-type="pdf"]:hover {
+    background-color: #58d68d;
+    border-color: #58d68d;
+    color: #1a1a1a;
+}
+body.dark-theme a.klink[data-type="github"]:hover {
+    background-color: #6e5494;
+    border-color: #6e5494;
+    color: #fff;
+}
+body.dark-theme a.klink[data-type="ssrn"]:hover {
+    background-color: #1a5276;
+    border-color: #1a5276;
+    color: #fff;
 }

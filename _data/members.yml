@@ -1,0 +1,421 @@
+# COMET Lab Members Data
+# This file contains structured data for all lab members
+
+current:
+  - name: "Changhyun Kwon"
+    name_ko: "권창현"
+    title: "Dr."
+    role: "Principal Investigator"
+    image: "/people/images/kwon3.jpg"
+    linkedin: "https://www.linkedin.com/in/chkwon"
+    website: "https://www.chkwon.net"
+    google_scholar: "http://scholar.google.com/citations?hl=en&user=HFiBSkgAAAAJ&view_op=list_works&sortby=pubdate"
+    github: "https://github.com/chkwon"
+    youtube: "https://www.youtube.com/watch?v=7YXlT-vBRPg"
+    bio: "is leading the COMET Lab. His research interests include computational methods for solving strategic and operational problems arising in urban logistics, mobility, and services. His current focus is to integrate methods from machine learning and operations research for improving computational efficiencies. He received his PhD and MS in Industrial Engineering from the Pennsylvania State University, and BS in Mechanical Engineering from KAIST."
+    show_publications: false
+
+  - name: "Yoonju Sim"
+    name_ko: "심윤주"
+    role: "Ph.D. Student"
+    department: "ISE"
+    image: "/people/images/yoonju_sim.jpg"
+    linkedin: "https://www.linkedin.com/in/yoonju-sim/"
+    website: "https://syj5268.github.io/"
+    google_scholar: "https://scholar.google.com/citations?user=35_SK2EAAAAJ&hl"
+    github: "https://github.com/syj5268"
+    bio: "is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include large-scale optimization, vehicle routing problems, and LLMs. She joined COMET in 2023."
+    show_publications: true
+
+  - name: "Merve Doganbas"
+    name_alt: "Merve Doğanbaş"
+    name_ko: "메르베 도안바시"
+    role: "Ph.D. Candidate"
+    department: "ISE"
+    image: "/people/images/merve.jpg"
+    linkedin: "https://www.linkedin.com/in/mervedoganbas/"
+    primary_advisor: "Professor Hayong Shin"
+    primary_advisor_url: "http://sal.kaist.ac.kr/?page_id=19"
+    bio: "is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is Professor Hayong Shin and has been co-advised by Professor Changhyun Kwon since 2023."
+    show_publications: true
+
+  - name: "Jae Hyeok Lee"
+    name_ko: "이재혁"
+    role: "Ph.D. Student"
+    department: "ISE"
+    image: "/people/images/jae_hyeok_lee.jpg"
+    linkedin: "https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/"
+    bio: "is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include neural combinatorial optimization, GPU computing and quantum computing. He joined COMET in 2024."
+    show_publications: true
+
+  - name: "Jihye Na"
+    name_ko: "나지혜"
+    role: "Master's Student"
+    department: "ISE"
+    image: "/people/images/jihye_na.jpg"
+    linkedin: "http://www.linkedin.com/in/jihye-na-b0bb5129b"
+    bio: "is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024."
+    show_publications: true
+
+  - name: "Sohyun Jeong"
+    name_ko: "정소현"
+    role: "Ph.D. Candidate"
+    department: "GSDS"
+    image: "/people/images/sohyun_jeong.jpg"
+    linkedin: "https://www.linkedin.com/in/sohyun-jeong-13bb0778/"
+    primary_advisor: "Professor Hyun-Jung Kim"
+    primary_advisor_url: "https://msslab.kaist.ac.kr/Professor/professor"
+    bio: "is a Ph.D. candidate in the GSDS at KAIST. She received her MS in CBE from KAIST and her BS in Chemical Engineering from Rutgers University. She is interested in combinatorial optimization, scheduling, and reinforcement learning. Her primary advisor is Professor Hyun-Jung Kim and has been co-advised by Professor Changhyun Kwon since 2024."
+    show_publications: true
+
+  - name: "Taekang Hwang"
+    name_ko: "황태강"
+    role: "Ph.D. Student"
+    department: "ISE"
+    image: "/people/images/taekang_hwang.jpg"
+    linkedin: "https://www.linkedin.com/in/taekang-hwang-91a8ba202/"
+    bio: "is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical optimization, integer programming and polyhedral combinatorics. He joined COMET in 2024."
+    show_publications: true
+
+  - name: "Junhak Lee"
+    name_ko: "이준학"
+    role: "Master's Student"
+    department: "GSDS"
+    image: "/people/images/junhak_lee.jpg"
+    linkedin: "https://www.linkedin.com/in/준학-이-a68596300"
+    bio: "is a master's student in the GSDS at KAIST. He received a BS degree in Industrial & Systems Engineering from KAIST. His current interests include combinatorial optimization and graph neural network. He joined COMET in 2025."
+    show_publications: true
+
+  - name: "Jaehwan Lee"
+    name_ko: "이재환"
+    role: "Ph.D. Student"
+    department: "GSDS"
+    image: "/people/images/jaehwan_lee.jpg"
+    linkedin: "https://www.linkedin.com/in/jaehwanlee-878400314/"
+    bio: "is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include OR-based Quantum Computing Enhancement and Quantum Computing-based Optimization Acceleration. He joined COMET in 2025."
+    show_publications: true
+
+  - name: "Suyeon Choi"
+    name_ko: "최수연"
+    role: "Ph.D. Student"
+    department: "ISE"
+    image: "/people/images/suyeon_choi.jpg"
+    linkedin: "https://www.linkedin.com/in/suyeon-choi-370909326/"
+    bio: "is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025. She joined COMET in 2025."
+    show_publications: true
+
+  - name: "Thi Thao Vy Bui"
+    name_alt: "Bùi Thị Thảo Vy"
+    name_ko: "배초위"
+    role: "Master's Student"
+    department: "ISE"
+    image: "/people/images/vy_bui.jpg"
+    linkedin: "https://www.linkedin.com/in/vy-bui-ba0a181aa/"
+    bio: "is a master's student in the ISE department at KAIST. She received a BEng degree in Logistics and Supply Chain Management from HCMC University of Technology (HCMUT). Her research interests include optimization, vehicle routing problems, and humanitarian logistics. She joined COMET in 2025."
+    show_publications: true
+
+undergraduate:
+  - name: "Agata Kazakevic"
+    name_ko: "아가타"
+    linkedin: "https://www.linkedin.com/in/agata-kazakevic/"
+    affiliation: "KAIST ISE"
+    period: "2025 Fall"
+    topic: "cooperative game theory"
+
+  - name: "Ji-Min Nam"
+    name_ko: "남지민"
+    linkedin: "https://www.linkedin.com/in/jimin-nam-8a09b4253/"
+    affiliation: "KAIST EE"
+    period: "2025 Summer"
+    topic: "column generation"
+
+  - name: "Geonwoo Han"
+    name_ko: "한건우"
+    linkedin: "https://www.linkedin.com/in/geonwoo-han-92a546367/"
+    affiliation: "KAIST CS"
+    period: "2025 Summer"
+    topic: "multi-armed bandit"
+
+  - name: "Minwoo Kim"
+    name_ko: "김민우"
+    linkedin: "https://www.linkedin.com/in/minuminu/"
+    affiliation: "KAIST ISE"
+    period: "2025 Summer"
+    topic: "neural combinatorial optimization"
+
+  - name: "Yuil Kim"
+    name_ko: "김유일"
+    linkedin: "https://www.linkedin.com/in/yuil-kim-b6b872287"
+    affiliation: "KAIST Math Sci"
+    period: "2025 Summer"
+    topic: "valid inequalities"
+
+  - name: "Malik Tolegen"
+    name_ko: "말릭 톨레겐"
+    linkedin: "https://www.linkedin.com/in/malik-tolegen-8a876a21a"
+    affiliation: "KAIST ISE"
+    period: "2024 Winter"
+    topic: "hybrid genetic algorithms, multiple traveling salesman problem"
+
+  - name: "Hyungyoon Kim"
+    name_ko: "김형윤"
+    linkedin: "https://www.linkedin.com/in/형윤-김-159551343/"
+    affiliation: "SNU IE"
+    period: "2024 Winter"
+    topic: "Probabilistic Study of TSP"
+
+  - name: "Gyutae Park"
+    name_ko: "박규태"
+    linkedin: "https://www.linkedin.com/in/gyutae-park-b97378343/"
+    affiliation: "KAIST ISE"
+    period: "2024 Winter"
+    topic: "decomposition-based optimization"
+
+  - name: "JeongYeon Choi"
+    name_ko: "최정연"
+    linkedin: "https://www.linkedin.com/in/정연-최-364baa313/"
+    affiliation: "KAIST ISE"
+    period: "2024 Summer"
+    topic: "data science, market design"
+
+  - name: "Sumin Kim"
+    name_ko: "김수민"
+    linkedin: "https://www.linkedin.com/in/수민-김-60a2a8314/"
+    affiliation: "KAIST ISE"
+    period: "2024 Summer"
+    topic: "reinforcement learning, hybrid genetic algorithms"
+
+  - name: "Jaehwan Lee"
+    name_ko: "이재환"
+    linkedin: "https://www.linkedin.com/in/jaehwanlee-878400314/"
+    affiliation: "Yonsei Applied Statistics"
+    period: "2024 Summer"
+    topic: "reinforcement learning, pickup-and-delivery problems"
+
+  - name: "Sangwoo Cho"
+    name_ko: "조상우"
+    linkedin: "https://www.linkedin.com/in/상우-조-303b96306/"
+    affiliation: "KAIST ISE"
+    period: "2024 Summer"
+    topic: "genetic algorithms, combinatorial optimization"
+
+  - name: "Haewon Son"
+    name_ko: "손해원"
+    linkedin: "https://www.linkedin.com/in/haewon-son-370643306/"
+    affiliation: "KAIST ISE"
+    period: "2024 Summer"
+    topic: "pickup-and-delivery problems, local search algorithms"
+
+  - name: "Junhak Lee"
+    name_ko: "이준학"
+    linkedin: "https://www.linkedin.com/in/준학-이-a68596300/"
+    affiliation: "KAIST ISE"
+    period: "2024 Spring"
+    topic: "traveling salesman problem, neural networks"
+
+  - name: "ByeongJun An"
+    name_ko: "안병준"
+    linkedin: "https://www.linkedin.com/in/병준-안-2571132a6/"
+    affiliation: "KAIST ISE"
+    period: "2023 Winter"
+    topic: "pickup-and-delivery problems, dynamic programming"
+
+  - name: "Sangil Han"
+    name_ko: "한상일"
+    linkedin: "https://www.linkedin.com/in/sangil-han-2879b4222/"
+    affiliation: "POSTECH IME"
+    period: "2023 Winter"
+    topic: "cut separation problems, simulated annealing"
+
+alumni:
+  kaist:
+    - name: "Junpyo Lee"
+      name_ko: "이준표"
+      linkedin: "https://www.linkedin.com/in/junpyo-lee-007984286/"
+      degree: "M.S."
+      year: 2025
+      thesis: "User Behavior-Driven Temporal Segmentation Optimization for Bike-Sharing Systems"
+
+    - name: "Doyoung Lee"
+      name_ko: "이도영"
+      linkedin: "https://www.linkedin.com/in/doyoung-lee-a915b01a4/"
+      degree: "M.S."
+      year: 2025
+      thesis: "Graph Transformer-based Neural Embedded Mixed-Integer Optimization for Solving Hierarchical Vehicle Routing Problems"
+
+    - name: "Hyeonah Kim"
+      name_ko: "김현아"
+      linkedin: "https://www.linkedin.com/in/hyeonahkimm/"
+      website: "https://hyeonahkimm.github.io"
+      degree: "Ph.D."
+      year: 2025
+      thesis: "Algorithmic Priors for Neural Combinatorial Optimization"
+      primary_advisor: "Dr. Jinkyoo Park"
+      primary_advisor_url: "http://silab.kaist.ac.kr/our-team/"
+
+  usf:
+    - name: "Abhay Sobhanan"
+      linkedin: "http://www.linkedin.com/in/abhaysobhanan"
+      website: "https://abhaysobhanan.github.io"
+      degree: "Ph.D."
+      year: 2025
+      thesis: "Pathways to Efficient and Equitable Solutions for Large-Scale Routing Problems"
+      co_advisor: "Dr. Hadi Charkhgard"
+      co_advisor_url: "http://www.eng.usf.edu/~hcharkhgard/"
+
+    - name: "Sasan Mahmoudinazlou"
+      linkedin: "https://www.linkedin.com/in/sasan-mahmoudinazlou-5a58591b3/"
+      degree: "Ph.D."
+      year: 2024
+      thesis: "Routing Problems Through the Lens of Hybrid Algorithms"
+      co_advisor: "Dr. Hadi Charkhgard"
+      co_advisor_url: "http://www.eng.usf.edu/~hcharkhgard/"
+
+    - name: "Xufei Liu"
+      linkedin: "https://www.linkedin.com/in/xufei-liu-973636205/"
+      degree: "Ph.D."
+      year: 2022
+      thesis: "Computational Methods for Solving the Combinatorial Optimization Problems in Transportation"
+
+    - name: "Aigerim Bogyrbayeva"
+      linkedin: "https://www.linkedin.com/in/bogyrbayeva/"
+      website: "https://sites.google.com/mail.usf.edu/aigerimb"
+      degree: "Ph.D."
+      year: 2021
+      thesis: "Optimization and Machine Learning Methods for Solving Combinatorial Problems in Urban Transportation"
+
+    - name: "Zulqarnain Haider"
+      linkedin: "https://www.linkedin.com/in/zulqarnain-haider-phd/"
+      website: "http://eng.usf.edu/~zulqarnain/"
+      degree: "Ph.D."
+      year: 2020
+      thesis: "Using Optimization Methods for Solving Problems in Sustainable Urban Mobility and Conservation Planning"
+      co_advisor: "Dr. Hadi Charkhgard"
+      co_advisor_url: "http://www.eng.usf.edu/~hcharkhgard/"
+
+    - name: "Mahdi Takalloo"
+      linkedin: "https://www.linkedin.com/in/mahdi-takalloo-a18495105/"
+      degree: "Ph.D."
+      year: 2020
+      thesis: "Game Theory Approaches for Transportation Problems"
+
+    - name: "Kevin Melendez"
+      linkedin: "https://www.linkedin.com/in/melendez09/"
+      degree: "Ph.D."
+      year: 2020
+      thesis: "On the Convergence of Transportation and Power Systems in Smart and Connected Communities"
+      co_advisor: "Dr. Tapas Das"
+      co_advisor_url: "http://www.eng.usf.edu/~das"
+
+    - name: "Liu Su"
+      linkedin: "https://www.linkedin.com/in/liu-su-6976b097/"
+      degree: "Ph.D."
+      year: 2019
+      thesis: "Routing and Designing Networks for Two Transportation Problems"
+
+    - name: "Aritra Pal"
+      linkedin: "https://www.linkedin.com/in/aritrasep/"
+      degree: "Ph.D."
+      year: 2017
+      thesis: "Improving Service Level of Free-Floating Bike Sharing Systems"
+
+  buffalo:
+    - name: "Anpeng Zhang"
+      linkedin: "https://www.linkedin.com/in/anpengzh7/"
+      degree: "Ph.D."
+      year: 2018
+      thesis: "Understanding and Modeling New Transportation Markets with Emerging Vehicle Technologies"
+      co_advisor: "Dr. Jee Eun Kang"
+      co_advisor_url: "http://www.acsu.buffalo.edu/~jeeeunka/"
+
+    - name: "Nan Ding"
+      linkedin: "https://www.linkedin.com/in/nan-ding-nbc/"
+      degree: "Ph.D."
+      year: 2017
+      thesis: "Enabling Urban Parcel Pick-up and Delivery using All-Electric Trucks"
+      co_advisor: "Dr. Rajan Batta"
+
+    - name: "Longsheng Sun"
+      linkedin: "https://www.linkedin.com/in/longshengsun/"
+      website: "https://longshengsun.net"
+      degree: "Ph.D."
+      year: 2016
+      thesis: "Designing Regulation Policies for Hazardous Materials Transportation"
+      co_advisor: "Dr. Mark Karwan"
+
+    - name: "Masoumeh Taslimi"
+      linkedin: "https://www.linkedin.com/in/masoumeh-taslimi-b33b9092/"
+      degree: "Ph.D."
+      year: 2015
+      thesis: "On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks"
+      co_advisor: "Dr. Rajan Batta"
+
+    - name: "Tolou Esfandeh"
+      linkedin: "https://www.linkedin.com/in/tolou-esfandeh-b179b237/"
+      degree: "Ph.D."
+      year: 2015
+      thesis: "Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies"
+      co_advisor: "Dr. Rajan Batta"
+
+    - name: "Iakovos Toumazis"
+      linkedin: "https://www.linkedin.com/pub/iakovos-toumazis/49/327/917"
+      website: "http://toumiak.com"
+      degree: "Ph.D."
+      year: 2015
+      thesis: "Dynamic Chemotherapy Scheduling for Metastatic Colorectal Cancer Patients: Assessments and Improvements"
+
+    - name: "Md. Tanveer Ahmed"
+      linkedin: "https://www.linkedin.com/in/mtahmed/"
+      degree: "Ph.D."
+      year: 2013
+      thesis: "Revenue Management for Online Advertisement Services"
+
+    - name: "Paul Berglund"
+      linkedin: "https://www.linkedin.com/in/paul-berglund-3161399b/"
+      degree: "Ph.D."
+      year: 2012
+      thesis: "Three Problems in Discrete Network Facility Location"
+
+    - name: "Yingying Kang"
+      linkedin: "https://www.linkedin.com/in/yingying-kang-3958061a/"
+      degree: "Ph.D."
+      year: 2011
+      thesis: "Value-at-Risk Models for Hazardous Materials Transportation"
+      co_advisor: "Dr. Rajan Batta"
+
+    - name: "Ali Sattarzadeh"
+      linkedin: "https://www.linkedin.com/in/alisattarzadeh"
+      degree: "M.S."
+      year: 2015
+      thesis: "Hazmat Network Design Considering Risk and Cost Equity"
+
+    - name: "Zulqarnain Haider"
+      linkedin: "https://www.linkedin.com/in/zulqarnain-haider-63482423/"
+      degree: "M.S."
+      year: 2014
+      thesis: "Inventory Rebalancing through Pricing in Public Bike Sharing Systems"
+
+    - name: "Chelsea Greene"
+      linkedin: "https://www.linkedin.com/in/cgreene3/"
+      degree: "M.S."
+      year: 2013
+      thesis: "OR/MS Approaches to Problems involving Hazardous Materials Risk and Impacts from a Natural Disaster"
+      co_advisor: "Dr. Rajan Batta"
+
+    - name: "Anand Srinivasan"
+      linkedin: "https://www.linkedin.com/in/anand-srinivasan-954a719/"
+      degree: "M.S."
+      year: 2010
+      thesis: "Operations of Online Advertising Services and Publisher's Options"
+
+    - name: "Amod Anand Agashe"
+      linkedin: "https://www.linkedin.com/in/amod-agashe-69070713/"
+      degree: "M.S."
+      year: 2010
+      thesis: "Stochastic Revenue Optimization in Online Advertising"
+
+    - name: "Varun Narayana Kutty"
+      linkedin: "https://www.linkedin.com/in/varunnk/"
+      degree: "M.S."
+      year: 2010
+      thesis: "Accept-Reject Decision in Online Advertising using Geometric Brownian Motion"
