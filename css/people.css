@@ -35,6 +35,14 @@ h3 + ul li p {
 .profile-icon svg {
     vertical-align: middle;
 }
+.profile-icon img {
+    vertical-align: middle;
+    filter: brightness(0) saturate(100%) invert(40%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(90%);
+    transition: filter 0.2s ease;
+}
+.profile-icon:hover img {
+    filter: brightness(0) saturate(100%) invert(18%) sepia(98%) saturate(1800%) hue-rotate(210deg) brightness(90%);
+}
 
 /* Member publications styles */
 .member-publications {
@@ -70,9 +78,9 @@ h3 + ul li p {
     display: block;
     margin-top: 0.5rem;
     margin-left: 0;
-    padding-left: 0;
+    padding-left: 1.5em;
     font-size: 1.2rem;
-    list-style-position: inside;
+    list-style-position: outside;
 }
 .member-publications ul.member-pub-list li {
     margin-bottom: 0.5rem;
@@ -116,6 +124,12 @@ h3 + ul li p {
     body:not(.light-theme) .profile-icon:hover {
         color: #5FBEEB;
     }
+    body:not(.light-theme) .profile-icon img {
+        filter: brightness(0) saturate(100%) invert(75%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%);
+    }
+    body:not(.light-theme) .profile-icon:hover img {
+        filter: brightness(0) saturate(100%) invert(70%) sepia(50%) saturate(500%) hue-rotate(165deg) brightness(105%);
+    }
     body:not(.light-theme) .member-publications summary.papers-toggle {
         color: #ddd;
         background-color: #333;
@@ -149,6 +163,12 @@ body.dark-theme .profile-icon {
 }
 body.dark-theme .profile-icon:hover {
     color: #5FBEEB;
+}
+body.dark-theme .profile-icon img {
+    filter: brightness(0) saturate(100%) invert(75%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%);
+}
+body.dark-theme .profile-icon:hover img {
+    filter: brightness(0) saturate(100%) invert(70%) sepia(50%) saturate(500%) hue-rotate(165deg) brightness(105%);
 }
 body.dark-theme .member-publications summary.papers-toggle {
     color: #ddd;
