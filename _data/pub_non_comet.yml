@@ -1,0 +1,23 @@
+# Publications by co-advisees
+# Add new publications by copying an entry and filling in the fields
+
+- id: doganbas2024tsp
+  authors: "Merve Doganbas, Hayong Shin"
+  year: 2024
+  title: "Traveling salesman problem with backend information processing"
+  journal: "Operations Research Letters"
+  volume: "57"
+  pages: "107213"
+  doi: "10.1016/j.orl.2024.107193"
+  abstract: "This paper introduces the Traveling Salesman Problem (TSP) with Backend Information Processing (bTSP), which integrates backend processing times into path planning to minimize the makespan. The study develops a mixed integer linear programming formulation and conducts a theoretical analysis to understand the relationship between the TSP and the bTSP. The results show that an optimal solution for the bTSP can be efficiently derived by leveraging the connection to the standard TSP."
+
+- id: lee2024supervised
+  authors: "Jaehwan Lee, Soongeol Kwon"
+  year: 2024
+  title: "Supervised Optimization Framework for Charging and Discharging Controls of Battery Energy Storage"
+  journal: "IEEE Transactions on Smart Grid"
+  volume: "15"
+  issue: "6"
+  pages: "5610-5621"
+  doi: "10.1109/TSG.2024.3416369"
+  abstract: "Although residential houses have widely adopted battery energy storage (BES) in conjunction with solar photovoltaic (PV) panels, it has been challenging to optimize BES controls owing to the uncertainty inherent in electricity prices, renewable energy resources, and electricity demand loads. The main objective of this study is to propose a supervised optimization (SO) framework designed to enable supervised learning to infer efficient BES operations in conjunction with mathematical optimization. Based on the proposed SO framework, a mathematical optimization model is formulated and solved to generate optimal charging and discharging controls given historical data in an offline optimization fashion. Then, a supervised learning model can be trained based on the optimal charging and discharging controls to infer efficient BES charging and discharging controls in an online optimization fashion. Specifically, an objective function and constraints driven by the mathematical optimization model are reflected in the course of training and inferring by supervised learning models so that the SO framework can infer feasible and efficient BES controls. Numerical experiments are conducted with data collected from a residential community in Texas, and the results reveal that the proposed SO framework results in better performance compared to the benchmark model, such as reinforcement learning and model predictive control."
