@@ -55,12 +55,12 @@ a.abstract_button:hover {
 
 
 @media (prefers-color-scheme: dark) {
-    .ecrm-0700,
-    .abstract_button {
+    body:not(.light-theme) .ecrm-0700,
+    body:not(.light-theme) .abstract_button {
         color: #ddd;
     }
 
-    .ecrm-0700:hover {
+    body:not(.light-theme) .ecrm-0700:hover {
         color: lighten($blue, 20%);
         text-decoration: none;
         background-image: linear-gradient(to top,
@@ -71,24 +71,52 @@ a.abstract_button:hover {
         );
     }
 
-    .article_title {
-        color: #ddd; 
+    body:not(.light-theme) .article_title {
+        color: #ddd;
     }
 
-    .klink,
-    .abstract_button {
-        color: #ddd;;
+    body:not(.light-theme) .klink,
+    body:not(.light-theme) .abstract_button {
+        color: #ddd;
         background-color: #333;
-        border: 1px solid #eee;
+        border: 1px solid #666;
     }
 
-    .kcode {
+    body:not(.light-theme) .kcode {
         font-size: 70%;
     }
 
-    a.klink:hover,
-    a.abstract_button:hover {
-        background-color: #eee;
-        color: #333;
+    body:not(.light-theme) a.klink:hover,
+    body:not(.light-theme) a.abstract_button:hover {
+        background-color: #555;
+        color: #fff;
     }
+}
+
+/* Manual dark theme styles */
+body.dark-theme .ecrm-0700,
+body.dark-theme .abstract_button {
+    color: #ddd;
+}
+
+body.dark-theme .ecrm-0700:hover {
+    color: #90caf9;
+    text-decoration: none;
+}
+
+body.dark-theme .article_title {
+    color: #ddd;
+}
+
+body.dark-theme .klink,
+body.dark-theme .abstract_button {
+    color: #ddd;
+    background-color: #333;
+    border: 1px solid #666;
+}
+
+body.dark-theme a.klink:hover,
+body.dark-theme a.abstract_button:hover {
+    background-color: #555;
+    color: #fff;
 }
