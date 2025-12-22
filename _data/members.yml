@@ -115,6 +115,20 @@ current:
     show_publications: true
 
 undergraduate:
+  - name: "Jungwon Ahn"
+    name_ko: "안정원"
+    linkedin: "https://www.linkedin.com/in/ingarden117/"
+    affiliation: "KAIST ISE"
+    period: "2025 Winter"
+    topic: "large-scale optimization, AI agent"
+  
+  - name: "Donghyun Im"
+    name_ko: "임동현"
+    linkedin: "https://www.linkedin.com/in/dohnghyun-im-7a96573a1/"
+    affiliation: "SKKU IE"
+    period: "2025 Winter"
+    topic: "primal-dual hybrid gradient, GPU computing"
+
   - name: "Agata Kazakevic"
     name_ko: "아가타"
     linkedin: "https://www.linkedin.com/in/agata-kazakevic/"
