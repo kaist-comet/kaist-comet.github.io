@@ -1,5 +1,23 @@
 /* People Page Styles */
 
+/* Member card two-column layout */
+.member-card-row {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    align-items: flex-start;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #ddd;
+}
+.member-card-photo {
+    flex-shrink: 0;
+}
+.member-card-info {
+    flex: 1;
+    min-width: 0;
+}
+
 /* Compact bullet lists for undergraduate and alumni sections */
 h2 + ul,
 h3 + ul {
@@ -48,6 +66,7 @@ h3 + ul li p {
 .member-publications {
     display: block;
     overflow: hidden;
+    margin-top: 0.5rem;
 }
 .member-publications details.papers-details {
     display: inline;
@@ -123,6 +142,9 @@ h3 + ul li p {
 
 /* Dark mode - system preference */
 @media (prefers-color-scheme: dark) {
+    body:not(.light-theme) .member-card-row {
+        border-bottom-color: #444;
+    }
     body:not(.light-theme) .profile-icon {
         color: #aaa;
     }
@@ -163,6 +185,9 @@ h3 + ul li p {
 }
 
 /* Dark mode - manual toggle */
+body.dark-theme .member-card-row {
+    border-bottom-color: #444;
+}
 body.dark-theme .profile-icon {
     color: #aaa;
 }
