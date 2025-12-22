@@ -5,33 +5,35 @@ Usage: {% include member-card.html member=member %}
 
 {% assign m = include.member %}
 
-<h3>{{ m.name }}</h3>
-
-{% if m.role == "Principal Investigator" %}
-<div class="member-card-row">
-  <div class="member-card-photo">
-    <img src="{{ m.image }}" class="profile" />
+<div class="member-card">
+  <div class="member-card__row1">
+    <div class="member-card__photo">
+      <img src="{{ m.image }}" alt="{{ m.name }}" />
+    </div>
+    <div class="member-card__header">
+      <h3 class="member-card__name">{{ m.name }}{% if m.name_alt or m.name_ko %} <span class="member-card__name-ko">({% if m.name_alt %}{{ m.name_alt }}{% if m.name_ko %}, {% endif %}{% endif %}{{ m.name_ko }})</span>{% endif %}</h3>
+      <div class="member-card__role">
+        <span class="member-card__role-badge {% if m.role == 'Principal Investigator' %}member-card__role-badge--pi{% elsif m.role == 'Ph.D. Student' %}member-card__role-badge--phd{% elsif m.role == "Master's Student" %}member-card__role-badge--ms{% endif %}">{{ m.role }}</span>
+        {% if m.department %}<span class="member-card__dept">{{ m.department }}</span>{% endif %}
+      </div>
+      <div class="member-card__links">
+        {% if m.website %}<a href="{{ m.website }}" class="member-card__link" title="Personal Page" target="_blank"><img src="/images/homepage.svg" alt="Website" /></a>{% endif %}
+        {% if m.google_scholar %}<a href="{{ m.google_scholar }}" class="member-card__link" title="Google Scholar" target="_blank"><img src="/images/google-scholar.svg" alt="Google Scholar" /></a>{% endif %}
+        {% if m.github %}<a href="{{ m.github }}" class="member-card__link" title="GitHub" target="_blank"><img src="/images/github-mark.svg" alt="GitHub" /></a>{% endif %}
+        {% if m.linkedin %}<a href="{{ m.linkedin }}" class="member-card__link" title="LinkedIn" target="_blank"><img src="/images/linkedin.svg" alt="LinkedIn" /></a>{% endif %}
+        {% if m.youtube %}<a href="{{ m.youtube }}" class="member-card__link" title="YouTube" target="_blank"><img src="/images/youtube.svg" alt="YouTube" /></a>{% endif %}
+      </div>
+    </div>
   </div>
-  <div class="member-card-info">
-    <a href="{{ m.linkedin }}" target="_blank">{{ m.title }} {{ m.name }} ({{ m.name_ko }})</a> {{ m.bio }}
-    <br><br>
-    {% if m.website %}<a href="{{ m.website }}" class="profile-icon" title="Personal Page" target="_blank"><img src="/images/homepage.svg" width="22" height="22" alt="Personal Page" /></a>{% endif %} {% if m.google_scholar %}<a href="{{ m.google_scholar }}" class="profile-icon" title="Google Scholar" target="_blank"><img src="/images/google-scholar.svg" width="22" height="22" alt="Google Scholar" /></a>{% endif %} {% if m.github %}<a href="{{ m.github }}" class="profile-icon" title="GitHub" target="_blank"><img src="/images/github-mark.svg" width="22" height="22" alt="GitHub" /></a>{% endif %} {% if m.linkedin %}<a href="{{ m.linkedin }}" class="profile-icon" title="LinkedIn" target="_blank"><img src="/images/linkedin.svg" width="20" height="20" alt="LinkedIn" /></a>{% endif %} {% if m.youtube %}<a href="{{ m.youtube }}" class="profile-icon" title="s.t. interview" target="_blank"><img src="/images/youtube.svg" width="22" height="22" alt="YouTube" /></a>{% endif %}
-  </div>
-</div>
-{% else %}
-<div class="member-card-row">
-  <div class="member-card-photo">
-    <img src="{{ m.image }}" class="profile" />
-  </div>
-  <div class="member-card-info">
-    <a href="{{ m.linkedin }}" target="_blank">{{ m.name }}{% if m.name_alt %} ({{ m.name_alt }}{% if m.name_ko %}, {{ m.name_ko }}{% endif %}){% elsif m.name_ko %} ({{ m.name_ko }}){% endif %}</a> {{ m.bio }}
-    <br><br>
-    {% if m.linkedin or m.website or m.google_scholar or m.github %}
-    {% if m.website %}<a href="{{ m.website }}" class="profile-icon" title="Personal Page" target="_blank"><img src="/images/homepage.svg" width="22" height="22" alt="Personal Page" /></a>{% endif %} {% if m.google_scholar %}<a href="{{ m.google_scholar }}" class="profile-icon" title="Google Scholar" target="_blank"><img src="/images/google-scholar.svg" width="24" height="22" alt="Google Scholar" /></a>{% endif %} {% if m.github %}<a href="{{ m.github }}" class="profile-icon" title="GitHub" target="_blank"><img src="/images/github-mark.svg" width="22" height="22" alt="GitHub" /></a>{% endif %} {% if m.linkedin %}<a href="{{ m.linkedin }}" class="profile-icon" title="LinkedIn" target="_blank"><img src="/images/linkedin.svg" width="20" height="20" alt="LinkedIn" /></a>{% endif %}
-    <br><br>
+  <div class="member-card__row2">
+    <p class="member-card__bio"><strong>{{ m.name }}</strong> {{ m.bio }}</p>
+    {% if m.primary_advisor %}
+    <p class="member-card__advisor">Co-advised by <a href="{{ m.primary_advisor_url }}">{{ m.primary_advisor }}</a></p>
     {% endif %}
-    {% if m.show_publications %}<span class="member-publications" data-author="{{ m.name }}"></span>{% endif %}
-    <br>
+    {% if m.show_publications %}
+    <div class="member-card__publications">
+      <span class="member-publications" data-author="{{ m.name }}"></span>
+    </div>
+    {% endif %}
   </div>
 </div>
-{% endif %}

@@ -30,7 +30,7 @@ current:
   - name: "Merve Doganbas"
     name_alt: "Merve Doğanbaş"
     name_ko: "메르베 도안바시"
-    role: "Ph.D. Candidate"
+    role: "Ph.D. Student"
     department: "ISE"
     image: "/people/images/merve.jpg"
     linkedin: "https://www.linkedin.com/in/mervedoganbas/"
@@ -59,7 +59,7 @@ current:
 
   - name: "Sohyun Jeong"
     name_ko: "정소현"
-    role: "Ph.D. Candidate"
+    role: "Ph.D. Student"
     department: "GSDS"
     image: "/people/images/sohyun_jeong.jpg"
     linkedin: "https://www.linkedin.com/in/sohyun-jeong-13bb0778/"
@@ -101,7 +101,7 @@ current:
     department: "ISE"
     image: "/people/images/suyeon_choi.jpg"
     linkedin: "https://www.linkedin.com/in/suyeon-choi-370909326/"
-    bio: "is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She was previously advised by Professor Seungki Min and has been advised by Professor Changhyun Kwon since 2025. She joined COMET in 2025."
+    bio: "is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She joined COMET in 2025."
     show_publications: true
 
   - name: "Thi Thao Vy Bui"

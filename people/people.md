@@ -33,13 +33,14 @@ The Computational Optimization Methods (COMET) Lab is a research group led by Dr
 
 ## Current Members
 
-Introducing the current members of the COMET Lab.
-
+<div class="members-grid">
 {% for member in site.data.members.current %}
 {% include member-card.html member=member %}
 {% endfor %}
+</div>
 
 ## Undergraduate Researchers
+
 {% for ug in site.data.members.undergraduate %}
 - [{{ ug.name }} ({{ ug.name_ko }})]({{ ug.linkedin }}), {{ ug.affiliation }}, {{ ug.period }}, Topic: {{ ug.topic }}
 {% endfor %}
