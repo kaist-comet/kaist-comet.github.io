@@ -6,7 +6,7 @@ tags: menu
 weight: 5
 ---
 
-<a target="_blank" href="https://github.com/kaist-comet">
+<a href="https://github.com/kaist-comet">
     <picture>
     <source srcset="/images/github-mark-blue.svg" media="(prefers-color-scheme: light)"/>
     <source srcset="/images/github-mark-white.svg"  media="(prefers-color-scheme: dark)"/>

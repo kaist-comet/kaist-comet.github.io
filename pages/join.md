@@ -46,7 +46,7 @@ Interested students are encouraged to contact Dr. Changhyun Kwon at **chkwon (at
 ### Relevant Links
 - [Degree Programs at KAIST ISE](http://ise.kaist.ac.kr/0401)
 - [KAIST Office of Admissions](https://admission.kaist.ac.kr)
-- <span style="font-family: 'Do Hyeon'; font-size: 20pt;">대학원생 때 알았더라면 좋았을 것들</span> - <a href="https://gradschoolstory.chkwon.net" target="_blank">블로그</a>
+- <span style="font-family: 'Do Hyeon'; font-size: 20pt;">대학원생 때 알았더라면 좋았을 것들</span> - <a href="https://gradschoolstory.chkwon.net">블로그</a>
 
 <a href="https://book.naver.com/bookdb/review.nhn?bid=14820673" target="blank"><img src="https://www.chkwon.net/images/gradschoolstory.jpeg" width="150"></a>
 
