@@ -97,6 +97,10 @@
     body:not(.light-theme) .footer-logo {
         filter: invert(1) grayscale(1) brightness(0.7);
     }
+
+    body:not(.light-theme) picture img {
+        filter: brightness(0) invert(1);
+    }
   }
 
 /* Manual dark theme - applied when user explicitly chooses dark */
@@ -191,6 +195,17 @@ body.dark-theme code {
 
 body.dark-theme .footer-logo {
     filter: invert(1) grayscale(1) brightness(0.7);
+}
+
+/* GitHub logo styling for dark mode */
+body.dark-theme picture img {
+    filter: brightness(0) invert(1);
+}
+
+@media (prefers-color-scheme: dark) {
+    body:not(.light-theme) picture img {
+        filter: brightness(0) invert(1);
+    }
 }
 
 /* Theme toggle button styles */
