@@ -92,7 +92,9 @@ current:
     department: "GSDS"
     image: "/people/images/jaehwan_lee_sq.jpg"
     linkedin: "https://www.linkedin.com/in/jaehwanlee-878400314/"
-    bio: "is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research interests include OR-based Quantum Computing Enhancement and Quantum Computing-based Optimization Acceleration. He joined COMET in 2025."
+    website: "https://jaehwan-2ee.github.io/"
+    google_scholar: "https://scholar.google.com/citations?user=sIbRfHgAAAAJ"
+    bio: "is a Ph.D. student in the GSDS at KAIST. He received a BA degree in Applied Statistics from Yonsei University. His current research mainly focuses on the integration of quantum computing and operations research. He joined COMET in 2025."
     show_publications: true
 
   - name: "Suyeon Choi"
