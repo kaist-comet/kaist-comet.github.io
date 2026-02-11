@@ -122,7 +122,7 @@ current:
     department: "ISE"
     image: "/people/images/sangil_han_sq.jpg"
     linkedin: "https://www.linkedin.com/in/sangil-han-2879b4222/"
-    bio: ".is a Ph.D. student in the ISE Department at KAIST. He received his B.S. and M.S. in Industrial and Management Engineering from POSTECH. His research interests include combinatorial optimization and deep learning. He joined COMET in 2026."
+    bio: "is a Ph.D. student in the ISE Department at KAIST. He received his B.S. and M.S. in Industrial and Management Engineering from POSTECH. His research interests include combinatorial optimization and deep learning. He joined COMET in 2026."
     show_publications: true
 
 undergraduate:
