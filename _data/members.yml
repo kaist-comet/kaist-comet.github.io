@@ -27,18 +27,6 @@ current:
     bio: "is a Ph.D. student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Korea University. Her current research interests include large-scale optimization, vehicle routing problems, and LLMs. She joined COMET in 2023."
     show_publications: true
 
-  - name: "Merve Doganbas"
-    name_alt: "Merve Doğanbaş"
-    name_ko: "메르베 도안바시"
-    role: "Ph.D. Student"
-    department: "ISE"
-    image: "/people/images/merve_sq.jpg"
-    linkedin: "https://www.linkedin.com/in/mervedoganbas/"
-    primary_advisor: "Professor Hayong Shin"
-    primary_advisor_url: "http://sal.kaist.ac.kr/?page_id=19"
-    bio: "is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is Professor Hayong Shin and has been co-advised by Professor Changhyun Kwon since 2023."
-    show_publications: true
-
   - name: "Jae Hyeok Lee"
     name_ko: "이재혁"
     role: "Ph.D. Student"
@@ -254,6 +242,19 @@ undergraduate:
 
 alumni:
   kaist:
+    - name: "Merve Doganbas"
+      name_alt: "Merve Doğanbaş"
+      name_ko: "메르베 도안바시"
+      role: "Ph.D. Student"
+      department: "ISE"
+      image: "/people/images/merve_sq.jpg"
+      linkedin: "https://www.linkedin.com/in/mervedoganbas/"
+      primary_advisor: "Professor Hayong Shin"
+      primary_advisor_url: "http://sal.kaist.ac.kr/?page_id=19"
+      bio: "is a Ph.D. candidate in the ISE Department at KAIST. She received her MS in ISE from KAIST and her BS in Industrial Engineering from Bilkent University in Turkey. She is interested in combinatorial optimization, reinforcement learning, and deep learning. Her primary advisor is Professor Hayong Shin and has been co-advised by Professor Changhyun Kwon since 2023."
+      thesis: "Routing Problems at the Intersection of Classical Optimization and Learning-Based Methods"
+      show_publications: true
+
     - name: "Junpyo Lee"
       name_ko: "이준표"
       linkedin: "https://www.linkedin.com/in/junpyo-lee-007984286/"
