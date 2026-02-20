@@ -103,6 +103,17 @@ current:
     linkedin: "https://www.linkedin.com/in/vy-bui-ba0a181aa/"
     bio: "is a master's student in the ISE department at KAIST. She received a BEng degree in Logistics and Supply Chain Management from HCMC University of Technology (HCMUT). Her research interests include optimization, vehicle routing problems, and humanitarian logistics. She joined COMET in 2025."
     show_publications: true
+    
+  - name: "Shiwon Park"
+    name_ko: "박시원"
+    role: "Master's Student"
+    department: "AIM"
+    image: "/people/images/shiwon_park_sq.jpg"
+    linkedin: "https://www.linkedin.com/in/siwonpada/"
+    website: "https://siwonpada.github.io/"
+    github: "https://github.com/siwonpada"
+    bio: "is a master's student in the AI4Math Department at KAIST. He received a BS degree in Electrical Engineering and Computer Science (EECS) from Gwangju Institute of Science and Technology (GIST). His current research interests include combinatorial optimization, reinforcement learning, and quantum computing. He joined COMET in 2026."
+    show_publications: true
 
   - name: "Sangil Han"
     name_ko: "한상일"
