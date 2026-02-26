@@ -124,6 +124,15 @@ current:
     bio: "is a Ph.D. student in the ISE Department at KAIST. He received his B.S. and M.S. in Industrial and Management Engineering from POSTECH. His research interests include combinatorial optimization and deep learning. He joined COMET in 2026."
     show_publications: true
 
+  - name: "Jimin Nam"
+    name_ko: "남지민"
+    role: "Master's Student"
+    department: "ISE"
+    image: "/people/images/jimin_nam_sq.jpg"
+    linkedin: "https://www.linkedin.com/in/jimin-nam-8a09b4253/"
+    bio: "is a master's student in the ISE Department at KAIST. She received a BS degree in Electrical Engineering from KAIST. Her research interests include combinatorial optimization, reinforcement learning, and AI agent. She joined COMET in 2026."
+    show_publications: true
+
 undergraduate:
   - name: "Jungwon Ahn"
     name_ko: "안정원"
