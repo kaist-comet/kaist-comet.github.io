@@ -107,12 +107,14 @@ current:
   - name: "Shiwon Park"
     name_ko: "박시원"
     role: "Master's Student"
-    department: "AIM"
+    department: "AI4Math"
     image: "/people/images/shiwon_park_sq.jpg"
     linkedin: "https://www.linkedin.com/in/siwonpada/"
     website: "https://siwonpada.github.io/"
     github: "https://github.com/siwonpada"
-    bio: "is a master's student in the AI4Math Department at KAIST. He received a BS degree in Electrical Engineering and Computer Science (EECS) from Gwangju Institute of Science and Technology (GIST). His current research interests include combinatorial optimization, reinforcement learning, and quantum computing. He joined COMET in 2026."
+    co_advisor: "Professor Donghwan Kim"
+    co_advisor_url: "https://mathsci.kaist.ac.kr/~donghwankim/index.html"
+    bio: "is a master's student in the Graduate School of AI for Math at KAIST. He received a BS degree in Electrical Engineering and Computer Science (EECS) from Gwangju Institute of Science and Technology (GIST). His current research interests include combinatorial optimization, reinforcement learning, and quantum computing. His co-advisor is Professor Donghwan Kim. He joined COMET in 2026."
     show_publications: true
 
   - name: "Sangil Han"

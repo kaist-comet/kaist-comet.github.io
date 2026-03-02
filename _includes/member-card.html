@@ -30,6 +30,9 @@ Usage: {% include member-card.html member=member %}
     {% if m.primary_advisor %}
     <p class="member-card__advisor">Co-advised by <a href="{{ m.primary_advisor_url }}">{{ m.primary_advisor }}</a></p>
     {% endif %}
+    {% if m.co_advisor %}
+    <p class="member-card__advisor">Co-advised by <a href="{{ m.co_advisor_url }}">{{ m.co_advisor }}</a></p>
+    {% endif %}
     {% if m.show_publications %}
     <div class="member-card__publications">
       <span class="member-publications" data-author="{{ m.name }}"></span>
