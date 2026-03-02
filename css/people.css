@@ -21,6 +21,9 @@
    ======================================== */
 
 .member-card {
+    box-sizing: border-box;
+    min-width: 0;
+    overflow-wrap: break-word;
     background: #fafafa;
     border-radius: 12px;
     padding: 1.5rem;
@@ -404,23 +407,26 @@ h3 + ul li p {
 
 @media (max-width: 600px) {
     .member-card {
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
         padding: 1.25rem;
     }
 
-    .member-card__header {
-        justify-content: center;
-    }
-
-    .member-card__role {
-        justify-content: center;
+    .member-card__name {
+        font-size: 1.35rem;
     }
 
     .member-card__photo img {
-        width: 120px;
-        height: 120px;
+        width: 80px;
+        height: 80px;
+    }
+
+    .member-card__link {
+        width: 28px;
+        height: 28px;
+    }
+
+    .member-card__link img {
+        width: 16px;
+        height: 16px;
     }
 
     .members-grid {
