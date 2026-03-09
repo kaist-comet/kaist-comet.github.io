@@ -67,3 +67,18 @@ The Computational Optimization Methods (COMET) Lab is a research group led by Dr
 
 <link rel="stylesheet" href="/css/people.css">
 <script src="/lib/member-publications.js"></script>
+<script>
+(function() {
+  var grid = document.querySelector('.members-grid');
+  if (!grid) return;
+  var cards = Array.from(grid.children);
+  var pi = cards.shift();
+  for (var i = cards.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var temp = cards[i]; cards[i] = cards[j]; cards[j] = temp;
+  }
+  grid.textContent = '';
+  grid.appendChild(pi);
+  cards.forEach(function(c) { grid.appendChild(c); });
+})();
+</script>
