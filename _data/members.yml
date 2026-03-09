@@ -62,6 +62,8 @@ current:
     department: "ISE"
     image: "/people/images/taekang_hwang_sq.jpg"
     linkedin: "https://www.linkedin.com/in/taekang-hwang-91a8ba202/"
+    website: "https://take-001.github.io/"
+    github: "https://github.com/take-001"
     bio: "is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Management Engineering from Hankuk University of Foreign Studies. His current research interests include mathematical optimization, integer programming and polyhedral combinatorics. He joined COMET in 2024."
     show_publications: true
 
