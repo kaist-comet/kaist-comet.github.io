@@ -91,6 +91,7 @@ current:
     department: "ISE"
     image: "/people/images/suyeon_choi_sq.jpg"
     linkedin: "https://www.linkedin.com/in/suyeon-choi-370909326/"
+    website: "https://noeyusiohc.github.io/"
     bio: "is a PhD student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. in Industrial Engineering from Yonsei University. Her research interests include mathematical optimization, machine learning and market design. She joined COMET in 2025."
     show_publications: true
 
