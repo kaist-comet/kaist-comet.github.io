@@ -42,7 +42,7 @@ current:
     department: "ISE"
     image: "/people/images/jihye_na_sq.jpg"
     linkedin: "http://www.linkedin.com/in/jihye-na-b0bb5129b"
-    bio: "is a master's student in the ISE Department at KAIST. She received a BS degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and Monte Carlo methods. She joined COMET in 2024."
+    bio: "is a Ph.D. student in the ISE Department at KAIST. She received her M.S. in ISE from KAIST and a B.S. degree in Industrial Engineering from Hanyang University. Her current research interests include mathematical optimization, machine learning, and bilevel optimization. She joined COMET in 2024."
     show_publications: true
 
   - name: "Sohyun Jeong"
