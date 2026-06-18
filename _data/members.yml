@@ -139,6 +139,27 @@ current:
     show_publications: true
 
 undergraduate:
+  - name: "Taeyeong Yoo"
+    name_ko: "유태영"
+    linkedin: "https://www.linkedin.com/in/taeyeong-yoo-100b30292"
+    affiliation: "KAIST ISE"
+    period: "2026 Summer"
+    topic: "network design, Benders decomposition"
+  
+  - name: "Nurbolat Polatkhan"
+    name_ko: "누르볼랏 폴라트칸"
+    linkedin: "https://www.linkedin.com/in/nurbolat-polatkhan-42a653306"
+    affiliation: "KAIST ISE"
+    period: "2026 Summer"
+    topic: "column generation, dual stabilization"
+
+  - name: "Janghyeok Choi"
+    name_ko: "최장혁"
+    linkedin: "https://www.linkedin.com/in/janghyeok-choi-571ab8347/"
+    affiliation: "SNU IE"
+    period: "2026 Summer"
+    topic: "nneural combinatorial optimization, decoder"
+
   - name: "Jungwon Ahn"
     name_ko: "안정원"
     linkedin: "https://www.linkedin.com/in/ingarden117/"
