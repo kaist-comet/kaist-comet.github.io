@@ -39,6 +39,12 @@ The Computational Optimization Methods (COMET) Lab is a research group led by Dr
 {% endfor %}
 </div>
 
+## Visiting Students
+
+{% for vs in site.data.members.visiting %}
+- [{{ vs.name }}]({{ vs.linkedin }}), {{ vs.affiliation }}, {{ vs.period }}, Topic: {{ vs.topic }}
+{% endfor %}
+
 ## Undergraduate Researchers
 
 {% for ug in site.data.members.undergraduate %}

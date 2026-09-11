@@ -147,6 +147,13 @@ current:
     bio: "is a master's student in the ISE Department at KAIST. She received a BS degree in Applied Math and Physics from MIPT. Her research interests include artificial intelligence, smart manufacturing, simulation-based optimization, and operations research. She joined COMET in 2026."
     show_publications: true
 
+visiting:
+  - name: "Viktorie Valdmanová"
+    linkedin: "https://www.linkedin.com/in/viktorie-valdmanová-275775245/"
+    affiliation: "Czech Technical University in Prague"
+    period: "2026 Fall"
+    topic: "decomposition methods, branch and price, machine learning"
+
 undergraduate:
   - name: "Taeyeong Yoo"
     name_ko: "유태영"
