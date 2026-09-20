@@ -35,6 +35,9 @@ Usage: {% include member-card.html member=member %}
     <p class="member-card__advisor">Co-advised by <a href="{{ m.co_advisor_url }}">{{ m.co_advisor }}</a></p>
     {% endif %}
   </div>
+  {% if m.show_publications %}
+  <div class="member-card__publications member-publications" data-author="{{ m.name | escape }}"></div>
+  {% endif %}
   {% if m.website or m.google_scholar or m.github or m.linkedin or m.youtube %}
   <div class="member-card__links">
     {% if m.website %}<a href="{{ m.website }}" class="member-card__link" title="Personal Page" aria-label="{{ m.name | escape }}: Personal Page"><img src="/images/homepage.svg" alt="" /></a>{% endif %}
@@ -43,8 +46,5 @@ Usage: {% include member-card.html member=member %}
     {% if m.linkedin %}<a href="{{ m.linkedin }}" class="member-card__link" title="LinkedIn" aria-label="{{ m.name | escape }}: LinkedIn"><img src="/images/linkedin.svg" alt="" /></a>{% endif %}
     {% if m.youtube %}<a href="{{ m.youtube }}" class="member-card__link" title="YouTube" aria-label="{{ m.name | escape }}: YouTube"><img src="/images/youtube.svg" alt="" /></a>{% endif %}
   </div>
-  {% endif %}
-  {% if m.show_publications %}
-  <div class="member-card__publications member-publications" data-author="{{ m.name | escape }}"></div>
   {% endif %}
 </div>

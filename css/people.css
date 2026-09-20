@@ -84,6 +84,8 @@
    ======================================== */
 
 .member-card__row2 {
+    /* Absorb spare height so the final links row aligns across adjacent cards. */
+    flex-grow: 1;
     border-top: 1px solid #e8e8e8;
     padding-top: 16px;
 }
