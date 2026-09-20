@@ -33,11 +33,30 @@
     font-size: 1.38rem; /* 16px */
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 0;
     border: 1px solid #e8e8e8;
 }
 
-.member-card :is(a, summary, button):focus-visible {
+.member-card__main {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    min-width: 0;
+    gap: 16px;
+    grid-row: 1;
+}
+
+/* Share the overview height across each pair; expanded papers occupy a separate row. */
+@supports (grid-template-rows: subgrid) {
+    .member-card {
+        display: grid;
+        grid-template-rows: subgrid;
+        grid-row: span 2;
+        row-gap: 0;
+    }
+}
+
+.member-card :is(a, button):focus-visible {
     outline: 2px solid var(--member-focus-color);
     outline-offset: 3px;
 }
@@ -84,7 +103,7 @@
    ======================================== */
 
 .member-card__row2 {
-    /* Absorb spare height so the final links row aligns across adjacent cards. */
+    /* Absorb spare overview height so the action rows align across adjacent cards. */
     flex-grow: 1;
     border-top: 1px solid #e8e8e8;
     padding-top: 16px;
@@ -115,7 +134,7 @@
     overflow-wrap: anywhere;
 }
 
-/* Social Links */
+/* Profile links and Papers toggle */
 .member-card__links {
     display: flex;
     flex-wrap: wrap;
@@ -123,7 +142,7 @@
     align-items: center;
 }
 
-.member-card__link {
+.member-card .member-card__link {
     box-sizing: border-box;
     display: inline-flex;
     align-items: center;
@@ -131,13 +150,18 @@
     flex: 0 0 44px;
     width: 44px;
     height: 44px;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    line-height: 1;
     border-radius: 6px;
     background: #fff;
     border: 1px solid #e0e0e0;
     transition: background-color 0.2s ease, border-color 0.2s ease;
 }
 
-.member-card__link:hover {
+.member-card__link:hover,
+.member-card__link[aria-expanded="true"] {
     background: #004191;
     border-color: #004191;
 }
@@ -149,7 +173,8 @@
     transition: filter 0.2s ease;
 }
 
-.member-card__link:hover img {
+.member-card__link:hover img,
+.member-card__link[aria-expanded="true"] img {
     filter: brightness(0) invert(1);
 }
 
@@ -220,10 +245,12 @@
 
 /* Publications Section */
 .member-card__publications {
-    margin-top: 0;
+    grid-row: 2;
+    margin-top: 16px;
 }
 
-.member-card__publications:empty {
+.member-card__publications:empty,
+.member-card__publications[hidden] {
     display: none;
 }
 
@@ -342,44 +369,9 @@ h3 + ul li p {
     overflow-wrap: anywhere;
 }
 
-.member-publications details.papers-details {
-    display: block;
-}
-
-.member-publications summary.papers-toggle {
-    box-sizing: border-box;
-    display: inline-flex;
-    align-items: center;
-    min-height: 44px;
-    cursor: pointer;
-    list-style: none;
-    font-family: 'Raleway', sans-serif;
-    font-size: var(--member-text-small);
-    line-height: 1.4;
-    font-weight: 500;
-    color: #004191;
-    background-color: #e8f4fd;
-    border: 1px solid #b8d4f0;
-    border-radius: 20px;
-    padding: 8px 14px;
-    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
-}
-
-.member-publications summary.papers-toggle::-webkit-details-marker {
-    display: none;
-}
-
-.member-publications summary.papers-toggle:hover {
-    color: white;
-    background-color: #004191;
-    border-color: #004191;
-}
-
 .member-publications ul.member-pub-list {
     display: block;
-    margin-top: 0.75rem;
-    margin-left: 0;
-    padding-left: 1.25em;
+    margin: 0;
     font-size: inherit;
     list-style-position: outside;
     background: #fff;
@@ -482,7 +474,8 @@ h3 + ul li p {
         border-color: #555;
     }
 
-    body:not(.light-theme) .member-card__link:hover {
+    body:not(.light-theme) .member-card__link:hover,
+    body:not(.light-theme) .member-card__link[aria-expanded="true"] {
         background: #5FBEEB;
         border-color: #5FBEEB;
     }
@@ -491,7 +484,8 @@ h3 + ul li p {
         filter: brightness(0) saturate(100%) invert(75%) sepia(0%) saturate(0%) brightness(100%);
     }
 
-    body:not(.light-theme) .member-card__link:hover img {
+    body:not(.light-theme) .member-card__link:hover img,
+    body:not(.light-theme) .member-card__link[aria-expanded="true"] img {
         filter: brightness(0) invert(0.1);
     }
 
@@ -554,18 +548,6 @@ h3 + ul li p {
         filter: brightness(0) saturate(100%) invert(70%) sepia(50%) saturate(500%) hue-rotate(165deg) brightness(105%);
     }
 
-    body:not(.light-theme) .member-publications summary.papers-toggle {
-        color: #7cb8e8;
-        background-color: #1e3a5f;
-        border-color: #3a5a7f;
-    }
-
-    body:not(.light-theme) .member-publications summary.papers-toggle:hover {
-        background-color: #5FBEEB;
-        border-color: #5FBEEB;
-        color: #1a1a1a;
-    }
-
     body:not(.light-theme) .member-publications ul.member-pub-list {
         background: #333;
         border-color: #444;
@@ -626,7 +608,8 @@ body.dark-theme .member-card__link {
     border-color: #555;
 }
 
-body.dark-theme .member-card__link:hover {
+body.dark-theme .member-card__link:hover,
+body.dark-theme .member-card__link[aria-expanded="true"] {
     background: #5FBEEB;
     border-color: #5FBEEB;
 }
@@ -635,7 +618,8 @@ body.dark-theme .member-card__link img {
     filter: brightness(0) saturate(100%) invert(75%) sepia(0%) saturate(0%) brightness(100%);
 }
 
-body.dark-theme .member-card__link:hover img {
+body.dark-theme .member-card__link:hover img,
+body.dark-theme .member-card__link[aria-expanded="true"] img {
     filter: brightness(0) invert(0.1);
 }
 
@@ -696,18 +680,6 @@ body.dark-theme .profile-icon img {
 
 body.dark-theme .profile-icon:hover img {
     filter: brightness(0) saturate(100%) invert(70%) sepia(50%) saturate(500%) hue-rotate(165deg) brightness(105%);
-}
-
-body.dark-theme .member-publications summary.papers-toggle {
-    color: #7cb8e8;
-    background-color: #1e3a5f;
-    border-color: #3a5a7f;
-}
-
-body.dark-theme .member-publications summary.papers-toggle:hover {
-    background-color: #5FBEEB;
-    border-color: #5FBEEB;
-    color: #1a1a1a;
 }
 
 body.dark-theme .member-publications ul.member-pub-list {
