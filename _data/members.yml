@@ -145,7 +145,7 @@ current:
     department: "ISE"
     image: "/people/images/pavlova_sq.jpg"
     linkedin: "https://www.linkedin.com/in/irina-pavlova-242a50434/"
-    bio: "is a master's student in the ISE Department at KAIST. She received a BS degree in Applied Math and Physics from MIPT. Her research interests include artificial intelligence, smart manufacturing, simulation-based optimization, and operations research. She joined COMET in 2026."
+    bio: "is a master's student in the ISE Department at KAIST. She received a BS degree in Applied Math and Physics from the Moscow Institute of Physics and Technology (MIPT). Her research interests include artificial intelligence, smart manufacturing, simulation-based optimization, and operations research. She joined COMET in 2026."
     show_publications: true
 
 visiting:
