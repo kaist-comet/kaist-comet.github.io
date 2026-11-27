@@ -7,7 +7,23 @@
 <h4 class="subsectionHead"><a 
  id="x1-2000"></a>Articles under Review</h4>
 <ol reversed="reversed" class="myarticles">
-<li class="mobility metaheuristics shared">
+<li class="learning neural">
+<p class="publication-paragraph" style="margin:0;">Yoonju Sim, Jimin Nam, Jungwon Ahn, Changhyun Kwon. <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Towards LLM-Driven Automation of Lagrangian Relaxation Design for Mixed-Integer Linear Programs'>Towards LLM-Driven Automation of Lagrangian Relaxation Design for Mixed-Integer Linear Programs</a> <span><a class='klink' data-type='pdf' data-code='sim_towards.pdf' href='http://comet.kaist.ac.kr/papers/sim_towards.pdf'>pdf</a></span>
+<a id='sim_towards' class='abstract_button' href="javascript:toggle('sim_towards')">abstract</a></p><div id='sim_towardsdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
+<p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Lagrangian relaxation (LR) exploits the structure of mixed-integer linear programs (MILPs),
+but choosing constraints to dualize and designing primal heuristics require problem-specific
+expertise. Existing automated methods rely on matrix structure and problem-independent rules
+rather than the algebraic formulation. Large language models (LLMs), by contrast, can reason
+over both formulations and solver feedback. We present AutoLR, a computational laboratory
+where LLM agents score relaxations via Dual AUC and generate solver-free primal recovery and
+improvement programs. Across twenty MILP benchmarks, ten from published LR studies and ten
+held-out, initial LLM proposals surpass random, expert, and structure-detection baselines within
+three evaluations and capture most relaxation gains. Generated heuristics restore feasibility
+on every call across all viable benchmarks, whereas generic heuristics often fail. Lagrangian
+dual information offers selective, problem-dependent improvements. Together, AutoLR and its
+benchmark suite provide a controlled testbed for integrating LLMs into Lagrangian relaxation.
+</p></div>
+</li><li class="mobility metaheuristics shared">
 <p class="publication-paragraph" style="margin:0;">Thi Thao Vy Bui, Yantong Dou, Changhyun Kwon, Yoonjin Yoon, Yu Zhang. <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Repurposing Existing Helipads for Scheduled Urban Air Mobility: An Optimization Framework for Vertipad Selection and Timetable Design'>Repurposing Existing Helipads for Scheduled Urban Air Mobility: An Optimization Framework for Vertipad Selection and Timetable Design</a> <a id='bui_repurposing' class='abstract_button' href="javascript:toggle('bui_repurposing')">abstract</a></p><div id='bui_repurposingdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;"><strong>Objectives:</strong> Urban Air Mobility (UAM) can leverage existing helipads to accelerate deployment while
 reducing infrastructure investment. This study develops an integrated optimization framework for
@@ -30,6 +46,8 @@ network in Seoul. Pareto analysis reveals a clear trade-off between accessibilit
 demand coverage substantially increases ground risk, whereas a modest reduction in coverage
 yields significant safety improvements. The proposed HGA further enables scalable timetable
 optimization for large UAM networks while satisfying battery and vertiport capacity constraints.
+                                                                                   
+                                                                                   
 <br 
 class="newline" />
 </p><p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;"><strong>Novelty:</strong> The proposed framework integrates strategic vertiport selection with tactical fleet
@@ -46,8 +64,6 @@ of scheduled UAM services that maximize accessibility while satisfying safety an
 requirements. </p></div>
 </li><li class="learning quantum preprint">
 <p class="publication-paragraph" style="margin:0;">Jaehwan Lee, Changhyun Kwon. <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Quantum End-to-End Learning for Contextual Combinatorial Optimization'>Quantum End-to-End Learning for Contextual Combinatorial Optimization</a> <span><a class='klink' data-type='arXiv' data-code='2605.20222' href='https://arxiv.org/abs/2605.20222'>arXiv</a></span> <a id='lee_quantum' class='abstract_button' href="javascript:toggle('lee_quantum')">abstract</a></p><div id='lee_quantumdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
-                                                                                   
-                                                                                   
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Contextual combinatorial optimization (CCO) plays a critical role in decision-making under uncertainty,
 yet remains a significant challenge. We present Quantum End-to-End Learning (QEL), the first quantum
 computing-based end-to-end learning framework for CCO that leverages Quantum Approximate
@@ -85,6 +101,8 @@ integrated location and routing problems at scale. Our code and data are publicl
 <p class="publication-paragraph" style="margin:0;">Merve Doganbas, Junhak Lee, Hayong Shin, Changhyun Kwon. <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=A Learning-Based Separation Algorithm for the Strengthened Comb Inequalities'>A Learning-Based Separation Algorithm for the Strengthened Comb Inequalities</a> <a id='doganbas_learning' class='abstract_button' href="javascript:toggle('doganbas_learning')">abstract</a></p><div id='doganbas_learningdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Strengthened Comb Inequalities (SCIs) are a powerful class of cutting planes for the Capacitated Vehicle
 Routing Problem (CVRP), but their NP-hard separation problem has historically relied on heuristics. This
+                                                                                   
+                                                                                   
 paper introduces CombFormer, the first learning-based framework to generate SCIs. We model the
 construction of a comb&#8217;s handle as a sequential decision problem and train an autoregressive graph
 transformer-based policy with reinforcement learning to directly maximize the violation of the
@@ -101,8 +119,6 @@ viable paradigm for discovering high-quality cuts for complex combinatorial vali
 <p class="publication-paragraph" style="margin:0;">Jae Hyeok Lee, Taekang Hwang, Changhyun Kwon. <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Asymptotic Bounds for the Traveling Salesman Problem with Drone'>Asymptotic Bounds for the Traveling Salesman Problem with Drone</a> <span><a class='klink' data-type='arXiv' data-code='2603.00328' href='https://arxiv.org/abs/2603.00328'>arXiv</a></span> <a id='lee_asymptotic' class='abstract_button' href="javascript:toggle('lee_asymptotic')">abstract</a></p><div id='lee_asymptoticdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">The asymptotic behavior of the optimal TSP tour length is well known from the classical
 Beardwood&#8211;Halton&#8211;Hammersley theorem. We extend this result to the Traveling Salesman
-                                                                                   
-                                                                                   
 Problem with Drone (TSPD), a cooperative routing problem in which a truck and a drone
 jointly serve customers. Using a subadditive Euclidean functional framework, we establish the
 existence of an almost sure limit for the optimal TSPD makespan scaled by the square root of the
@@ -138,6 +154,8 @@ seller&#8217;s urgency to sell before expiration drives price reductions, which 
 We seek the seller&#8217;s optimal pricing policy that resolves this tension. The main analytical challenge is that
 buyer type is two-dimensional (valuation and arrival time), which makes equilibrium intractable under
 general strategies. To address this, we introduce the Value-Based Threshold (VBT) strategy, a
+                                                                                   
+                                                                                   
 tractable framework that decouples these two dimensions. Using this framework, we prove
 equilibrium existence via an ordinary differential equation and provide a constructive procedure
 for its characterization. We then derive near-optimal pricing policies for two stylized regimes:
@@ -154,8 +172,6 @@ that maintains a high price until a sharp final drop is most effective in aggreg
 <a id='sobhanan_arc' class='abstract_button' href="javascript:toggle('sobhanan_arc')">abstract</a></p><div id='sobhanan_arcdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Arc-routing problems underpin numerous critical field operations, including power-line inspection, urban
 police patrolling, and traffic monitoring. In this domain, the Rural Postman Problem (RPP) is a
-                                                                                   
-                                                                                   
 fundamental variant in which a prescribed subset of edges or arcs in a network must be traversed. This
 paper investigates a generalized form of the RPP, called RPP-mTD, which involves a fleet of
 multiple trucks, each carrying multiple drones. The trucks act as mobile depots traversing a road
@@ -191,6 +207,8 @@ We demonstrate that the resulting Neuro ICP (NICP) achieves substantial accelera
 maintaining solution quality. Compared to ICP, NICP reduces the total computational time
 by 28.6%, while the objective function value increase is limited to 0.14%. A transfer learning
 framework enables efficient extension to various operational constraints, making this a valuable
+                                                                                   
+                                                                                   
 foundation for developing efficient algorithms for truck-drone synchronized routing problems.
 </p></div>
 </li></ol>
@@ -207,8 +225,6 @@ class="ecbi-1000">Journal of the Operational Research Society</span>, accepted.
 such as mail delivery, snow plowing, and waste collection. Various variants of this problem are available, as
 well as algorithms intended to solve them heuristically or exactly. Presented here is a generic algorithmic
 framework that can be applied to a variety of arc routing problems where a fleet of vehicles is used to visit
-                                                                                   
-                                                                                   
 a predefined set of edges. The main characteristic of the problem that qualifies it for the proposed
 framework is that each edge should be visited no more than once. This proposed framework uses genetic
 algorithms, dynamic programming, and local searches in a systematic manner and provides guidelines for
@@ -247,6 +263,8 @@ two benchmark suites drawn from sources different from the data used for heurist
 (2026) <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Food Deserts in Context: How Site-Specific Factors Reshape Food Deserts Discussion'>Food Deserts in Context: How Site-Specific Factors Reshape Food Deserts Discussion</a>. <span 
 class="ecbi-1000">npj Urban Sustainability</span>, 6, 152. <span><a class='klink' data-type='pdf' data-code='park_food.pdf' href='http://comet.kaist.ac.kr/papers/park_food.pdf'>pdf</a></span>
 <span><a class='klink' data-type='ssrn' data-code='5632970' href='https://ssrn.com/abstract=5632970'>ssrn</a></span> <span><a class='klink' data-type='doi' data-code='10.1038/s42949-026-00458-2' href='http://dx.doi.org/10.1038/s42949-026-00458-2'>doi</a></span> <a id='park_food' class='abstract_button' href="javascript:toggle('park_food')">abstract</a></p><div id='park_fooddiv' class='abstractbg' style="display:none;padding-top:0.75em;">
+                                                                                   
+                                                                                   
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Research on food deserts has evolved from a narrow focus on geographical distance to a comprehensive
 framework considering socioeconomic, infrastructural, and cultural factors. This review synthesizes global
 literature to examine how local contexts reshape food desert definitions, measurement, and interventions.
@@ -264,8 +282,6 @@ class="ecbi-1000">Computers &amp; Operations Research</span>, 176,
 <a id='liu_adaptive' class='abstract_button' href="javascript:toggle('liu_adaptive')">abstract</a></p><div id='liu_adaptivediv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">For applications such as traffic monitoring, infrastructure inspection, and security, ground vehicles (trucks)
 and unmanned aerial vehicles (drones) may collaborate to finish the task more efficiently. This paper
-                                                                                   
-                                                                                   
 considers an Arc Routing Problem (ARP) with a mixed fleet of a single truck and multiple homogeneous
 drones, called a Drone-Truck Arc Routing Problem (DT-ARP). While the truck must follow a road
 network, the drone can fly off of it. With a limited battery capacity, however, the drone has a length
@@ -302,6 +318,8 @@ and efficient in generating high-quality solutions for both MDVRP and CLRP and h
 potential to expedite algorithm developments for complicated hierarchical problems. We provide
 computational results evaluated in the standard benchmark instances used in the literature.
 </p></div>
+                                                                                   
+                                                                                   
 </li><li class="metaheuristics routing 2024">
 <p class="publication-paragraph" style="margin:0;">Sasan Mahmoudinazlou, Changhyun Kwon (2024) <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=A Hybrid Genetic Algorithm with Type-Aware Chromosomes for Traveling Salesman Problems with Drone'>A Hybrid Genetic Algorithm with Type-Aware Chromosomes for Traveling Salesman Problems with Drone</a>. <span 
 class="ecbi-1000">European Journal of Operational Research</span>,
@@ -319,8 +337,6 @@ FSTSP should be divided among the layers of genetic algorithm, dynamic programmi
 local search. In particular, our genetic algorithm generates the truck and the drone sequences
 separately and encodes them in a type-aware chromosome, wherein each customer is assigned to
 either the truck or the drone. We apply local search to each chromosome, which is decoded by
-                                                                                   
-                                                                                   
 dynamic programming for fitness evaluation. Our new algorithm is shown to outperform existing
 algorithms on most benchmark instances in both quality and time. Our algorithms found the
 new best solutions for 538 TSPD instances out of 920 and 74 FSTSP instances out of 132.
@@ -359,6 +375,8 @@ obtain a solution with no intersections. This is particularly useful for the min
 generated offspring are also improved by a self-adaptive random local search and a thorough
 neighborhood search. Our algorithm outperforms all existing algorithms on average, with similar
 cutoff time thresholds, when tested against multiple benchmark sets found in the literature.
+                                                                                   
+                                                                                   
 Additionally, we improve the best-known solutions for 21 out of 89 instances on four benchmark sets.
 </p></div>
 </li><li class="metaheuristics routing ev shared 2023">
@@ -376,8 +394,6 @@ and relocate the EVs to proper demand locations. Characterized by unique hierarc
 interdependent decisions, the EV relocation and shuttle routing problem poses significant computational
 challenges for large-scale problems. We devise an efficient algorithm that adapts the Adaptive Large
 Neighborhood Search (ALNS) metaheuristic framework to overcome such unique challenges. The
-                                                                                   
-                                                                                   
 algorithm is tested on two sets of data: randomly generated data and real-world EV-sharing
 usage data in Amsterdam. The results validate the efficiency and effectiveness of our ALNS
 algorithm. In addition, the analysis of total operational cost and waiting time percentage provides
@@ -415,6 +431,8 @@ order size requirements make attended grocery deliveries financially non-viable,
 has potential to provide healthy foods to the food insecure population. This paper proposes
 consolidating customer orders and delivering to a neighborhood convenience store instead of home
 delivery. We employ an optimization framework involving the minimum cost set covering and the
+                                                                                   
+                                                                                   
 capacitated vehicle routing problems. Our experimental studies in three counties in the U.S.
 suggest that by spatial and temporal consolidation of orders, the deliverer can remove minimum
 order-size requirements and reduce the delivery costs, depending on various factors, compared to
@@ -432,8 +450,6 @@ insecurity, the innovative solution proposed in this paper is even more relevant
 <p class="publication-paragraph" style="margin:0;">Aigerim Bogyrbayeva, Sungwook Jang, Ankit Shah, Young Jae Jang, Changhyun Kwon
 (2020) <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=A Reinforcement Learning Approach for Rebalancing Electric Vehicle Sharing Systems'>A Reinforcement Learning Approach for Rebalancing Electric Vehicle Sharing Systems</a>. <span 
 class="ecbi-1000">IEEE Transactions on Intelligent Transportation Systems</span>, 23(7),
-                                                                                   
-                                                                                   
 8704&#8211;8714. <span><a class='klink' data-type='doi' data-code='10.1109/TITS.2021.3085217' href='http://dx.doi.org/10.1109/TITS.2021.3085217'>doi</a></span> <span><a class='klink' data-type='arXiv' data-code='2010.02369' href='https://arxiv.org/abs/2010.02369'>arXiv</a></span>
 <span><a class='klink' data-type='pdf' data-code='bogyrbayeva_RL.pdf' href='http://comet.kaist.ac.kr/papers/bogyrbayeva_RL.pdf'>pdf</a></span> <span><a class='klink' data-type='github' data-code='aigerimb/FFEVSS' href='https://github.com/aigerimb/FFEVSS'>github</a></span>
 <a id='bogyrbayeva_reinforcement' class='abstract_button' href="javascript:toggle('bogyrbayeva_reinforcement')">abstract</a></p><div id='bogyrbayeva_reinforcementdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
@@ -471,6 +487,8 @@ real and randomly generated networks. We also compute the value of pessimistic s
 </li><li class="market-design shared auction autonomous 2021">
 <p class="publication-paragraph" style="margin:0;">Aigerim Bogyrbayeva, Mahdi Takalloo, Hadi Charkhgard, Changhyun Kwon (2021) <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=An Iterative Combinatorial Auction Design for Fractional Ownership of Autonomous Vehicles'>An Iterative Combinatorial Auction Design for Fractional Ownership of Autonomous Vehicles</a>. <span 
 class="ecbi-1000">International</span>
+                                                                                   
+                                                                                   
 <span 
 class="ecbi-1000">Transactions in Operational Research</span>, 28(4), 1681&#8211;1705. <span><a class='klink' data-type='doi' data-code='10.1111/itor.12903' href='http://dx.doi.org/10.1111/itor.12903'>doi</a></span>
 <span><a class='klink' data-type='pdf' data-code='bogyrbayeva_iterative.pdf' href='http://comet.kaist.ac.kr/papers/bogyrbayeva_iterative.pdf'>pdf</a></span> <a id='bogyrbayeva_iterative' class='abstract_button' href="javascript:toggle('bogyrbayeva_iterative')">abstract</a></p><div id='bogyrbayeva_iterativediv' class='abstractbg' style="display:none;padding-top:0.75em;">
@@ -489,8 +507,6 @@ that core-selecting payment rule brings the largest revenue to the auctioneer in
 </li><li class="market-design shared auction autonomous 2021">
 <p class="publication-paragraph" style="margin:0;">Mahdi Takalloo, Aigerim Bogyrbayeva, Hadi Charkhgard, Changhyun Kwon (2021) <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Solving the Winner Determination Problem in Combinatorial Auctions for Fractional Ownership of Autonomous Vehicles'>Solving the Winner Determination Problem in Combinatorial Auctions for Fractional Ownership of Autonomous Vehicles</a>. <span 
 class="ecbi-1000">International</span>
-                                                                                   
-                                                                                   
 <span 
 class="ecbi-1000">Transactions in Operational Research</span>, 28(4), 1658&#8211;1680. <span><a class='klink' data-type='doi' data-code='10.1111/itor.12868 ' href='http://dx.doi.org/10.1111/itor.12868 '>doi</a></span>
 <span><a class='klink' data-type='pdf' data-code='takalloo_solving.pdf' href='http://comet.kaist.ac.kr/papers/takalloo_solving.pdf'>pdf</a></span> <span class='article_keywords' style='display:none;'>Fractional Ownership; Combinatorial Auction; Bidder-Defined Items; Clique</span> <a id='takalloo_solving' class='abstract_button' href="javascript:toggle('takalloo_solving')">abstract</a></p><div id='takalloo_solvingdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
@@ -530,6 +546,8 @@ class="ecbi-1000">Power and Energy Systems</span>, 123, 106185. <span><a class='
 <span><a class='klink' data-type='pdf' data-code='melendez_nash.pdf' href='http://comet.kaist.ac.kr/papers/melendez_nash.pdf'>pdf</a></span> <span class='article_keywords' style='display:none;'>Aggregation of peers; peer-to-peer energy trading; option contract; Nash bargaining solution</span> <a id='melendez_nash' class='abstract_button' href="javascript:toggle('melendez_nash')">abstract</a></p><div id='melendez_nashdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">In the last several years, the growth in household solar generation and the lack of success of the
 feed-in-tariff programs have led to the rise of peer-to-peer (P2P) energy trading schemes among prosumers.
+                                                                                   
+                                                                                   
 However, a change that has started more recently is the growth of smart homes and businesses, of which
 loads are IoT controlled and are supported by advanced metering infrastructure (AMI). This has
 created a new opportunity for smart homes and businesses to form aggregations (coalitions) and
@@ -546,8 +564,6 @@ Nash bargaining model is developed for obtaining optimal trading strategies in t
 plain or swing option contracts. A sample numerical problem scenario is used to show that
 suitable contracts can be derived that allow aggregations of peers to mutually benefit from
 energy trading. Interactions among contract parameters (such as strike price, option value,
-                                                                                   
-                                                                                   
 and option quantity) and the relative market power of the aggregations are also examined.
 </p></div>
 </li><li class="ev shared autonomous energy location 2020">
@@ -585,6 +601,8 @@ utility model (RUM) in the lower level, we consider a risk-averse measure called
 quantify the risk of having hazmat accidents and large consequences, and design the network policy for
 road-bans accordingly. While CVaR has been used in hazmat routing problems, this paper is the first
 attempt to apply CVaR in risk averse hazmat network design problems considering stochastic
+                                                                                   
+                                                                                   
 route-choices of hazmat carriers. The resulting problem is a mixed integer nonlinear programming
 problem, for which we devise a line search approach combined with Benders decomposition. We
 demonstrate the efficiency of the proposed computational method with case studies. The average
@@ -602,8 +620,6 @@ class="ecbi-1000">Service Science</span>, 12(2&#8211;3), 61&#8211;79.
 <span><a class='klink' data-type='doi' data-code='10.1287/serv.2020.0257' href='http://dx.doi.org/10.1287/serv.2020.0257'>doi</a></span> <span><a class='klink' data-type='pdf' data-code='zhang_generalized.pdf' href='http://comet.kaist.ac.kr/papers/zhang_generalized.pdf'>pdf</a></span> <span class='article_keywords' style='display:none;'>autonomous vehicles; stable matching; roommate matching; car sharing system; vehicle ownership; fractional ownership</span>
 <a id='zhang_generalized' class='abstract_button' href="javascript:toggle('zhang_generalized')">abstract</a></p><div id='zhang_generalizeddiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">We investigate a new form of car sharing system that can be introduced in the market for autonomous
-                                                                                   
-                                                                                   
 vehicles, called <i>fractional ownership</i> or <i>co-ownership</i>. While dynamic ride sharing provides ad-hoc shared
 mobility services without any long-term commitment, we consider co-ownership programs with which users
 can still &#8220;own&#8221; a car with committed usages and ownership. We assume that an autonomous vehicle is
@@ -642,6 +658,8 @@ schedule to transport medical wastes to treatment sites. In addition to minimiza
 occupational risk related to temporary storage of hazardous wastes at the healthcare centers is considered.
 The transport risk on each arc is dependent on the weight of hazardous medical waste on the vehicle
 when it traverses that arc. We devise a decomposition based heuristic algorithm to solve this
+                                                                                   
+                                                                                   
 problem. We analyze the characteristics of the PLCVRP&#8217;s solutions with respect to four different
 criteria: (i) transport and occupational risk, (ii) transport risk, (iii) occupational risk, and (iv)
 transportation cost. Solving different versions of PLCVRP reveals that minimizing both transport and
@@ -666,8 +684,6 @@ class="cmmi-10">&#x03B5; </span>and the latency functions are polynomials
 of degree at most <span 
 class="cmmi-10">p</span>. We show that the same upper bound holds for <i>multi-commodity</i> networks and provide
 a lower bound as well. </p></div>
-                                                                                   
-                                                                                   
 </li><li class="hazmat location bilevel robust network-design 2020">
 <p class="publication-paragraph" style="margin:0;">Xufei Liu, Changhyun Kwon (2020) <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Exact Robust Solutions for the Combined Facility Location and Network Design Problem in Hazardous Materials Transportation'>Exact Robust Solutions for the Combined Facility Location and Network Design Problem in Hazardous Materials Transportation</a>. <span 
 class="ecbi-1000">IISE Transactions</span>, 52(10), 1156&#8211;1172. <span 
@@ -707,6 +723,8 @@ evaluating candidate reserve designs. We apply an efficient search algorithm tha
 design for large conservation problems and a game theoretic approach to evaluate portfolio
 tradeoffs that satisfy decision makers with divergent benefit and risk tolerances, or when a
 single decision maker cannot resolve their own preferences. Evaluating several risk profiles for
+                                                                                   
+                                                                                   
 a case study in South Carolina, our results suggest that a reserve design may be somewhat
 robust to differences in risk attitude but that budgets will likely be important determinants of
 conservation planning strategies, particularly when divestment is considered a viable alternative. We
@@ -725,8 +743,6 @@ class="ecbi-1000">Power Systems Research</span>, 174, 105869. <span><a class='kl
 <span><a class='klink' data-type='pdf' data-code='subramanian_data.pdf' href='http://comet.kaist.ac.kr/papers/subramanian_data.pdf'>pdf</a></span> <span class='article_keywords' style='display:none;'>dynamic pricing; aggregated demand response; electric power network; Bayesian demand prediction</span> <a id='subramanian_data' class='abstract_button' href="javascript:toggle('subramanian_data')">abstract</a></p><div id='subramanian_datadiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">The practice of disclosing price of electricity before consumption (dynamic pricing) is essential to
 promote aggregator-based demand response in smart and connected communities. However, both
-                                                                                   
-                                                                                   
 practitioners and researchers have expressed fear that wild fluctuations in demand response
 resulting from dynamic pricing may adversely affect the stability of both the network and the
 market. This paper presents a comprehensive methodology guided by a data-driven learning
@@ -764,6 +780,8 @@ class="ecbi-1000">Transportation Research Record</span>, 2673(3),
 <a id='sun_path' class='abstract_button' href="javascript:toggle('sun_path')">abstract</a></p><div id='sun_pathdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Network users may choose non-shortest paths, when (1) they satisfice with sub-optimal routes, or (2) they
 have perception errors of the decision environment. The notion of generalized bounded rationality has been
+                                                                                   
+                                                                                   
 recently proposed to create a unified framework for these two sources of behavioral uncertainty in route
 choices. When the notion of generalized bounded rationality is used in robust network design problems, we
 obtain a bi-level optimization problem with the min-max objective function at the upper level, with three
@@ -784,8 +802,6 @@ risk-averse approach for routing is necessary. In this paper, we consider spectr
 risk-averse hazmat routing, which overcome challenges posed in the existing approaches such as conditional
 value-at-risk. In spectral risk measures, one can define the spectrum function precisely to reflect the
 decision maker&#8217;s risk preference. We show that spectral risk measures can provide a unified routing
-                                                                                   
-                                                                                   
 framework for popular existing hazmat routing methods based on expected risk, maximum risk, and
 conditional value-at-risk. We first consider a special class of spectral risk measures, for which the spectrum
 function is represented as a step function. We develop a mixed integer linear programming model
@@ -824,6 +840,8 @@ class="ecbi-1000">of Operational Research</span>, 270(1), 103&#8211;117. <span><
 sharing systems using pricing schemes. Its methodological developments are accompanied by
 experimental analyses with bike demand data from Capital Bikeshare program of Washington, DC. An
 optimized price vector determines the incentive levels that can persuade system customers to take
+                                                                                   
+                                                                                   
 bicycles from, or park them at, neighboring stations so as to strategically minimize the number of
 imbalanced stations. This strategy intentionally makes some imbalanced stations even more
 imbalanced, creating hub stations. This reduces the need for trucks and dedicated staff to carry
@@ -842,8 +860,6 @@ class="ecbi-1000">Transportation Research</span>
 <span 
 class="ecbi-1000">Part C: Emerging Technologies</span>, 89, 96&#8211;112. <span><a class='klink' data-type='doi' data-code='10.1016/j.trc.2018.01.024' href='http://dx.doi.org/10.1016/j.trc.2018.01.024'>doi</a></span>
 <span><a class='klink' data-type='pdf' data-code='zhang_multi.pdf' href='http://comet.kaist.ac.kr/papers/zhang_multi.pdf'>pdf</a></span> <span class='article_keywords' style='display:none;'>Activity-Travel Patterns; Day-to-day variability; Interpersonal variability; Sampling Multiday Activity-Travel Patterns</span> <a id='zhang_multi' class='abstract_button' href="javascript:toggle('zhang_multi')">abstract</a></p><div id='zhang_multidiv' class='abstractbg' style="display:none;padding-top:0.75em;">
-                                                                                   
-                                                                                   
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Although it is important to consider multi-day activities in transportation planning, multi-day
 activity-travel data are expensive to acquire and therefore rarely available. In this study, we propose to
 generate multi-day activity-travel data through sampling from readily available single-day household travel
@@ -881,6 +897,8 @@ class="ecbi-1000">Socio-Economic Planning Science</span>, 63,
 <a id='chung_equitable' class='abstract_button' href="javascript:toggle('chung_equitable')">abstract</a></p><div id='chung_equitablediv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Given the limited driving range of battery electric vehicles and lack of sufficient charging infrastructure,
 locating charging stations is an important decision problem to enable long-distance travels by battery
+                                                                                   
+                                                                                   
 electric vehicles. This paper considers an important political factor in such location problems: the equitable
 access to charging stations among geographical regions. We propose three types of equity constraints to the
 flow refueling location model: two constraints based on travel demand and the other based on flow. For
@@ -900,8 +918,6 @@ optimizing&#8212;decision makers and each individual&#8217;s perception of the d
 personal preferences or perception errors due to lack of information. While the assumption of
 satisficing drivers has been used in modeling route choice behavior, this research uses a link-based
 perception error model to describe driver&#8217;s uncertain behavior, without assuming stochasticity. In
-                                                                                   
-                                                                                   
 congestion-free networks, we show that the perception error model is more general than the
 existing bounded rationality models with satisficing drivers with special cases when the two
 approaches yield the same results; that is, satisficing under accurate perception is equivalent to
@@ -939,6 +955,8 @@ class="ecbi-1000">Medical Decision Making </span><span><a class='klink' data-typ
 raised concerns about the financial burden of the disease. We studied comparative effectiveness of
 treatment plans that involve up to three lines of therapies and impact of treatment sequencing on health
 and cost outcomes. We employed a Markov model to represent the dynamically changing health status of
+                                                                                   
+                                                                                   
 mCRC patients and used Monte-Carlo simulation to evaluate various treatment plans consistent with
 existing guidelines. We calibrated our model by a meta-analysis of published data from an extensive list of
 clinical trials and measured the effectiveness of each plan in terms of cost per quality-adjusted
@@ -955,8 +973,6 @@ were most dependent on drug acquisition cost, distributions of progression free 
 survivals, and health utilities. We conclude that improvements in health outcomes may come at
 high incremental costs and are highly dependent in the order treatments are administered.
 </p></div>
-                                                                                   
-                                                                                   
 </li><li class="ev selected energy location">
 <p class="publication-paragraph" style="margin:0;">Anpeng Zhang, Jee Eun Kang, Changhyun Kwon (2017). <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Incorporating Demand Dynamics in Multi-Period Capacitated Fast-charging Location Planning for Electric Vehicles'>Incorporating Demand Dynamics in Multi-Period Capacitated Fast-charging Location Planning for Electric Vehicles</a>. <span 
 class="ecbi-1000">Transportation Research Part B: Methodological</span>,
@@ -995,6 +1011,8 @@ should be provided only when the output price is too high to be affordable for t
 </li><li class="hazmat bilevel location network-design">
 <p class="publication-paragraph" style="margin:0;">Masoumeh Taslimi, Rajan Batta, Changhyun Kwon (2017). <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=A Comprehensive Modeling Framework for Hazmat Network Design, Hazmat Response Team Location, and Equity of Risk'>A Comprehensive Modeling Framework for Hazmat Network Design, Hazmat Response Team Location, and Equity of Risk</a>. <span 
 class="ecbi-1000">Computers &amp; Operations Research</span>, 79,
+                                                                                   
+                                                                                   
 119&#8211;130. <span><a class='klink' data-type='doi' data-code='10.1016/j.cor.2016.10.005' href='http://dx.doi.org/10.1016/j.cor.2016.10.005'>doi</a></span> <span><a class='klink' data-type='pdf' data-code='taslimi_hmrt.pdf' href='http://comet.kaist.ac.kr/papers/taslimi_hmrt.pdf'>pdf</a></span> <span class='article_keywords' style='display:none;'>Hazmat emergency response team; Bi-level network design; Greedy heuristic algorithm; Equity of risk; Robust solution</span>
 <a id='taslimi_hmrt' class='abstract_button' href="javascript:toggle('taslimi_hmrt')">abstract</a></p><div id='taslimi_hmrtdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">This paper considers a bi-level hazmat transportation network design problem in which hazmat shipments
@@ -1011,8 +1029,6 @@ heuristic approach, which we empirically demonstrate to find good solutions with
 computational effort. We also seek a robust solution to capture stochastic characteristics of the model.
 Experimental results are based on popular test networks from the Sioux Falls and Albany areas.
 </p></div>
-                                                                                   
-                                                                                   
 </li><li class="hazmat equity energy">
 <p class="publication-paragraph" style="margin:0;">Xiaoping Li, Rajan Batta, Changhyun Kwon (2017). <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Effective and Equitable Supply of Gasoline to Impacted Areas in the Aftermath of a Natural Disaster'>Effective and Equitable Supply of Gasoline to Impacted Areas in the Aftermath of a Natural Disaster</a>. <span 
 class="ecbi-1000">Socio-Economic Planning Sciences</span>, 57, 25&#8211;34.
@@ -1052,6 +1068,8 @@ insights based on real networks. </p></div>
 </li><li class="selected hazmat robust routing">
 <p class="publication-paragraph" style="margin:0;">Iakovos Toumazis, Changhyun Kwon (2016). <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Worst-case Conditional Value-at-Risk Minimization for Hazardous Materials Transportation'>Worst-case Conditional Value-at-Risk Minimization for Hazardous Materials Transportation</a>. <span 
 class="ecbi-1000">Transportation Science</span>, 50(4), 1174&#8211;1187.
+                                                                                   
+                                                                                   
 <span><a class='klink' data-type='doi' data-code='10.1287/trsc.2015.0639' href='http://dx.doi.org/10.1287/trsc.2015.0639'>doi</a></span> <span><a class='klink' data-type='pdf' data-code='toumazis2015wcvar.pdf' href='http://comet.kaist.ac.kr/papers/toumazis2015wcvar.pdf'>pdf</a></span>
 <span><a class='klink' data-type='github' data-code='STOM-Group/Hazmat-Network-Data' href='https://github.com/STOM-Group/Hazmat-Network-Data'>github</a></span> <span class='article_keywords' style='display:none;'>hazardous materials transportation; conditional value-at-risk; robust optimization</span> <a id='wcvar' class='abstract_button' href="javascript:toggle('wcvar')">abstract</a></p><div id='wcvardiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Despite significant advances in risk management, routing hazardous materials (hazmat) has
@@ -1068,8 +1086,6 @@ are studied for both CVaR and WCVaR risk measures to be coherent and appropriate
 context of hazmat transportation, and computational methods are proposed. We demonstrate
 the proposed notions of CVaR and WCVaR through a case study in a realistic road network.
 </p></div>
-                                                                                   
-                                                                                   
 </li><li class="behavior shared learning">
 <p class="publication-paragraph" style="margin:0;">Anshuman Anjani Kumar, Jee Eun Kang, Changhyun Kwon, Alexander Nikolaev (2016). <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Inferring Origin-Destination Pairs and Utility-Based Travel Preferences for Shared Mobility Systems Users in a Multi-Modal Environment'>Inferring Origin-Destination Pairs and Utility-Based Travel Preferences for Shared Mobility Systems Users in a Multi-Modal Environment</a>. <span 
 class="ecbi-1000">Transportation</span>
@@ -1110,6 +1126,8 @@ class="ecbi-1000">Part B: Methodological</span>, 83, 20&#8211;35. <span><a class
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">We investigate dual-toll setting as a policy tool to mitigate the risk of hazardous material (hazmat)
 shipment in road networks. We formulate the dual-toll problem as a bi-level program wherein the upper
 level aims at minimizing the risk, and the lower level explores the user equilibrium decision of the regular
+                                                                                   
+                                                                                   
 vehicles and hazmat carriers given the toll. When the upper level objective is to minimize the risk and all
 links are tollable, we decompose the formulation into first-stage and second-stage, and suggest a
 computational method to solve each stage. Our two-stage solution methodology guarantees nonnegative
@@ -1127,8 +1145,6 @@ class="ecbi-1000">Transport Reviews</span>, 36(4), 454&#8211;478.
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">The goal of network design problem (NDP) is to make optimal decisions to achieve a certain objective such
 as minimizing total travel time or maximizing tolls collected in the network. A critical component to
 NDP is how travelers make their route choices. Researchers in transportation have adopted
-                                                                                   
-                                                                                   
 human decision theories to describe more accurate route choice behaviors. In this paper, we
 review the NDP with various route choice models: the random utility model (RUM), Random
 Regret-Minimization (RRM) model, bounded rationality (BR), cumulative prospect theory
@@ -1167,6 +1183,8 @@ advertising dollars through consumer segment-specific targeting, particularly wh
 products. That task becomes especially important in markets with distinct consumer segments &#8211;
 the early market and the main market &#8211; that affect each other&#8217;s adoption behavior. In this
 study, in contrast to prior normative studies that assume a single-segment market structure, we
+                                                                                   
+                                                                                   
 derive dynamic optimal advertising and segment-specific targeting strategies for firms facing a
 two-segment market structure. We allow for mutual demand interactions between the two segments,
 and for the diffusion parameters, advertising sensitivity, and cost of targeting to differ across
@@ -1184,8 +1202,6 @@ to transition the targeted advertising spending from the early to the main marke
 </li><li class="ev location energy">
 <p class="publication-paragraph" style="margin:0;">Sung Hoon Chung, Changhyun Kwon (2015). <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Multi-Period Planning for Electric-Car Charging Station Locations: a Case of Korean Expressways'>Multi-Period Planning for Electric-Car Charging Station Locations: a Case of Korean Expressways</a>. <span 
 class="ecbi-1000">European Journal of Operational Research</span>, 242(2),
-                                                                                   
-                                                                                   
 677&#8211;687. <span><a class='klink' data-type='doi' data-code='10.1016/j.ejor.2014.10.029' href='http://dx.doi.org/10.1016/j.ejor.2014.10.029'>doi</a></span> <span><a class='klink' data-type='pdf' data-code='chung2014.pdf' href='http://comet.kaist.ac.kr/papers/chung2014.pdf'>pdf</a></span>
 <span><a class='klink' data-type='github' data-code='STOM-Group/KoreanExpressway' href='https://github.com/STOM-Group/KoreanExpressway'>github</a></span> <span class='article_keywords' style='display:none;'>flow-refueling location; electric vehicles; multi-period planning; Korean Expressways</span> <a id='chung2014' class='abstract_button' href="javascript:toggle('chung2014')">abstract</a></p><div id='chung2014div' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">One of the most critical barriers to widespread adoption of electric cars is the lack of charging station
@@ -1229,6 +1245,8 @@ simulation tests with the changes of freight transportation costs and patterns f
 class="ecbi-1000">Annals of Operations Research</span>, 222(1),
 361&#8211;387. <span><a class='klink' data-type='doi' data-code='10.1007/s10479-012-1285-0' href='http://dx.doi.org/10.1007/s10479-012-1285-0'>doi</a></span> <span><a class='klink' data-type='pdf' data-code='kang2013aor.pdf' href='http://comet.kaist.ac.kr/papers/kang2013aor.pdf'>pdf</a></span>
 <span><a class='klink' data-type='github' data-code='STOM-Group/Hazmat-Network-Data' href='https://github.com/STOM-Group/Hazmat-Network-Data'>github</a></span> <span class='article_keywords' style='display:none;'>hazardous materials transportation; value-at-risk; social risk mitigation</span> <a id='kang2011a' class='abstract_button' href="javascript:toggle('kang2011a')">abstract</a></p><div id='kang2011adiv' class='abstractbg' style="display:none;padding-top:0.75em;">
+                                                                                   
+                                                                                   
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">This paper introduces a Value-at-Risk (VaR) model to support route choices in hazmat transportation
 under a specified risk confidence level. It establishes several properties of the model and proposes an exact
 solution procedure for single trips. Through a case study in the Albany, NY region, different routes
@@ -1247,8 +1265,6 @@ problem instances. </p></div>
 </li><li class="hazmat equity">
 <p class="publication-paragraph" style="margin:0;">Yingying Kang, Rajan Batta, Changhyun Kwon (2014). <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Generalized Route Planning Model for Hazardous Material Transportation with VaR and Equity Considerations'>Generalized Route Planning Model for Hazardous Material Transportation with VaR and Equity Considerations</a>. <span 
 class="ecbi-1000">Computers &amp; Operations Research</span>, 43,
-                                                                                   
-                                                                                   
 237&#8211;247. <span><a class='klink' data-type='doi' data-code='10.1016/j.cor.2013.09.015' href='http://dx.doi.org/10.1016/j.cor.2013.09.015'>doi</a></span> <span><a class='klink' data-type='pdf' data-code='kang2011b.pdf' href='http://comet.kaist.ac.kr/papers/kang2011b.pdf'>pdf</a></span>
 <span><a class='klink' data-type='github' data-code='STOM-Group/Hazmat-Network-Data' href='https://github.com/STOM-Group/Hazmat-Network-Data'>github</a></span> <span class='article_keywords' style='display:none;'>Value-at-Risk; multi-trip hazmat transportation; social risk mitigation; risk equity; dissimilar path</span> <a id='kang2011b' class='abstract_button' href="javascript:toggle('kang2011b')">abstract</a></p><div id='kang2011bdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Recently, the Value-at-Risk (VaR) framework was introduced for the routing problem of a single hazmat
@@ -1287,6 +1303,8 @@ experiments illustrate changes in pricing and contract allocation based on publi
 </li><li class="hazmat robust routing network-design">
 <p class="publication-paragraph" style="margin:0;">Iakovos Toumazis, Changhyun Kwon (2013). <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Routing Hazardous Materials on Time-Dependent Networks using Conditional Value-at-Risk'>Routing Hazardous Materials on Time-Dependent Networks using Conditional Value-at-Risk</a>. <span 
 class="ecbi-1000">Transportation Research Part C: Emerging Technologies</span>,
+                                                                                   
+                                                                                   
 37, 73&#8211;92. <span><a class='klink' data-type='doi' data-code='10.1016/j.trc.2013.09.006' href='http://dx.doi.org/10.1016/j.trc.2013.09.006'>doi</a></span> <span><a class='klink' data-type='pdf' data-code='toumazis2013trc.pdf' href='http://comet.kaist.ac.kr/papers/toumazis2013trc.pdf'>pdf</a></span>
 <span><a class='klink' data-type='github' data-code='STOM-Group/Hazmat-Network-Data' href='https://github.com/STOM-Group/Hazmat-Network-Data'>github</a></span> <span class='article_keywords' style='display:none;'>dynamic shortest path; time-dependent network; conditional value-at-risk; hazardous materials transportation</span> <a id='toumazis2013trc' class='abstract_button' href="javascript:toggle('toumazis2013trc')">abstract</a></p><div id='toumazis2013trcdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">We propose a new method for mitigating risk in routing hazardous materials (hazmat), based on the
@@ -1304,8 +1322,6 @@ class="ecbi-1000">Naval Research Logistics</span>, 60(5),
 <span><a class='klink' data-type='github' data-code='chkwon/RobustShortestPath.jl' href='https://github.com/chkwon/RobustShortestPath.jl'>github</a></span> <span class='article_keywords' style='display:none;'>robust shortest path; budgeted uncertainty; hazardous materials transportation</span> <a id='kwon2013nrl' class='abstract_button' href="javascript:toggle('kwon2013nrl')">abstract</a></p><div id='kwon2013nrldiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">We consider a robust shortest path problem when the cost coefficient is the product of two uncertain
 factors. We first show that the robust problem can be solved in polynomial time by a dual variable
-                                                                                   
-                                                                                   
 enumeration with shortest path problems as subproblems. We also propose a path enumeration approach
 using a <span 
 class="cmmi-10">K</span>-shortest paths finding algorithm that may be efficient in many real cases. An application in
@@ -1346,6 +1362,8 @@ class="ecbi-1000">on Engineering Management</span>, 59(2), 240&#8211;249. <span>
 pricing for firms in monopoly or oligopoly markets. We introduce a state-space model for this revenue
 management problem, which incorporates game-theoretic demand dynamics and nonparametric techniques
 for estimating the evolution of underlying state variables. Under this framework, stringent model
+                                                                                   
+                                                                                   
 assumptions are removed. We develop a new demand learning algorithm using Markov chain Monte Carlo
 methods to estimate model parameters, unobserved state variables, and functional coefficients in the
 nonparametric part. Based on these estimates, future price sensitivities can be predicted, and the optimal
@@ -1363,8 +1381,6 @@ class="ecbi-1000">Networks and Spatial Economics</span>,
 transportation. We aim to simultaneously control both regular and hazmat vehicles to reduce the risk. In
 our model, we incorporate a new risk measure to consider duration-population-frequency of hazmat
 exposure. We first formulate the model as a Mathematical Program with Equilibrium Constraints (MPEC).
-                                                                                   
-                                                                                   
 Then we decompose the MPEC formulation into first-stage and second-stage problems. Separate methods
 are developed to solve each stage. A numerical example is provided and possible extensions are
 discussed.</p></div>
@@ -1403,6 +1419,8 @@ show that the DAE system for network loading based on the link delay model (LDM)
 et al. (1993) may be approximated by a system of ordinary differential equations (ODEs).
 That system of ODEs, as we demonstrate, may be efficiently solved using traditional numerical
 methods for such problems. To compute an actual dynamic user equilibrium, we introduce a
+                                                                                   
+                                                                                   
 continuous time fixed-point algorithm and prove its convergence for effective path delay operators
 that allow a limited type of nonmonotone path delay. We show that our DUE algorithm is
 compatible with network loading based on the LDM and the cell transmission model (CTM) due
@@ -1420,8 +1438,6 @@ and cost-per-click (CPC) are the two most popular. The CPC fee is proportional t
 suggest a hybrid pricing scheme: advertisers pay the minimum of CPM and CPC fees by purchasing an
 option from publishers. To determine the option price, we consider a Nash bargaining game for
 negotiation between an advertiser and a publisher and provide the solution. Further, we show that
-                                                                                   
-                                                                                   
 such option contracts will help the advertiser avoid high cost and the publisher generate more
 revenue. The option contract will also improve the contract feasibility, compared to CPM and
 CPC.</p></div>
@@ -1461,6 +1477,8 @@ solve the problem, we use the gradient projection method, with discretizations b
 space. We tested the algorithm and compared with the projective successive over-relaxation
 method.</p></div>
 </li><li class="">
+                                                                                   
+                                                                                   
 <p class="publication-paragraph" style="margin:0;">Terry L. Friesz, Changhyun Kwon (2008). <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Supply Chain Design in Perfect Competition'>Supply Chain Design in Perfect Competition</a>. <span 
 class="ecbi-1000">International Journal of Services Operations</span>
 <span 
@@ -1482,8 +1500,6 @@ class="ecbi-1000">series since 1959</span>, R. E. Allsop, M. G. H. Bell and B. G
 <span><a class='klink' data-type='pdf' data-code='friesz2007isttt.pdf' href='http://comet.kaist.ac.kr/papers/friesz2007isttt.pdf'>pdf</a></span> <a id='friesz2007isttt' class='abstract_button' href="javascript:toggle('friesz2007isttt')">abstract</a></p><div id='friesz2007istttdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">In this paper we present a theory of dynamic congestion pricing for the day-to-day as well as the
 within-day time scales. The equilibrium design problem emphasized herein takes the form of an MPEC,
-                                                                                   
-                                                                                   
 which we call the Dynamic Optimal Toll Problem with Equilibrium Constraints, or DOTPEC. The
 DOPTEC formulation we employ recalls an important earlier result that allows the equilibrium design
 problem to be stated as a single level problem, a result which is surprisingly little known. The
@@ -1520,6 +1536,8 @@ class="ecbi-1000">The Fourteenth International Conference on Learning Representa
 Euclidean data but also from node-based architectures incapable of handling the node-and-edge-based
 features with correlated asymmetric cost matrices, such as those for real-world distance and duration. We
 introduce RRNCO, a novel architecture specifically designed to address these complexities. RRNCO&#8217;s
+                                                                                   
+                                                                                   
 novelty lies in two key innovations. First, its Adaptive Node Embedding (ANE) efficiently fuses spatial
 coordinates with real-world distance features using a learned contextual gating mechanism. Second, its
 Neural Adaptive Bias (NAB) is the first mechanism to jointly model asymmetric distance, duration, and
@@ -1537,8 +1555,6 @@ class="ecbi-1000">Proceedings of the AAAI Conference on Artificial Intelligence,
 <span><a class='klink' data-type='arXiv' data-code='2505.05119' href='https://arxiv.org/abs/2505.05119'>arXiv</a></span> <a id='hua_uspr' class='abstract_button' href="javascript:toggle('hua_uspr')">abstract</a></p><div id='hua_usprdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">The Profiled Vehicle Routing Problem (PVRP) extends the classical VRP by incorporating
 vehicle-client-specific preferences and constraints, reflecting real-world requirements such as zone
-                                                                                   
-                                                                                   
 restrictions and service-level preferences. While recent reinforcement-learning solvers have shown promising
 performance, they require retraining for each new profile distribution, suffer from poor representation
 ability, and struggle to generalize to out-of-distribution instances. In this paper, we address these
@@ -1578,6 +1594,8 @@ number of possible agents, and hard-to-optimize objective functions. This paper 
 (Parallel AutoRegressive Combinatorial Optimization), a novel approach that learns fast surrogate solvers
 for multi-agent combinatorial problems with reinforcement learning by employing parallel autoregressive
 decoding. We propose a model with a Multiple Pointer Mechanism to efficiently decode multiple
+                                                                                   
+                                                                                   
 decisions simultaneously by different agents, enhanced by a Priority-based Conflict Handling
 scheme. Moreover, we design specialized Communication Layers that enable effective agent
 collaboration, thus enriching decision-making. We evaluate PARCO in representative multi-agent
@@ -1596,8 +1614,6 @@ class="ecbi-1000">KDD &#8217;25: Proceedings of</span>
 class="ecbi-1000">the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</span>,
 V.2, 5278&#8211;5289. <span><a class='klink' data-type='arXiv' data-code='2306.17100' href='https://arxiv.org/abs/2306.17100'>arXiv</a></span> <span><a class='klink' data-type='doi' data-code='10.1145/3711896.3737433' href='http://dx.doi.org/10.1145/3711896.3737433'>doi</a></span>
 <span><a class='klink' data-type='github' data-code='ai4co/rl4co' href='https://github.com/ai4co/rl4co'>github</a></span> <a id='berto_rl4co' class='abstract_button' href="javascript:toggle('berto_rl4co')">abstract</a></p><div id='berto_rl4codiv' class='abstractbg' style="display:none;padding-top:0.75em;">
-                                                                                   
-                                                                                   
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">Deep reinforcement learning (RL) has recently shown significant benefits in solving combinatorial
 optimization (CO) problems, reducing reliance on domain expertise, and improving computational
 efficiency. However, the field lacks a unified benchmark for easy development and standardized comparison
@@ -1639,6 +1655,8 @@ class="ecbi-1000">Multiagent Systems, 1015&#8211;1024 </span><span><a class='kli
 <p class="abstract-paragraph" style="margin:0 0 0.75em;text-indent:0;">The profiled vehicle routing problem (PVRP) is a generalization of the heterogeneous capacitated vehicle
 routing problem (HCVRP) in which the objective is to optimize the routes of vehicles to serve client
 demands subject to different vehicle profiles, with each having a preference or constraint on a per-client
+                                                                                   
+                                                                                   
 basis. While existing learning methods have shown promise for solving the HCVRP in real time, no
 learning method exists to solve the more practical and challenging PVRP. In this paper, we
 propose a Collaborative Attention Model with Profiles (CAMP), a novel approach that learns
@@ -1656,8 +1674,6 @@ computational efficiency. We make our code openly available at https://github.co
 </li><li class="routing 2024 conference">
 <p class="publication-paragraph" style="margin:0;">Sobhanan, A., S. Mahmoudinazlou, H. Charkhgard, C. Kwon. (2024) <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet'>A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet</a>. <span 
 class="ecbi-1000">Proceedings of the IISE Annual</span>
-                                                                                   
-                                                                                   
 <span 
 class="ecbi-1000">Conference &amp; Expo 2024</span>, 6pages. (Finalist for the 2024 IISE OR Track Best Paper Award)
 <span><a class='klink' data-type='pdf' data-code='sobhanan_branch.pdf' href='http://comet.kaist.ac.kr/papers/sobhanan_branch.pdf'>pdf</a></span> <a id='sobhanan2024branch' class='abstract_button' href="javascript:toggle('sobhanan2024branch')">abstract</a></p><div id='sobhanan2024branchdiv' class='abstractbg' style="display:none;padding-top:0.75em;">
@@ -1696,6 +1712,8 @@ effectiveness in solving large and practical problems. We also confirm that Sche
 effectively solve practical mTSP variants, which include limited observation and online mTSP.
 </p></div>
 </li><li class="hazmat routing 2011 conference">
+                                                                                   
+                                                                                   
 <p class="publication-paragraph" style="margin:0;">C. Kwon. (2011) <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Conditional Value-at-Risk Model for Hazardous Materials Transportation'>Conditional Value-at-Risk Model for Hazardous Materials Transportation</a>, in <span 
 class="ecbi-1000">Proceedings of the 2011 Winter Simulation Conference</span>, S. Jain, R. R. Creasey, J.
 Himmelspach, K. P. White, and M. Fu, eds. pp. 1708-1714 <span><a class='klink' data-type='doi' data-code='10.1109/WSC.2011.6147886' href='http://dx.doi.org/10.1109/WSC.2011.6147886'>doi</a></span>
@@ -1716,8 +1734,6 @@ class="ecbi-1000">Multi-Conference of Engineers and Computer Scientists 2010 Vol
 </p></li><li class="equilibrium 2008 conference">
 <p class="publication-paragraph" style="margin:0;">Friesz, T. L., M. A. Rigdon and C. Kwon. (2008) <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=A New Gradient Projection Algorithm for the Dynamic User Equilibrium Problem'>A New Gradient Projection Algorithm for the Dynamic User Equilibrium Problem</a>. <span 
 class="ecbi-1000">International Symposium on Dynamic Traffic</span>
-                                                                                   
-                                                                                   
 <span 
 class="ecbi-1000">Assignment 2008</span>, 9 pages.
 </p></li><li class="equilibrium 2007 conference">
@@ -1769,6 +1785,8 @@ Immers), Edward Elgar Publishing. <span><a class='klink' data-type='pdf' data-co
 class="ecbi-1000">Complexity and Spatial Networks:</span>
 <span 
 class="ecbi-1000">In Search of Simplicity </span>(Eds.: Aura Reggiani and Roberto Patuelli), Springer-Verlag.
+                                                                                   
+                                                                                   
 <span><a class='klink' data-type='doi' data-code='10.1007/978-3-642-01554-0' href='http://dx.doi.org/10.1007/978-3-642-01554-0'>doi</a></span> <span><a class='klink' data-type='pdf' data-code='friesz2009ipl.pdf' href='http://comet.kaist.ac.kr/papers/friesz2009ipl.pdf'>pdf</a></span>
 </p></li><li class="equilibrium 2007">
 <p class="publication-paragraph" style="margin:0;">Friesz, T. L., C. Kwon and D. Bernstein (2007), <a class='article_title' href='https://scholar.google.com/scholar?hl=en&q=Analytical Dynamic Traffic Assignment Models'>Analytical Dynamic Traffic Assignment Models</a> in <span 
@@ -1784,8 +1802,6 @@ Hensher and K. J. Button), Elsevier. <span><a class='klink' data-type='pdf' data
  id="x1-6000"></a>Edited Book</h4>
 <ol reversed="reversed" class="myarticles">
 <li class="hazmat 2013">
-                                                                                   
-                                                                                   
 <p class="publication-paragraph" style="margin:0;">Batta, R. and C. Kwon (2013), <span 
 class="ecbi-1000">Handbook of OR/MS Models in Hazardous Materials</span>
 <span 
